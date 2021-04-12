@@ -217,6 +217,10 @@ class User:
     def __init__(self, id_):
         self.id = id_
         self.permission_level = const.Permission.USER.value
+        self.points = 0
+
+    def update_points(self, num_points):
+        self.points += num_points
 
 
 class Config:

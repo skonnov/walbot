@@ -33,6 +33,7 @@ class WalBot(discord.Client):
         self.loop.create_task(self.config_autosave())
         self.loop.create_task(self.process_reminders())
         self.loop.create_task(self._precompile())
+        # self.loop.add_points_online_users(self.add_points_for_online_users())
         bc.config = self.config
         bc.commands = self.config.commands
         bc.background_loop = self.loop
@@ -208,6 +209,22 @@ class WalBot(discord.Client):
     async def on_raw_message_delete(self, payload):
         log.info(f"<{payload.message_id}> (delete)")
 
+    async def add_points_for_online_users(self):
+        await self.wait_until_ready()
+        while not self.is_closed():
+            log.debug3("Adding points for online users processing iteration has started")
+            now = datetime.datetime.now().replace(second=0).strftime(const.REMINDER_TIME_FORMAT)
+# for users:
+#    if user.status.online or user.status.dnd:
+#        if user.was_online:
+#            if now - user.time == const.FREQUENCY_POINTS_FOR_ONLINE_USERS:
+#                user.update_points(100)
+#                user.time = now
+#        else:
+#            user.was_online = true
+#            user.time = now
+            log.debug3("Adding points for online users processing iteration has finished")
+            await asyncio.sleep(const.POINTS_FOR_ONLINE_USERS_POLLING_INTERVAL)
 
 def parse_bot_cache():
     pid = None

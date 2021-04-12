@@ -1,0 +1,2556 @@
+[2020-07-05 17:50:54,570] [INFO] Logging system is set up
+[2020-07-05 17:54:41,387] [INFO] Logging system is set up
+[2020-07-05 17:54:41,389] [INFO] Using fast YAML Loader
+[2020-07-05 17:54:41,389] [INFO] Using fast YAML Dumper
+[2020-07-05 17:56:44,497] [INFO] Logging system is set up
+[2020-07-05 17:56:44,513] [INFO] Using fast YAML Loader
+[2020-07-05 17:56:44,514] [INFO] Using fast YAML Dumper
+[2020-07-05 17:56:44,663] [INFO] Markov model has passed all checks
+[2020-07-05 18:07:22,228] [INFO] Saving of config is started
+[2020-07-05 18:07:22,267] [INFO] Saving of config is finished
+[2020-07-05 18:07:22,268] [INFO] Saving of secret config is started
+[2020-07-05 18:07:22,625] [INFO] Saving of secret config is finished
+[2020-07-05 18:07:22,628] [INFO] Saving of Markov module data is started
+[2020-07-05 18:07:22,634] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-07-05 18:07:22,648] [INFO] Saving of Markov module data is finished
+[2020-07-05 18:17:22,642] [INFO] Saving of config is started
+[2020-07-05 18:17:22,682] [INFO] Saving of config is finished
+[2020-07-05 18:17:22,684] [INFO] Saving of secret config is started
+[2020-07-05 18:17:22,687] [INFO] Saving of secret config is finished
+[2020-07-05 18:17:22,690] [INFO] Saving of Markov module data is started
+[2020-07-05 18:17:22,696] [INFO] Saving of Markov module data is finished
+[2020-07-05 18:17:46,810] [INFO] <729355350242754601> WalBot#6054 -> 
+[2020-07-05 18:18:04,437] [INFO] <729355424171819170> sergeykrokodil#5538 -> <@!729351394926264390>
+[2020-07-05 18:18:04,437] [ERROR] on_message failed
+Traceback (most recent call last):
+  File "D:\Works\walbot\src\bot.py", line 91, in on_message
+    if self.config.guilds[message.channel.guild.id].is_whitelisted:
+KeyError: 684827573535899767
+[2020-07-05 18:18:06,341] [INFO] <729355432161706036> sergeykrokodil#5538 -> fdgoijsd
+[2020-07-05 18:18:06,342] [ERROR] on_message failed
+Traceback (most recent call last):
+  File "D:\Works\walbot\src\bot.py", line 91, in on_message
+    if self.config.guilds[message.channel.guild.id].is_whitelisted:
+KeyError: 684827573535899767
+[2020-07-05 18:18:10,184] [INFO] <729355448087478313> sergeykrokodil#5538 -> <@&729355350066724864>
+[2020-07-05 18:18:10,185] [ERROR] on_message failed
+Traceback (most recent call last):
+  File "D:\Works\walbot\src\bot.py", line 91, in on_message
+    if self.config.guilds[message.channel.guild.id].is_whitelisted:
+KeyError: 684827573535899767
+[2020-07-05 18:18:15,820] [INFO] <729355471844016199> sergeykrokodil#5538 -> hmmmmm
+[2020-07-05 18:18:15,821] [ERROR] on_message failed
+Traceback (most recent call last):
+  File "D:\Works\walbot\src\bot.py", line 91, in on_message
+    if self.config.guilds[message.channel.guild.id].is_whitelisted:
+KeyError: 684827573535899767
+[2020-07-05 18:18:51,877] [INFO] <729355622721650781> sergeykrokodil#5538 -> hmmmmmmmmmmmm
+[2020-07-05 18:18:51,878] [ERROR] on_message failed
+Traceback (most recent call last):
+  File "D:\Works\walbot\src\bot.py", line 91, in on_message
+    if self.config.guilds[message.channel.guild.id].is_whitelisted:
+KeyError: 684827573535899767
+[2020-07-05 18:20:49,766] [INFO] <729356117603385344> sergeykrokodil#5538 -> lol
+[2020-07-05 18:20:56,299] [ERROR] on_message failed
+Traceback (most recent call last):
+  File "D:\Works\walbot\src\bot.py", line 91, in on_message
+    if self.config.guilds[message.channel.guild.id].is_whitelisted:
+KeyError: 684827573535899767
+[2020-07-05 18:21:02,168] [INFO] <729356169570943066> sergeykrokodil#5538 -> wtf
+[2020-07-05 18:21:02,170] [ERROR] on_message failed
+Traceback (most recent call last):
+  File "D:\Works\walbot\src\bot.py", line 91, in on_message
+    if self.config.guilds[message.channel.guild.id].is_whitelisted:
+KeyError: 684827573535899767
+[2020-07-05 18:22:20,503] [INFO] Logging system is set up
+[2020-07-05 18:22:20,524] [DEBUG] Bot is still running. Please, wait...
+[2020-07-05 18:22:21,033] [INFO] Bot is stopped!
+[2020-07-05 18:22:29,069] [INFO] Logging system is set up
+[2020-07-05 18:22:29,089] [INFO] Using fast YAML Loader
+[2020-07-05 18:22:29,090] [INFO] Using fast YAML Dumper
+[2020-07-05 18:22:29,362] [INFO] Markov model has passed all checks
+[2020-07-05 18:22:32,532] [INFO] Saving of config is started
+[2020-07-05 18:22:32,578] [INFO] Saving of config is finished
+[2020-07-05 18:22:32,579] [INFO] Saving of secret config is started
+[2020-07-05 18:22:32,584] [INFO] Saving of secret config is finished
+[2020-07-05 18:22:32,586] [INFO] Saving of Markov module data is started
+[2020-07-05 18:22:32,599] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-07-05 18:22:32,602] [INFO] Saving of Markov module data is finished
+[2020-07-05 18:22:41,317] [INFO] <729356585142583317> sergeykrokodil#5538 -> hmmm
+[2020-07-05 18:22:47,133] [INFO] <729356609695776879> sergeykrokodil#5538 -> hmmmmmm
+[2020-07-05 18:22:50,564] [INFO] <729356624288022558> sergeykrokodil#5538 -> <@!729351394926264390>
+[2020-07-05 18:23:56,354] [INFO] <729356900205985873> sergeykrokodil#5538 -> <@&729355350066724864>
+[2020-07-05 18:23:59,567] [INFO] <729356913690804224> sergeykrokodil#5538 -> !ping
+[2020-07-05 18:23:59,568] [DEBUG] Processing command: !ping
+[2020-07-05 18:23:59,953] [INFO] <729356915284377600> WalBot#6054 -> Pong! <@!373480978871484416>
+[2020-07-05 18:24:30,748] [INFO] <729357044242448447> sergeykrokodil#5538 -> <@!729351394926264390>
+[2020-07-05 18:24:32,535] [INFO] <729357051716829245> sergeykrokodil#5538 -> hsldgksd
+[2020-07-05 18:24:33,475] [INFO] <729357055483314228> sergeykrokodil#5538 -> dsdlfigh
+[2020-07-05 18:24:34,088] [INFO] <729357058192703650> sergeykrokodil#5538 -> dljbn
+[2020-07-05 18:24:36,261] [INFO] <729357067147542558> sergeykrokodil#5538 -> <@!729351394926264390>
+[2020-07-05 18:25:02,343] [INFO] <729357176870797322> sergeykrokodil#5538 -> <@!729351394926264390>
+[2020-07-05 18:25:05,196] [INFO] <729357188983816222> sergeykrokodil#5538 -> <@&729355350066724864>
+[2020-07-05 18:25:07,507] [INFO] <729357198324400210> sergeykrokodil#5538 -> <@!729351394926264390>
+[2020-07-05 18:26:05,922] [INFO] <729357443372417166> sergeykrokodil#5538 -> что такое
+[2020-07-05 18:26:08,804] [INFO] <729357455431303260> sergeykrokodil#5538 -> <@!729351394926264390> ?
+[2020-07-05 18:31:29,920] [INFO] <729358802469781556> sergeykrokodil#5538 -> выщаожицщуетрыщжпитцкщеитцщжшкицщфукитдуцалриощ
+[2020-07-05 18:32:12,236] [INFO] Logging system is set up
+[2020-07-05 18:32:12,246] [DEBUG] Bot is still running. Please, wait...
+[2020-07-05 18:32:12,753] [INFO] Bot is stopped!
+[2020-07-05 18:34:47,403] [INFO] Logging system is set up
+[2020-07-05 18:34:47,409] [INFO] Using fast YAML Loader
+[2020-07-05 18:34:47,409] [INFO] Using fast YAML Dumper
+[2020-07-05 18:34:47,505] [INFO] Markov model has passed all checks
+[2020-07-05 18:34:50,761] [INFO] Saving of config is started
+[2020-07-05 18:34:50,813] [INFO] Saving of config is finished
+[2020-07-05 18:34:50,814] [INFO] Saving of secret config is started
+[2020-07-05 18:34:50,819] [INFO] Saving of secret config is finished
+[2020-07-05 18:34:50,820] [INFO] Saving of Markov module data is started
+[2020-07-05 18:34:50,821] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-07-05 18:34:50,823] [INFO] Saving of Markov module data is finished
+[2020-07-05 18:34:55,011] [INFO] <729359662503428177> sergeykrokodil#5538 -> уп
+[2020-07-05 18:35:51,584] [INFO] Logging system is set up
+[2020-07-05 18:35:51,616] [DEBUG] Bot is still running. Please, wait...
+[2020-07-05 18:35:52,124] [INFO] Bot is stopped!
+[2020-07-05 18:37:15,221] [INFO] Logging system is set up
+[2020-07-05 18:37:15,241] [INFO] Using fast YAML Loader
+[2020-07-05 18:37:15,242] [INFO] Using fast YAML Dumper
+[2020-07-05 18:37:15,484] [INFO] Markov model has passed all checks
+[2020-07-05 18:37:19,474] [INFO] Saving of config is started
+[2020-07-05 18:37:19,514] [INFO] Saving of config is finished
+[2020-07-05 18:37:19,515] [INFO] Saving of secret config is started
+[2020-07-05 18:37:19,517] [INFO] Saving of secret config is finished
+[2020-07-05 18:37:19,520] [INFO] Saving of Markov module data is started
+[2020-07-05 18:37:19,525] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-07-05 18:37:19,528] [INFO] Saving of Markov module data is finished
+[2020-07-05 18:37:22,171] [INFO] <729360280059904112> sergeykrokodil#5538 -> апвра
+[2020-07-05 18:40:11,573] [INFO] Logging system is set up
+[2020-07-05 18:40:11,597] [DEBUG] Bot is still running. Please, wait...
+[2020-07-05 18:40:12,104] [INFO] Bot is stopped!
+[2020-07-05 18:41:19,962] [INFO] Logging system is set up
+[2020-07-05 18:41:19,976] [INFO] Using fast YAML Loader
+[2020-07-05 18:41:19,976] [INFO] Using fast YAML Dumper
+[2020-07-05 18:41:20,266] [INFO] Markov model has passed all checks
+[2020-07-05 18:41:23,470] [INFO] Saving of config is started
+[2020-07-05 18:41:23,527] [INFO] Saving of config is finished
+[2020-07-05 18:41:23,528] [INFO] Saving of secret config is started
+[2020-07-05 18:41:23,532] [INFO] Saving of secret config is finished
+[2020-07-05 18:41:23,534] [INFO] Saving of Markov module data is started
+[2020-07-05 18:41:23,538] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-07-05 18:41:23,539] [INFO] Saving of Markov module data is finished
+[2020-07-05 18:41:29,305] [INFO] <729361316648845393> sergeykrokodil#5538 -> lsdffg
+[2020-07-05 18:41:52,443] [INFO] Logging system is set up
+[2020-07-05 18:41:52,482] [DEBUG] Bot is still running. Please, wait...
+[2020-07-05 18:41:52,990] [INFO] Bot is stopped!
+[2020-07-05 18:42:30,559] [INFO] Logging system is set up
+[2020-07-05 18:42:30,594] [INFO] Using fast YAML Loader
+[2020-07-05 18:42:30,596] [INFO] Using fast YAML Dumper
+[2020-07-05 18:42:31,275] [INFO] Markov model has passed all checks
+[2020-07-05 18:42:34,536] [INFO] Saving of config is started
+[2020-07-05 18:42:34,599] [INFO] Saving of config is finished
+[2020-07-05 18:42:34,601] [INFO] Saving of secret config is started
+[2020-07-05 18:42:34,606] [INFO] Saving of secret config is finished
+[2020-07-05 18:42:34,611] [INFO] Saving of Markov module data is started
+[2020-07-05 18:42:34,619] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-07-05 18:42:34,623] [INFO] Saving of Markov module data is finished
+[2020-07-05 18:42:41,930] [INFO] <729361621255716864> sergeykrokodil#5538 -> dflkbgjlgdhslkgfhlksgdjklksfdghjlsldkfbhkajeltb
+[2020-07-05 18:42:57,366] [INFO] Bot is disconnected!
+[2020-07-05 18:42:57,367] [INFO] Saving of config is started
+[2020-07-05 18:42:57,421] [INFO] Saving of config is finished
+[2020-07-05 18:42:57,422] [INFO] Saving of secret config is started
+[2020-07-05 18:42:57,425] [INFO] Saving of secret config is finished
+[2020-07-05 18:42:57,427] [INFO] Saving of Markov module data is started
+[2020-07-05 18:42:57,434] [INFO] Saving of Markov module data is finished
+[2020-07-05 18:42:57,435] [INFO] Saving of Markov is waited
+[2020-07-05 18:45:18,552] [INFO] Logging system is set up
+[2020-07-05 18:45:18,561] [INFO] Using fast YAML Loader
+[2020-07-05 18:45:18,562] [INFO] Using fast YAML Dumper
+[2020-07-05 18:45:19,107] [INFO] Markov model has passed all checks
+[2020-07-05 18:45:23,481] [INFO] Saving of config is started
+[2020-07-05 18:45:23,571] [INFO] Saving of config is finished
+[2020-07-05 18:45:23,573] [INFO] Saving of secret config is started
+[2020-07-05 18:45:23,578] [INFO] Saving of secret config is finished
+[2020-07-05 18:45:23,587] [INFO] Saving of Markov module data is started
+[2020-07-05 18:45:23,594] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-07-05 18:45:23,598] [INFO] Saving of Markov module data is finished
+[2020-07-05 18:45:26,351] [INFO] <729362310807683185> sergeykrokodil#5538 -> !ping
+[2020-07-05 18:45:26,358] [DEBUG] Processing command: !ping
+[2020-07-05 18:45:26,642] [INFO] <729362311617445899> WalBot#6054 -> Pong! <@!373480978871484416>
+[2020-07-05 18:45:47,854] [INFO] <729362400683491350> sergeykrokodil#5538 -> !config responses enable
+[2020-07-05 18:45:47,863] [DEBUG] Processing command: !config responses enable
+[2020-07-05 18:45:48,280] [INFO] <729362402591637504> WalBot#6054 -> Bot responses on mentioning are successfully enabled for this channel
+[2020-07-05 18:45:57,868] [INFO] <729362442886316064> sergeykrokodil#5538 -> !config markovlog enable
+[2020-07-05 18:45:57,875] [DEBUG] Processing command: !config markovlog enable
+[2020-07-05 18:45:58,095] [INFO] <729362444039749702> WalBot#6054 -> Adding messages to Markov model is successfully enabled for this channel
+[2020-07-05 18:46:01,172] [INFO] <729362456895291443> sergeykrokodil#5538 -> <@!729351394926264390>
+[2020-07-05 18:46:01,424] [INFO] <729362457612779541> WalBot#6054 -> <@!373480978871484416> <Markov database is empty>
+[2020-07-05 18:46:11,841] [INFO] <729362501640257547> sergeykrokodil#5538 -> что
+[2020-07-05 18:46:15,415] [INFO] <729362516517322874> sergeykrokodil#5538 -> <@!729351394926264390>
+[2020-07-05 18:46:15,621] [INFO] <729362517574418542> WalBot#6054 -> <@!373480978871484416> что
+[2020-07-05 18:46:29,467] [INFO] <729362575459876912> sergeykrokodil#5538 -> что ни что
+[2020-07-05 18:46:32,546] [INFO] <729362588072149062> sergeykrokodil#5538 -> <@!729351394926264390>
+[2020-07-05 18:46:33,445] [INFO] <729362591570460744> WalBot#6054 -> <@!373480978871484416> что ни что ни что
+[2020-07-05 18:46:38,869] [INFO] <729362615091986453> sergeykrokodil#5538 -> <@!729351394926264390>
+[2020-07-05 18:46:39,131] [INFO] <729362616157339658> WalBot#6054 -> <@!373480978871484416> что
+[2020-07-05 18:46:42,579] [INFO] <729362630346670101> sergeykrokodil#5538 -> <@!729351394926264390>
+[2020-07-05 18:46:42,919] [INFO] <729362631504298035> WalBot#6054 -> <@!373480978871484416> что
+[2020-07-05 18:46:57,189] [INFO] <729362691768057899> sergeykrokodil#5538 -> а а а а а а а а а а а а а а а а а а а а
+[2020-07-05 18:47:02,106] [INFO] <729362712353832961> sergeykrokodil#5538 -> <@!729351394926264390>
+[2020-07-05 18:47:02,435] [INFO] <729362713905594418> WalBot#6054 -> <@!373480978871484416> что
+[2020-07-05 18:47:08,237] [INFO] <729362737620320357> sergeykrokodil#5538 -> <@!729351394926264390>
+[2020-07-05 18:47:08,689] [INFO] <729362739902021713> WalBot#6054 -> <@!373480978871484416> а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а
+[2020-07-05 18:47:12,059] [INFO] <729362753873248317> sergeykrokodil#5538 -> <@!729351394926264390>
+[2020-07-05 18:47:12,458] [INFO] <729362755878125618> WalBot#6054 -> <@!373480978871484416> а а а а а а а а а а
+[2020-07-05 18:47:14,612] [INFO] <729362764992348301> sergeykrokodil#5538 -> <@!729351394926264390>
+[2020-07-05 18:47:14,877] [INFO] <729362765747191840> WalBot#6054 -> <@!373480978871484416> что ни что
+[2020-07-05 18:55:33,605] [INFO] Bot is disconnected!
+[2020-07-05 18:55:33,605] [INFO] Saving of config is started
+[2020-07-05 18:55:33,626] [INFO] Saving of config is finished
+[2020-07-05 18:55:33,626] [INFO] Saving of secret config is started
+[2020-07-05 18:55:33,627] [INFO] Saving of secret config is finished
+[2020-07-05 18:55:33,627] [INFO] Saving of Markov module data is started
+[2020-07-05 18:55:33,629] [INFO] Saving of Markov module data is finished
+[2020-07-05 18:55:33,630] [INFO] Saving of Markov is waited
+[2020-07-05 18:55:44,059] [INFO] Logging system is set up
+[2020-07-05 18:55:44,060] [INFO] Using fast YAML Loader
+[2020-07-05 18:55:44,061] [INFO] Using fast YAML Dumper
+[2020-07-05 18:55:44,164] [INFO] Markov model has passed all checks
+[2020-07-05 18:55:48,522] [INFO] Saving of config is started
+[2020-07-05 18:55:48,541] [INFO] Saving of config is finished
+[2020-07-05 18:55:48,541] [INFO] Saving of secret config is started
+[2020-07-05 18:55:48,542] [INFO] Saving of secret config is finished
+[2020-07-05 18:55:48,542] [INFO] Saving of Markov module data is started
+[2020-07-05 18:55:48,543] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-07-05 18:55:48,547] [INFO] Saving of Markov module data is finished
+[2020-07-05 18:55:59,460] [INFO] Logging system is set up
+[2020-07-05 19:03:27,948] [INFO] Logging system is set up
+[2020-07-05 19:03:27,955] [INFO] Using fast YAML Loader
+[2020-07-05 19:03:27,955] [INFO] Using fast YAML Dumper
+[2020-07-05 19:03:28,076] [INFO] Markov model has passed all checks
+[2020-07-05 19:03:31,174] [INFO] Saving of config is started
+[2020-07-05 19:03:31,193] [INFO] Saving of config is finished
+[2020-07-05 19:03:31,194] [INFO] Saving of secret config is started
+[2020-07-05 19:03:31,194] [INFO] Saving of secret config is finished
+[2020-07-05 19:03:31,195] [INFO] Saving of Markov module data is started
+[2020-07-05 19:03:31,196] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-07-05 19:03:31,198] [INFO] Saving of Markov module data is finished
+[2020-07-05 19:03:40,578] [INFO] Logging system is set up
+[2020-07-05 19:03:40,588] [DEBUG] Bot is still running. Please, wait...
+[2020-07-05 19:03:41,092] [INFO] Bot is stopped!
+[2020-07-05 19:04:45,417] [INFO] Logging system is set up
+[2020-07-05 19:04:45,424] [INFO] Using fast YAML Loader
+[2020-07-05 19:04:45,424] [INFO] Using fast YAML Dumper
+[2020-07-05 19:04:45,527] [INFO] Markov model has passed all checks
+[2020-07-05 19:04:48,593] [INFO] Saving of config is started
+[2020-07-05 19:04:48,610] [INFO] Saving of config is finished
+[2020-07-05 19:04:48,611] [INFO] Saving of secret config is started
+[2020-07-05 19:04:48,614] [INFO] Saving of secret config is finished
+[2020-07-05 19:04:48,616] [INFO] Saving of Markov module data is started
+[2020-07-05 19:04:48,620] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-07-05 19:04:48,621] [INFO] Saving of Markov module data is finished
+[2020-07-05 19:04:52,550] [INFO] Logging system is set up
+[2020-07-05 19:05:36,487] [INFO] Bot is disconnected!
+[2020-07-05 19:05:36,487] [INFO] Saving of config is started
+[2020-07-05 19:05:36,507] [INFO] Saving of config is finished
+[2020-07-05 19:05:36,508] [INFO] Saving of secret config is started
+[2020-07-05 19:05:36,511] [INFO] Saving of secret config is finished
+[2020-07-05 19:05:36,516] [INFO] Saving of Markov module data is started
+[2020-07-05 19:05:36,522] [INFO] Saving of Markov module data is finished
+[2020-07-05 19:05:36,523] [INFO] Saving of Markov is waited
+[2020-07-05 19:05:41,883] [INFO] Logging system is set up
+[2020-07-05 19:05:41,885] [INFO] Using fast YAML Loader
+[2020-07-05 19:05:41,885] [INFO] Using fast YAML Dumper
+[2020-07-05 19:05:41,987] [INFO] Markov model has passed all checks
+[2020-07-05 19:05:45,659] [INFO] Saving of config is started
+[2020-07-05 19:05:45,678] [INFO] Saving of config is finished
+[2020-07-05 19:05:45,680] [INFO] Saving of secret config is started
+[2020-07-05 19:05:45,683] [INFO] Saving of secret config is finished
+[2020-07-05 19:05:45,683] [INFO] Saving of Markov module data is started
+[2020-07-05 19:05:45,687] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-07-05 19:05:45,688] [INFO] Saving of Markov module data is finished
+[2020-07-05 19:05:49,411] [INFO] Logging system is set up
+[2020-07-05 19:13:41,244] [INFO] Logging system is set up
+[2020-07-05 19:13:41,258] [INFO] Using fast YAML Loader
+[2020-07-05 19:13:41,258] [INFO] Using fast YAML Dumper
+[2020-07-05 19:13:41,478] [INFO] Markov model has passed all checks
+[2020-07-05 19:13:45,409] [INFO] Saving of config is started
+[2020-07-05 19:13:45,428] [INFO] Saving of config is finished
+[2020-07-05 19:13:45,429] [INFO] Saving of secret config is started
+[2020-07-05 19:13:45,431] [INFO] Saving of secret config is finished
+[2020-07-05 19:13:45,434] [INFO] Saving of Markov module data is started
+[2020-07-05 19:13:45,435] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-07-05 19:13:45,436] [INFO] Saving of Markov module data is finished
+[2020-07-05 19:13:56,884] [INFO] Logging system is set up
+[2020-07-05 19:13:56,890] [DEBUG] Bot is still running. Please, wait...
+[2020-07-05 19:13:57,394] [INFO] Bot is stopped!
+[2020-07-05 19:15:08,649] [INFO] Logging system is set up
+[2020-07-05 19:15:08,656] [INFO] Using fast YAML Loader
+[2020-07-05 19:15:08,657] [INFO] Using fast YAML Dumper
+[2020-07-05 19:15:08,764] [INFO] Markov model has passed all checks
+[2020-07-05 19:15:11,741] [INFO] Saving of config is started
+[2020-07-05 19:15:11,760] [INFO] Saving of config is finished
+[2020-07-05 19:15:11,762] [INFO] Saving of secret config is started
+[2020-07-05 19:15:11,766] [INFO] Saving of secret config is finished
+[2020-07-05 19:15:11,769] [INFO] Saving of Markov module data is started
+[2020-07-05 19:15:11,771] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-07-05 19:15:11,772] [INFO] Saving of Markov module data is finished
+[2020-07-05 19:15:16,067] [INFO] Logging system is set up
+[2020-07-05 19:15:43,591] [INFO] Logging system is set up
+[2020-07-05 19:15:43,599] [INFO] Using fast YAML Loader
+[2020-07-05 19:15:43,600] [INFO] Using fast YAML Dumper
+[2020-07-05 19:15:43,701] [INFO] Markov model has passed all checks
+[2020-07-05 19:15:46,721] [INFO] Saving of config is started
+[2020-07-05 19:15:46,740] [INFO] Saving of config is finished
+[2020-07-05 19:15:46,740] [INFO] Saving of secret config is started
+[2020-07-05 19:15:46,742] [INFO] Saving of secret config is finished
+[2020-07-05 19:15:46,747] [INFO] Saving of Markov module data is started
+[2020-07-05 19:15:46,753] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-07-05 19:15:46,754] [INFO] Saving of Markov module data is finished
+[2020-07-05 19:15:51,689] [INFO] Logging system is set up
+[2020-07-05 19:21:43,085] [INFO] Logging system is set up
+[2020-07-05 19:21:43,093] [INFO] Using fast YAML Loader
+[2020-07-05 19:21:43,093] [INFO] Using fast YAML Dumper
+[2020-07-05 19:21:43,198] [INFO] Markov model has passed all checks
+[2020-07-05 19:21:48,047] [INFO] Saving of config is started
+[2020-07-05 19:21:48,066] [INFO] Saving of config is finished
+[2020-07-05 19:21:48,066] [INFO] Saving of secret config is started
+[2020-07-05 19:21:48,072] [INFO] Saving of secret config is finished
+[2020-07-05 19:21:48,073] [INFO] Saving of Markov module data is started
+[2020-07-05 19:21:48,076] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-07-05 19:21:48,077] [INFO] Saving of Markov module data is finished
+[2020-07-05 19:21:51,323] [INFO] Logging system is set up
+[2020-07-05 19:21:51,332] [DEBUG] Bot is still running. Please, wait...
+[2020-07-05 19:21:51,837] [INFO] Bot is stopped!
+[2020-07-05 19:22:32,893] [INFO] Logging system is set up
+[2020-07-05 19:22:32,900] [INFO] Using fast YAML Loader
+[2020-07-05 19:22:32,900] [INFO] Using fast YAML Dumper
+[2020-07-05 19:22:33,019] [INFO] Markov model has passed all checks
+[2020-07-05 19:23:33,847] [INFO] Logging system is set up
+[2020-07-05 19:23:33,855] [INFO] Using fast YAML Loader
+[2020-07-05 19:23:33,855] [INFO] Using fast YAML Dumper
+[2020-07-05 19:23:33,964] [INFO] Markov model has passed all checks
+[2020-07-05 19:23:38,135] [INFO] Saving of config is started
+[2020-07-05 19:23:38,155] [INFO] Saving of config is finished
+[2020-07-05 19:23:38,155] [INFO] Saving of secret config is started
+[2020-07-05 19:23:38,157] [INFO] Saving of secret config is finished
+[2020-07-05 19:23:38,160] [INFO] Saving of Markov module data is started
+[2020-07-05 19:23:38,161] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-07-05 19:23:38,163] [INFO] Saving of Markov module data is finished
+[2020-07-05 19:23:41,525] [INFO] Logging system is set up
+[2020-07-05 19:23:41,534] [DEBUG] Bot is still running. Please, wait...
+[2020-07-05 19:23:42,038] [INFO] Bot is stopped!
+[2020-07-05 19:24:54,017] [INFO] Logging system is set up
+[2020-07-05 19:24:54,025] [INFO] Using fast YAML Loader
+[2020-07-05 19:24:54,025] [INFO] Using fast YAML Dumper
+[2020-07-05 19:24:54,139] [INFO] Markov model has passed all checks
+[2020-07-05 19:24:57,576] [INFO] Saving of config is started
+[2020-07-05 19:24:57,595] [INFO] Saving of config is finished
+[2020-07-05 19:24:57,595] [INFO] Saving of secret config is started
+[2020-07-05 19:24:57,598] [INFO] Saving of secret config is finished
+[2020-07-05 19:24:57,601] [INFO] Saving of Markov module data is started
+[2020-07-05 19:24:57,602] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-07-05 19:24:57,604] [INFO] Saving of Markov module data is finished
+[2020-07-05 19:25:03,901] [INFO] Logging system is set up
+[2020-07-05 19:25:03,909] [DEBUG] Bot is still running. Please, wait...
+[2020-07-05 19:25:04,416] [INFO] Bot is stopped!
+[2020-07-05 19:32:04,963] [INFO] Logging system is set up
+[2020-07-05 19:32:04,970] [INFO] Using fast YAML Loader
+[2020-07-05 19:32:04,971] [INFO] Using fast YAML Dumper
+[2020-07-05 19:32:05,089] [INFO] Markov model has passed all checks
+[2020-07-05 19:32:08,132] [INFO] Saving of config is started
+[2020-07-05 19:32:08,151] [INFO] Saving of config is finished
+[2020-07-05 19:32:08,152] [INFO] Saving of secret config is started
+[2020-07-05 19:32:08,154] [INFO] Saving of secret config is finished
+[2020-07-05 19:32:08,157] [INFO] Saving of Markov module data is started
+[2020-07-05 19:32:08,158] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-07-05 19:32:08,160] [INFO] Saving of Markov module data is finished
+[2020-07-05 19:32:12,001] [INFO] Logging system is set up
+[2020-07-05 19:37:18,200] [INFO] Bot is disconnected!
+[2020-07-05 19:37:18,200] [INFO] Saving of config is started
+[2020-07-05 19:37:18,224] [INFO] Saving of config is finished
+[2020-07-05 19:37:18,225] [INFO] Saving of secret config is started
+[2020-07-05 19:37:18,227] [INFO] Saving of secret config is finished
+[2020-07-05 19:37:18,232] [INFO] Saving of Markov module data is started
+[2020-07-05 19:37:18,235] [INFO] Saving of Markov module data is finished
+[2020-07-05 19:37:18,235] [INFO] Saving of Markov is waited
+[2020-07-05 19:37:26,024] [INFO] Logging system is set up
+[2020-07-05 19:37:26,026] [INFO] Using fast YAML Loader
+[2020-07-05 19:37:26,026] [INFO] Using fast YAML Dumper
+[2020-07-05 19:37:26,180] [INFO] Markov model has passed all checks
+[2020-07-05 19:37:29,220] [INFO] Saving of config is started
+[2020-07-05 19:37:29,240] [INFO] Saving of config is finished
+[2020-07-05 19:37:29,241] [INFO] Saving of secret config is started
+[2020-07-05 19:37:29,243] [INFO] Saving of secret config is finished
+[2020-07-05 19:37:29,252] [INFO] Saving of Markov module data is started
+[2020-07-05 19:37:29,258] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-07-05 19:37:29,259] [INFO] Saving of Markov module data is finished
+[2020-07-05 19:37:36,786] [INFO] Logging system is set up
+[2020-07-05 19:37:52,764] [INFO] Logging system is set up
+[2020-07-05 19:43:52,420] [INFO] Logging system is set up
+[2020-07-05 19:43:52,427] [INFO] Using fast YAML Loader
+[2020-07-05 19:43:52,427] [INFO] Using fast YAML Dumper
+[2020-07-05 19:44:43,438] [INFO] Logging system is set up
+[2020-07-05 19:45:10,202] [INFO] Logging system is set up
+[2020-07-05 19:45:10,205] [INFO] Using fast YAML Loader
+[2020-07-05 19:45:10,205] [INFO] Using fast YAML Dumper
+[2020-07-05 22:43:33,921] [INFO] Logging system is set up
+[2020-07-05 22:44:04,618] [INFO] Logging system is set up
+[2020-07-05 22:44:53,447] [INFO] Logging system is set up
+[2020-07-05 22:45:00,641] [INFO] Logging system is set up
+[2020-07-05 22:47:53,909] [INFO] Logging system is set up
+[2020-07-05 22:47:53,914] [INFO] Using fast YAML Loader
+[2020-07-05 22:47:53,915] [INFO] Using fast YAML Dumper
+[2020-07-05 22:47:54,313] [INFO] Markov model has passed all checks
+[2020-07-05 22:47:57,400] [INFO] Saving of config is started
+[2020-07-05 22:47:57,440] [INFO] Saving of config is finished
+[2020-07-05 22:47:57,441] [INFO] Saving of secret config is started
+[2020-07-05 22:47:57,443] [INFO] Saving of secret config is finished
+[2020-07-05 22:47:57,445] [INFO] Saving of Markov module data is started
+[2020-07-05 22:47:57,448] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-07-05 22:47:57,450] [INFO] Saving of Markov module data is finished
+[2020-07-05 22:48:09,710] [INFO] <729423396240097402> sergeykrokodil#5538 -> !ping
+[2020-07-05 22:48:09,711] [DEBUG] Processing command: !ping
+[2020-07-05 22:48:10,031] [INFO] <729423397762629692> WalBot#6054 -> Pong! <@!373480978871484416>
+[2020-07-05 22:48:15,309] [INFO] Bot is disconnected!
+[2020-07-05 22:48:15,310] [INFO] Saving of config is started
+[2020-07-05 22:48:15,355] [INFO] Saving of config is finished
+[2020-07-05 22:48:15,357] [INFO] Saving of secret config is started
+[2020-07-05 22:48:15,359] [INFO] Saving of secret config is finished
+[2020-07-05 22:48:15,362] [INFO] Saving of Markov module data is started
+[2020-07-05 22:48:15,365] [INFO] Saving of Markov module data is finished
+[2020-07-05 22:48:15,366] [INFO] Saving of Markov is waited
+[2020-07-07 22:14:19,693] [INFO] Logging system is set up
+[2020-07-07 22:14:19,948] [INFO] Using fast YAML Loader
+[2020-07-07 22:14:19,950] [INFO] Using fast YAML Dumper
+[2020-07-07 22:14:20,383] [INFO] Markov model has passed all checks
+[2020-07-07 22:14:23,405] [INFO] Saving of config is started
+[2020-07-07 22:14:23,424] [INFO] Saving of config is finished
+[2020-07-07 22:14:23,424] [INFO] Saving of secret config is started
+[2020-07-07 22:14:23,424] [INFO] Saving of secret config is finished
+[2020-07-07 22:14:23,425] [INFO] Saving of Markov module data is started
+[2020-07-07 22:14:23,426] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-07-07 22:14:23,428] [INFO] Saving of Markov module data is finished
+[2020-07-07 22:14:28,390] [INFO] <730139696285614090> sergeykrokodil#5538 -> !ping
+[2020-07-07 22:14:28,391] [DEBUG] Processing command: !ping
+[2020-07-07 22:14:28,652] [INFO] <730139697556357220> WalBot#6054 -> Pong! <@!373480978871484416>
+[2020-07-07 22:17:38,912] [INFO] <730140495652847707> sergeykrokodil#5538 -> !addextcmd dir dir
+[2020-07-07 22:17:38,912] [DEBUG] Processing command: !addextcmd dir dir
+[2020-07-07 22:17:39,237] [INFO] <730140496755949619> WalBot#6054 -> Command 'dir' that calls external command 'dir' is successfully added
+[2020-07-07 22:17:43,539] [INFO] <730140514648719412> sergeykrokodil#5538 -> !dir
+[2020-07-07 22:17:43,539] [DEBUG] Processing command: !dir
+[2020-07-07 22:17:43,540] [DEBUG] Processing external command: dir
+[2020-07-07 22:17:43,572] [ERROR] on_message failed
+Traceback (most recent call last):
+  File "D:\Works\walbot\src\bot.py", line 99, in on_message
+    await self.process_command(message)
+  File "D:\Works\walbot\src\bot.py", line 137, in process_command
+    await self.config.commands.data[command[0]].run(message, command, self.config.users[message.author.id])
+  File "D:\Works\walbot\src\config.py", line 126, in run
+    result = process.stdout.decode("utf-8")
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0x92 in position 1: invalid start byte
+[2020-07-07 22:17:53,163] [INFO] <730140555434131486> sergeykrokodil#5538 -> !dir
+[2020-07-07 22:17:53,167] [DEBUG] Processing command: !dir
+[2020-07-07 22:17:53,168] [DEBUG] Processing external command: dir
+[2020-07-07 22:17:53,193] [ERROR] on_message failed
+Traceback (most recent call last):
+  File "D:\Works\walbot\src\bot.py", line 99, in on_message
+    await self.process_command(message)
+  File "D:\Works\walbot\src\bot.py", line 137, in process_command
+    await self.config.commands.data[command[0]].run(message, command, self.config.users[message.author.id])
+  File "D:\Works\walbot\src\config.py", line 126, in run
+    result = process.stdout.decode("utf-8")
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0x92 in position 1: invalid start byte
+[2020-07-07 22:17:55,648] [INFO] <730140565865496666> sergeykrokodil#5538 -> !ping
+[2020-07-07 22:17:55,648] [DEBUG] Processing command: !ping
+[2020-07-07 22:17:55,944] [INFO] <730140566750363669> WalBot#6054 -> Pong! <@!373480978871484416>
+[2020-07-07 22:17:59,606] [INFO] <730140582436929536> sergeykrokodil#5538 -> <@!729351394926264390>
+[2020-07-07 22:17:59,864] [INFO] <730140583498350723> WalBot#6054 -> <@!373480978871484416> что
+[2020-07-07 22:18:01,758] [INFO] <730140591404613742> sergeykrokodil#5538 -> <@!729351394926264390>
+[2020-07-07 22:18:01,997] [INFO] <730140592495001700> WalBot#6054 -> <@!373480978871484416> а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а а
+[2020-07-07 22:18:04,179] [INFO] <730140601609093171> sergeykrokodil#5538 -> <@!729351394926264390>
+[2020-07-07 22:18:04,411] [INFO] <730140602422788127> WalBot#6054 -> <@!373480978871484416> что
+[2020-07-07 22:18:05,782] [INFO] <730140608064258076> sergeykrokodil#5538 -> <@!729351394926264390>
+[2020-07-07 22:18:06,123] [INFO] <730140609616150588> WalBot#6054 -> <@!373480978871484416> а а а а а
+[2020-07-07 22:18:07,328] [INFO] <730140614821281862> sergeykrokodil#5538 -> <@!729351394926264390>
+[2020-07-07 22:18:07,547] [INFO] <730140615500890184> WalBot#6054 -> <@!373480978871484416> а а а а а а а а а а а а а а а а а
+[2020-07-07 22:18:08,659] [INFO] <730140620101910659> sergeykrokodil#5538 -> <@!729351394926264390>
+[2020-07-07 22:18:08,856] [INFO] <730140621037240341> WalBot#6054 -> <@!373480978871484416> а а а а
+[2020-07-07 22:18:10,002] [INFO] <730140625525014650> sergeykrokodil#5538 -> <@!729351394926264390>
+[2020-07-07 22:18:10,221] [INFO] <730140626976243782> WalBot#6054 -> <@!373480978871484416> а а а а а а а а а а а а а а а а
+[2020-07-07 22:18:11,219] [INFO] <730140630965026878> sergeykrokodil#5538 -> <@!729351394926264390>
+[2020-07-07 22:18:11,470] [INFO] <730140632085168249> WalBot#6054 -> <@!373480978871484416> что
+[2020-07-07 22:18:12,703] [INFO] <730140637390700676> sergeykrokodil#5538 -> <@!729351394926264390>
+[2020-07-07 22:18:12,909] [INFO] <730140638217240606> WalBot#6054 -> <@!373480978871484416> что
+[2020-07-07 22:18:18,445] [INFO] <730140661461811281> sergeykrokodil#5538 -> ничего
+[2020-07-07 22:18:21,882] [INFO] <730140675894673447> sergeykrokodil#5538 -> <@!729351394926264390>
+[2020-07-07 22:18:22,074] [INFO] <730140676506779660> WalBot#6054 -> <@!373480978871484416> а а а а а а а а а а а а а а а а а а а а а а а а а а а а а
+[2020-07-07 22:18:25,303] [INFO] <730140689870094417> sergeykrokodil#5538 -> <@!729351394926264390>
+[2020-07-07 22:18:25,553] [INFO] <730140691174260808> WalBot#6054 -> <@!373480978871484416> что
+[2020-07-07 22:18:27,533] [INFO] <730140697658916935> sergeykrokodil#5538 -> <@!729351394926264390>
+[2020-07-07 22:18:27,829] [INFO] <730140700825354360> WalBot#6054 -> <@!373480978871484416> что
+[2020-07-07 22:18:29,427] [INFO] <730140707477782556> sergeykrokodil#5538 -> <@!729351394926264390>
+[2020-07-07 22:18:29,653] [INFO] <730140708077436950> WalBot#6054 -> <@!373480978871484416> ничего
+[2020-07-07 22:19:02,318] [INFO] <730140845478641824> sergeykrokodil#5538 -> !help
+[2020-07-07 22:19:02,318] [DEBUG] Processing command: !help
+[2020-07-07 22:19:02,662] [INFO] <730140846896447629> WalBot#6054 -> 
+[2020-07-07 22:22:49,289] [INFO] <730141797426135100> sergeykrokodil#5538 -> !help
+[2020-07-07 22:22:49,289] [DEBUG] Processing command: !help
+[2020-07-07 22:22:49,612] [INFO] <730141798634356828> WalBot#6054 -> 
+[2020-07-07 22:23:05,500] [INFO] Bot is disconnected!
+[2020-07-07 22:23:05,506] [INFO] Saving of config is started
+[2020-07-07 22:23:05,613] [INFO] Saving of config is finished
+[2020-07-07 22:23:05,615] [INFO] Saving of secret config is started
+[2020-07-07 22:23:05,615] [INFO] Saving of secret config is finished
+[2020-07-07 22:23:05,615] [INFO] Saving of Markov module data is started
+[2020-07-07 22:23:05,621] [INFO] Saving of Markov module data is finished
+[2020-07-07 22:23:05,621] [INFO] Saving of Markov is waited
+[2020-07-07 22:23:09,319] [INFO] Logging system is set up
+[2020-07-07 22:23:09,321] [INFO] Using fast YAML Loader
+[2020-07-07 22:23:09,322] [INFO] Using fast YAML Dumper
+[2020-07-07 22:23:09,460] [INFO] Markov model has passed all checks
+[2020-07-07 22:23:12,592] [INFO] Saving of config is started
+[2020-07-07 22:23:12,608] [INFO] Saving of config is finished
+[2020-07-07 22:23:12,608] [INFO] Saving of secret config is started
+[2020-07-07 22:23:12,609] [INFO] Saving of secret config is finished
+[2020-07-07 22:23:12,610] [INFO] Saving of Markov module data is started
+[2020-07-07 22:23:12,611] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-07-07 22:23:12,612] [INFO] Saving of Markov module data is finished
+[2020-07-07 22:23:18,685] [INFO] <730141920763838524> sergeykrokodil#5538 -> !help
+[2020-07-07 22:23:18,686] [DEBUG] Processing command: !help
+[2020-07-07 22:23:18,877] [INFO] <730141921581989959> WalBot#6054 -> 
+[2020-07-07 22:23:26,721] [INFO] <730141954175926344> sergeykrokodil#5538 -> !help -p
+[2020-07-07 22:23:26,721] [DEBUG] Processing command: !help -p
+[2020-07-07 22:23:26,932] [INFO] <730141955341942894> WalBot#6054 -> Built-in commands <https://github.com/aobolensk/walbot/blob/fb72fb5ca15dba436b780adc79de1c3ee766acae/docs/Help.md>
+**code**: `@args@`
+**echo**: @args@
+[2020-07-07 22:23:37,386] [INFO] <730141999163768983> sergeykrokodil#5538 -> !help
+[2020-07-07 22:23:37,386] [DEBUG] Processing command: !help
+[2020-07-07 22:23:37,608] [INFO] <730142000111812609> WalBot#6054 -> 
+[2020-07-07 22:26:24,325] [INFO] <730142699063083049> sergeykrokodil#5538 -> !help dir
+[2020-07-07 22:26:24,326] [DEBUG] Processing command: !help dir
+[2020-07-07 22:26:24,624] [INFO] <730142700241813636> WalBot#6054 -> dir: calls external command 'dir'
+    Required permission level: 0
+[2020-07-07 22:26:30,041] [INFO] <730142723385852004> sergeykrokodil#5538 -> !help
+[2020-07-07 22:26:30,041] [DEBUG] Processing command: !help
+[2020-07-07 22:26:30,248] [INFO] <730142723868327937> WalBot#6054 -> 
+[2020-07-07 22:33:12,619] [INFO] Saving of config is started
+[2020-07-07 22:33:12,749] [INFO] Saving of config is finished
+[2020-07-07 22:33:12,750] [INFO] Saving of secret config is started
+[2020-07-07 22:33:12,755] [INFO] Saving of secret config is finished
+[2020-07-07 22:33:12,757] [INFO] Saving of Markov module data is started
+[2020-07-07 22:33:12,763] [INFO] Saving of Markov module data is finished
+[2020-07-07 22:40:08,573] [INFO] Bot is disconnected!
+[2020-07-07 22:40:08,574] [INFO] Saving of config is started
+[2020-07-07 22:40:08,610] [INFO] Saving of config is finished
+[2020-07-07 22:40:08,613] [INFO] Saving of secret config is started
+[2020-07-07 22:40:08,615] [INFO] Saving of secret config is finished
+[2020-07-07 22:40:08,618] [INFO] Saving of Markov module data is started
+[2020-07-07 22:40:08,621] [INFO] Saving of Markov module data is finished
+[2020-07-07 22:40:08,622] [INFO] Saving of Markov is waited
+[2020-07-07 22:40:15,485] [INFO] Logging system is set up
+[2020-07-07 22:40:15,487] [INFO] Using fast YAML Loader
+[2020-07-07 22:40:15,487] [INFO] Using fast YAML Dumper
+[2020-07-07 22:40:15,611] [INFO] Markov model has passed all checks
+[2020-07-07 22:40:18,791] [INFO] Saving of config is started
+[2020-07-07 22:40:18,825] [INFO] Saving of config is finished
+[2020-07-07 22:40:18,825] [INFO] Saving of secret config is started
+[2020-07-07 22:40:18,830] [INFO] Saving of secret config is finished
+[2020-07-07 22:40:18,833] [INFO] Saving of Markov module data is started
+[2020-07-07 22:40:18,835] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-07-07 22:40:18,837] [INFO] Saving of Markov module data is finished
+[2020-07-07 22:40:44,056] [INFO] <730146305355022427> sergeykrokodil#5538 -> !help
+[2020-07-07 22:40:44,056] [DEBUG] Processing command: !help
+[2020-07-07 22:40:44,524] [INFO] <730146307351773224> WalBot#6054 -> 
+[2020-07-07 22:42:15,614] [INFO] <730146689415118918> sergeykrokodil#5538 -> !ping
+[2020-07-07 22:42:15,615] [DEBUG] Processing command: !ping
+[2020-07-07 22:42:15,944] [INFO] <730146690555838576> WalBot#6054 -> Pong! <@!373480978871484416>
+[2020-07-07 22:42:46,294] [INFO] <730146817962147891> sergeykrokodil#5538 -> !ping
+[2020-07-07 22:42:46,294] [DEBUG] Processing command: !ping
+[2020-07-07 22:42:46,611] [INFO] <730146819396599808> WalBot#6054 -> Pong! <@!373480978871484416>
+[2020-07-07 22:43:07,975] [INFO] Bot is disconnected!
+[2020-07-07 22:43:07,976] [INFO] Saving of config is started
+[2020-07-07 22:43:08,010] [INFO] Saving of config is finished
+[2020-07-07 22:43:08,010] [INFO] Saving of secret config is started
+[2020-07-07 22:43:08,017] [INFO] Saving of secret config is finished
+[2020-07-07 22:43:08,018] [INFO] Saving of Markov module data is started
+[2020-07-07 22:43:08,019] [INFO] Saving of Markov module data is finished
+[2020-07-07 22:43:08,019] [INFO] Saving of Markov is waited
+[2020-07-07 22:43:13,914] [INFO] Logging system is set up
+[2020-07-07 22:43:13,916] [INFO] Using fast YAML Loader
+[2020-07-07 22:43:13,916] [INFO] Using fast YAML Dumper
+[2020-07-07 22:43:14,050] [INFO] Markov model has passed all checks
+[2020-07-07 22:43:17,185] [INFO] Saving of config is started
+[2020-07-07 22:43:17,211] [INFO] Saving of config is finished
+[2020-07-07 22:43:17,219] [INFO] Saving of secret config is started
+[2020-07-07 22:43:17,221] [INFO] Saving of secret config is finished
+[2020-07-07 22:43:17,221] [INFO] Saving of Markov module data is started
+[2020-07-07 22:43:17,225] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-07-07 22:43:17,227] [INFO] Saving of Markov module data is finished
+[2020-07-07 22:43:22,109] [INFO] <730146967883218980> sergeykrokodil#5538 -> !help
+[2020-07-07 22:43:22,110] [DEBUG] Processing command: !help
+[2020-07-07 22:43:22,524] [INFO] <730146970039222282> WalBot#6054 -> 
+[2020-07-07 22:43:38,148] [INFO] <730147035612971079> sergeykrokodil#5538 -> !addextcmd hmm
+[2020-07-07 22:43:51,082] [DEBUG] Processing command: !addextcmd hmm
+[2020-07-07 22:43:51,092] [INFO] <730147062967959563> sergeykrokodil#5538 -> !ping
+[2020-07-07 22:43:51,093] [DEBUG] Processing command: !ping
+[2020-07-07 22:43:51,399] [INFO] <730147090956550205> WalBot#6054 -> Too few arguments for command 'addextcmd'
+[2020-07-07 22:43:51,610] [INFO] <730147091816644609> WalBot#6054 -> Pong! <@!373480978871484416>
+[2020-07-07 22:44:01,732] [INFO] <730147134170726411> sergeykrokodil#5538 -> !addextcmd hmm hmm
+[2020-07-07 22:44:01,733] [DEBUG] Processing command: !addextcmd hmm hmm
+[2020-07-07 22:44:01,977] [INFO] <730147135378685973> WalBot#6054 -> Command 'hmm' that calls external command 'hmm' is successfully added
+[2020-07-07 22:44:05,605] [INFO] <730147150268203051> sergeykrokodil#5538 -> !help
+[2020-07-07 22:44:05,606] [DEBUG] Processing command: !help
+[2020-07-07 22:44:06,006] [INFO] <730147152415817788> WalBot#6054 -> 
+[2020-07-07 22:44:32,265] [INFO] <730147262579081376> sergeykrokodil#5538 -> !help
+[2020-07-07 22:44:32,266] [DEBUG] Processing command: !help
+[2020-07-07 22:44:32,716] [INFO] <730147264454197298> WalBot#6054 -> 
+[2020-07-07 22:46:01,146] [INFO] Bot is disconnected!
+[2020-07-07 22:46:30,226] [INFO] Saving of config is started
+[2020-07-07 22:46:30,266] [INFO] Saving of config is finished
+[2020-07-07 22:46:30,274] [INFO] Saving of secret config is started
+[2020-07-07 22:46:30,275] [INFO] Saving of secret config is finished
+[2020-07-07 22:46:30,276] [INFO] Saving of Markov module data is started
+[2020-07-07 22:46:30,283] [INFO] Saving of Markov module data is finished
+[2020-07-07 22:46:30,283] [INFO] Saving of Markov is waited
+[2020-07-07 22:46:37,003] [INFO] Logging system is set up
+[2020-07-07 22:46:37,006] [INFO] Using fast YAML Loader
+[2020-07-07 22:46:37,006] [INFO] Using fast YAML Dumper
+[2020-07-07 22:46:37,266] [INFO] Markov model has passed all checks
+[2020-07-07 22:46:40,447] [INFO] Saving of config is started
+[2020-07-07 22:46:40,483] [INFO] Saving of config is finished
+[2020-07-07 22:46:40,483] [INFO] Saving of secret config is started
+[2020-07-07 22:46:40,486] [INFO] Saving of secret config is finished
+[2020-07-07 22:46:40,490] [INFO] Saving of Markov module data is started
+[2020-07-07 22:46:40,491] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-07-07 22:46:40,493] [INFO] Saving of Markov module data is finished
+[2020-07-07 22:46:47,560] [INFO] <730147829678473307> sergeykrokodil#5538 -> !help
+[2020-07-07 22:46:47,561] [DEBUG] Processing command: !help
+[2020-07-07 22:46:47,565] [ERROR] on_message failed
+Traceback (most recent call last):
+  File "D:\Works\walbot\src\bot.py", line 99, in on_message
+    await self.process_command(message)
+  File "D:\Works\walbot\src\bot.py", line 137, in process_command
+    await self.config.commands.data[command[0]].run(message, command, self.config.users[message.author.id])
+  File "D:\Works\walbot\src\config.py", line 107, in run
+    return await self.get_actor()(message, command, silent)
+  File "D:\Works\walbot\src\cmd\builtin.py", line 362, in _help
+    print(name, hasattr(command, "cmd_line"), command.cmd_line)
+AttributeError: 'list' object has no attribute 'cmd_line'
+[2020-07-07 22:47:20,535] [INFO] Bot is disconnected!
+[2020-07-07 22:47:20,536] [INFO] Saving of config is started
+[2020-07-07 22:47:20,569] [INFO] Saving of config is finished
+[2020-07-07 22:47:20,576] [INFO] Saving of secret config is started
+[2020-07-07 22:47:20,577] [INFO] Saving of secret config is finished
+[2020-07-07 22:47:20,581] [INFO] Saving of Markov module data is started
+[2020-07-07 22:47:20,584] [INFO] Saving of Markov module data is finished
+[2020-07-07 22:47:20,584] [INFO] Saving of Markov is waited
+[2020-07-07 22:47:26,816] [INFO] Logging system is set up
+[2020-07-07 22:47:26,819] [INFO] Using fast YAML Loader
+[2020-07-07 22:47:26,819] [INFO] Using fast YAML Dumper
+[2020-07-07 22:47:26,953] [INFO] Markov model has passed all checks
+[2020-07-07 22:47:30,032] [INFO] Saving of config is started
+[2020-07-07 22:47:30,065] [INFO] Saving of config is finished
+[2020-07-07 22:47:30,067] [INFO] Saving of secret config is started
+[2020-07-07 22:47:30,069] [INFO] Saving of secret config is finished
+[2020-07-07 22:47:30,072] [INFO] Saving of Markov module data is started
+[2020-07-07 22:47:30,074] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-07-07 22:47:30,076] [INFO] Saving of Markov module data is finished
+[2020-07-07 22:47:34,392] [INFO] <730148026483736606> sergeykrokodil#5538 -> !help
+[2020-07-07 22:47:34,392] [DEBUG] Processing command: !help
+[2020-07-07 22:47:34,725] [INFO] <730148027909537910> WalBot#6054 -> 
+[2020-07-07 22:49:25,045] [INFO] <730148490608378076> sergeykrokodil#5538 -> !ping
+[2020-07-07 22:49:25,048] [DEBUG] Processing command: !ping
+[2020-07-07 22:49:25,374] [INFO] <730148491652890705> WalBot#6054 -> Pong! <@!373480978871484416>
+[2020-07-07 22:49:44,837] [INFO] <730148573630562334> sergeykrokodil#5538 -> !ping
+[2020-07-07 22:49:44,838] [DEBUG] Processing command: !ping
+[2020-07-07 22:49:45,143] [INFO] <730148574490525838> WalBot#6054 -> Pong! <@!373480978871484416>
+[2020-07-07 22:49:58,764] [INFO] Bot is disconnected!
+[2020-07-07 22:49:58,765] [INFO] Saving of config is started
+[2020-07-07 22:49:58,801] [INFO] Saving of config is finished
+[2020-07-07 22:49:58,801] [INFO] Saving of secret config is started
+[2020-07-07 22:49:58,804] [INFO] Saving of secret config is finished
+[2020-07-07 22:49:58,806] [INFO] Saving of Markov module data is started
+[2020-07-07 22:49:58,810] [INFO] Saving of Markov module data is finished
+[2020-07-07 22:49:58,812] [INFO] Saving of Markov is waited
+[2020-07-07 22:50:03,559] [INFO] Logging system is set up
+[2020-07-07 22:50:03,564] [INFO] Using fast YAML Loader
+[2020-07-07 22:50:03,565] [INFO] Using fast YAML Dumper
+[2020-07-07 22:50:03,677] [INFO] Markov model has passed all checks
+[2020-07-07 22:50:06,760] [INFO] Saving of config is started
+[2020-07-07 22:50:06,794] [INFO] Saving of config is finished
+[2020-07-07 22:50:06,797] [INFO] Saving of secret config is started
+[2020-07-07 22:50:06,799] [INFO] Saving of secret config is finished
+[2020-07-07 22:50:06,802] [INFO] Saving of Markov module data is started
+[2020-07-07 22:50:06,805] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-07-07 22:50:06,806] [INFO] Saving of Markov module data is finished
+[2020-07-07 22:50:11,426] [INFO] <730148685123551262> sergeykrokodil#5538 -> !help
+[2020-07-07 22:50:11,426] [DEBUG] Processing command: !help
+[2020-07-07 22:50:11,773] [INFO] <730148686222590080> WalBot#6054 -> 
+[2020-07-07 22:51:14,855] [INFO] Bot is disconnected!
+[2020-07-07 22:51:14,856] [INFO] Saving of config is started
+[2020-07-07 22:51:14,894] [INFO] Saving of config is finished
+[2020-07-07 22:51:14,895] [INFO] Saving of secret config is started
+[2020-07-07 22:51:14,895] [INFO] Saving of secret config is finished
+[2020-07-07 22:51:14,896] [INFO] Saving of Markov module data is started
+[2020-07-07 22:51:14,898] [INFO] Saving of Markov module data is finished
+[2020-07-07 22:51:14,899] [INFO] Saving of Markov is waited
+[2020-07-07 22:53:04,640] [INFO] Logging system is set up
+[2020-07-07 22:53:04,643] [INFO] Using fast YAML Loader
+[2020-07-07 22:53:04,643] [INFO] Using fast YAML Dumper
+[2020-07-07 22:53:04,780] [INFO] Markov model has passed all checks
+[2020-07-07 22:53:07,966] [INFO] Saving of config is started
+[2020-07-07 22:53:07,998] [INFO] Saving of config is finished
+[2020-07-07 22:53:07,998] [INFO] Saving of secret config is started
+[2020-07-07 22:53:08,003] [INFO] Saving of secret config is finished
+[2020-07-07 22:53:08,005] [INFO] Saving of Markov module data is started
+[2020-07-07 22:53:08,008] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-07-07 22:53:08,009] [INFO] Saving of Markov module data is finished
+[2020-07-07 22:53:11,504] [INFO] <730149440022642791> sergeykrokodil#5538 -> !help
+[2020-07-07 22:53:11,504] [DEBUG] Processing command: !help
+[2020-07-07 22:53:11,793] [INFO] <730149441658552391> WalBot#6054 -> 
+[2020-07-07 23:01:40,053] [INFO] Bot is disconnected!
+[2020-07-07 23:01:40,053] [INFO] Saving of config is started
+[2020-07-07 23:01:40,071] [INFO] Saving of config is finished
+[2020-07-07 23:01:40,071] [INFO] Saving of secret config is started
+[2020-07-07 23:01:40,075] [INFO] Saving of secret config is finished
+[2020-07-07 23:01:40,075] [INFO] Saving of Markov module data is started
+[2020-07-07 23:01:40,078] [INFO] Saving of Markov module data is finished
+[2020-07-07 23:01:40,078] [INFO] Saving of Markov is waited
+[2020-07-07 23:02:18,624] [INFO] Logging system is set up
+[2020-07-07 23:02:18,630] [INFO] Using fast YAML Loader
+[2020-07-07 23:02:18,632] [INFO] Using fast YAML Dumper
+[2020-07-07 23:02:18,859] [INFO] Markov model has passed all checks
+[2020-07-07 23:02:21,978] [INFO] Saving of config is started
+[2020-07-07 23:02:22,017] [INFO] Saving of config is finished
+[2020-07-07 23:02:22,017] [INFO] Saving of secret config is started
+[2020-07-07 23:02:22,021] [INFO] Saving of secret config is finished
+[2020-07-07 23:02:22,025] [INFO] Saving of Markov module data is started
+[2020-07-07 23:02:22,054] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-07-07 23:02:22,064] [INFO] Saving of Markov module data is finished
+[2020-07-07 23:02:27,272] [INFO] <730151771254554625> sergeykrokodil#5538 -> !ping
+[2020-07-07 23:02:27,273] [DEBUG] Processing command: !ping
+[2020-07-07 23:02:27,490] [INFO] <730151772441673808> WalBot#6054 -> Pong! <@!373480978871484416>
+[2020-07-07 23:02:29,667] [INFO] <730151781509759077> sergeykrokodil#5538 -> !help
+[2020-07-07 23:02:29,667] [DEBUG] Processing command: !help
+[2020-07-07 23:02:29,889] [INFO] <730151782457671761> WalBot#6054 -> 
+[2020-07-07 23:02:44,359] [INFO] Bot is disconnected!
+[2020-07-07 23:02:44,365] [INFO] Saving of config is started
+[2020-07-07 23:02:44,411] [INFO] Saving of config is finished
+[2020-07-07 23:02:44,411] [INFO] Saving of secret config is started
+[2020-07-07 23:02:44,414] [INFO] Saving of secret config is finished
+[2020-07-07 23:02:44,418] [INFO] Saving of Markov module data is started
+[2020-07-07 23:02:44,420] [INFO] Saving of Markov module data is finished
+[2020-07-07 23:02:44,420] [INFO] Saving of Markov is waited
+[2020-07-07 23:33:26,139] [INFO] Logging system is set up
+[2020-07-07 23:33:26,149] [INFO] Using fast YAML Loader
+[2020-07-07 23:33:26,151] [INFO] Using fast YAML Dumper
+[2020-07-07 23:33:26,313] [INFO] Markov model has passed all checks
+[2020-07-07 23:33:29,511] [INFO] Saving of config is started
+[2020-07-07 23:33:29,554] [INFO] Saving of config is finished
+[2020-07-07 23:33:29,556] [INFO] Saving of secret config is started
+[2020-07-07 23:33:29,559] [INFO] Saving of secret config is finished
+[2020-07-07 23:33:29,562] [INFO] Saving of Markov module data is started
+[2020-07-07 23:33:29,565] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-07-07 23:33:29,567] [INFO] Saving of Markov module data is finished
+[2020-07-07 23:33:45,150] [INFO] <730159647952208014> sergeykrokodil#5538 -> !help update
+[2020-07-07 23:33:45,150] [DEBUG] Processing command: !help update
+[2020-07-07 23:33:45,498] [INFO] <730159649415757897> WalBot#6054 -> Unknown command 'update'
+[2020-07-07 23:34:48,388] [INFO] <730159913250193498> sergeykrokodil#5538 -> !ping
+[2020-07-07 23:34:48,389] [DEBUG] Processing command: !ping
+[2020-07-07 23:34:48,712] [INFO] <730159914592370829> WalBot#6054 -> Pong! <@!373480978871484416>
+[2020-07-07 23:34:55,510] [INFO] Bot is disconnected!
+[2020-07-07 23:34:55,511] [INFO] Saving of config is started
+[2020-07-07 23:34:55,548] [INFO] Saving of config is finished
+[2020-07-07 23:34:55,548] [INFO] Saving of secret config is started
+[2020-07-07 23:34:55,552] [INFO] Saving of secret config is finished
+[2020-07-07 23:34:55,555] [INFO] Saving of Markov module data is started
+[2020-07-07 23:34:55,558] [INFO] Saving of Markov module data is finished
+[2020-07-07 23:34:55,558] [INFO] Saving of Markov is waited
+[2020-07-07 23:35:02,637] [INFO] Logging system is set up
+[2020-07-07 23:35:02,739] [INFO] WalBot config patch tool: config.yaml@0.0.4
+[2020-07-07 23:35:02,739] [INFO] Successfully upgraded your config.yaml to version 0.0.5
+[2020-07-07 23:35:02,762] [INFO] Successfully saved file: 0.0.5
+[2020-07-07 23:35:02,766] [INFO] WalBot config patch tool: markov.yaml@0.0.1
+[2020-07-07 23:35:02,767] [INFO] Version is up to date!
+[2020-07-07 23:35:02,769] [INFO] WalBot config patch tool: secret.yaml@0.0.1
+[2020-07-07 23:35:02,770] [INFO] Version is up to date!
+[2020-07-07 23:56:01,347] [INFO] Logging system is set up
+[2020-07-07 23:56:01,349] [INFO] Using fast YAML Loader
+[2020-07-07 23:56:01,349] [INFO] Using fast YAML Dumper
+[2020-07-07 23:56:01,468] [INFO] Markov model has passed all checks
+[2020-07-07 23:56:04,615] [INFO] Saving of config is started
+[2020-07-07 23:56:04,629] [INFO] Saving of config is finished
+[2020-07-07 23:56:04,629] [INFO] Saving of secret config is started
+[2020-07-07 23:56:04,630] [INFO] Saving of secret config is finished
+[2020-07-07 23:56:04,630] [INFO] Saving of Markov module data is started
+[2020-07-07 23:56:04,631] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-07-07 23:56:04,631] [INFO] Saving of Markov module data is finished
+[2020-07-07 23:56:08,419] [INFO] <730165282076753980> sergeykrokodil#5538 -> !ping
+[2020-07-07 23:56:08,419] [DEBUG] Processing command: !ping
+[2020-07-07 23:56:08,753] [INFO] <730165283435839539> WalBot#6054 -> Pong! <@!373480978871484416>
+[2020-07-07 23:56:10,555] [INFO] <730165291090182214> sergeykrokodil#5538 -> !help
+[2020-07-07 23:56:10,555] [DEBUG] Processing command: !help
+[2020-07-07 23:56:11,183] [INFO] <730165292449398867> WalBot#6054 -> 
+[2020-07-07 23:56:14,793] [INFO] <730165308530229405> sergeykrokodil#5538 -> !help hmm
+[2020-07-07 23:56:14,793] [DEBUG] Processing command: !help hmm
+[2020-07-07 23:56:14,986] [INFO] <730165309482336328> WalBot#6054 -> hmm: calls external command 'hmm'
+    Required permission level: 0
+[2020-07-07 23:56:21,592] [INFO] <730165337336578149> sergeykrokodil#5538 -> !help poll
+[2020-07-07 23:56:21,593] [DEBUG] Processing command: !help poll
+[2020-07-07 23:56:21,853] [INFO] <730165338389610506> WalBot#6054 -> poll: Create poll
+    Example: !poll 60 option 1;option 2;option 3
+    Required permission level: 0
+[2020-07-07 23:56:42,353] [INFO] Bot is disconnected!
+[2020-07-07 23:56:42,353] [INFO] Saving of config is started
+[2020-07-07 23:56:42,373] [INFO] Saving of config is finished
+[2020-07-07 23:56:42,373] [INFO] Saving of secret config is started
+[2020-07-07 23:56:42,375] [INFO] Saving of secret config is finished
+[2020-07-07 23:56:42,378] [INFO] Saving of Markov module data is started
+[2020-07-07 23:56:42,381] [INFO] Saving of Markov module data is finished
+[2020-07-07 23:56:42,381] [INFO] Saving of Markov is waited
+[2020-07-16 20:47:21,653] [INFO] Logging system is set up
+[2020-07-16 20:47:21,689] [INFO] Using fast YAML Loader
+[2020-07-16 20:47:21,689] [INFO] Using fast YAML Dumper
+[2020-07-16 20:47:22,044] [WARNING] Command 'addmarkovfilter' is not found and deleted from config and documentation
+[2020-07-16 20:47:22,044] [WARNING] Command 'delmarkov' is not found and deleted from config and documentation
+[2020-07-16 20:47:22,044] [WARNING] Command 'delmarkovfilter' is not found and deleted from config and documentation
+[2020-07-16 20:47:22,044] [WARNING] Command 'dropmarkov' is not found and deleted from config and documentation
+[2020-07-16 20:47:22,048] [WARNING] Command 'findmarkov' is not found and deleted from config and documentation
+[2020-07-16 20:47:22,048] [WARNING] Command 'listmarkovfilter' is not found and deleted from config and documentation
+[2020-07-16 20:47:22,048] [WARNING] Command 'markov' is not found and deleted from config and documentation
+[2020-07-16 20:47:22,048] [WARNING] Command 'markovgc' is not found and deleted from config and documentation
+[2020-07-16 20:47:22,100] [ERROR] Config versions mismatch. Expected: 0.0.6, but actual: 0.0.5
+[2020-07-16 20:48:10,685] [INFO] Logging system is set up
+[2020-07-16 20:48:11,131] [INFO] WalBot config patch tool: config.yaml@0.0.5
+[2020-07-16 20:48:11,131] [INFO] Successfully upgraded your config.yaml to version 0.0.6
+[2020-07-16 20:48:11,137] [INFO] Version is up to date!
+[2020-07-16 20:48:11,177] [INFO] Successfully saved file: 0.0.6
+[2020-07-16 20:48:11,179] [INFO] WalBot config patch tool: markov.yaml@0.0.1
+[2020-07-16 20:48:11,179] [INFO] Version is up to date!
+[2020-07-16 20:48:11,181] [INFO] WalBot config patch tool: secret.yaml@0.0.1
+[2020-07-16 20:48:11,181] [INFO] Version is up to date!
+[2020-07-16 20:48:38,813] [INFO] Logging system is set up
+[2020-07-16 20:48:38,832] [INFO] Using fast YAML Loader
+[2020-07-16 20:48:38,833] [INFO] Using fast YAML Dumper
+[2020-07-16 20:48:39,086] [INFO] Markov model has passed all checks
+[2020-07-16 20:48:46,376] [INFO] Saving of config is started
+[2020-07-16 20:48:46,409] [INFO] Saving of config is finished
+[2020-07-16 20:48:46,409] [INFO] Saving of secret config is started
+[2020-07-16 20:48:46,416] [INFO] Saving of secret config is finished
+[2020-07-16 20:48:46,419] [INFO] Saving of Markov module data is started
+[2020-07-16 20:48:46,421] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-07-16 20:48:46,520] [INFO] Saving of Markov module data is finished
+[2020-07-16 20:49:27,770] [INFO] <733379797480112190> sergeykrokodil#5538 -> !ping
+[2020-07-16 20:49:27,771] [DEBUG] Processing command: !ping
+[2020-07-16 20:49:28,481] [INFO] <733379799363616879> WalBot#6054 -> :ping_pong: Pong! <@!373480978871484416> :ping_pong:
+Latency: 491 ms
+[2020-07-16 20:50:59,452] [INFO] Logging system is set up
+[2020-07-16 20:50:59,461] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 20:50:59,968] [INFO] Bot is stopped!
+[2020-07-16 20:51:11,847] [INFO] Logging system is set up
+[2020-07-16 20:51:11,855] [INFO] Using fast YAML Loader
+[2020-07-16 20:51:11,855] [INFO] Using fast YAML Dumper
+[2020-07-16 20:51:11,959] [INFO] Markov model has passed all checks
+[2020-07-16 20:51:15,136] [INFO] Saving of config is started
+[2020-07-16 20:51:15,171] [INFO] Saving of config is finished
+[2020-07-16 20:51:15,171] [INFO] Saving of secret config is started
+[2020-07-16 20:51:15,180] [INFO] Saving of secret config is finished
+[2020-07-16 20:51:15,181] [INFO] Saving of Markov module data is started
+[2020-07-16 20:51:15,183] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-07-16 20:51:15,186] [INFO] Saving of Markov module data is finished
+[2020-07-16 20:51:37,334] [INFO] Bot is disconnected!
+[2020-07-16 20:51:37,334] [INFO] Saving of config is started
+[2020-07-16 20:51:37,352] [INFO] Saving of config is finished
+[2020-07-16 20:51:37,353] [INFO] Saving of secret config is started
+[2020-07-16 20:51:37,353] [INFO] Saving of secret config is finished
+[2020-07-16 20:51:37,356] [INFO] Saving of Markov module data is started
+[2020-07-16 20:51:37,358] [INFO] Saving of Markov module data is finished
+[2020-07-16 20:51:37,358] [INFO] Saving of Markov is waited
+[2020-07-16 21:41:20,066] [INFO] Logging system is set up
+[2020-07-16 21:41:20,070] [INFO] Using fast YAML Loader
+[2020-07-16 21:41:20,071] [INFO] Using fast YAML Dumper
+[2020-07-16 21:41:20,244] [INFO] Markov model has passed all checks
+[2020-07-16 21:41:23,408] [INFO] Saving of config is started
+[2020-07-16 21:41:23,439] [INFO] Saving of config is finished
+[2020-07-16 21:41:23,447] [INFO] Saving of secret config is started
+[2020-07-16 21:41:23,451] [INFO] Saving of secret config is finished
+[2020-07-16 21:41:23,454] [INFO] Saving of Markov module data is started
+[2020-07-16 21:41:23,457] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-07-16 21:41:23,460] [INFO] Saving of Markov module data is finished
+[2020-07-16 21:41:26,976] [INFO] Logging system is set up
+[2020-07-16 21:41:26,985] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 21:41:27,492] [INFO] Bot is stopped!
+[2020-07-16 21:43:19,780] [INFO] Logging system is set up
+[2020-07-16 21:43:19,788] [INFO] Using fast YAML Loader
+[2020-07-16 21:43:19,789] [INFO] Using fast YAML Dumper
+[2020-07-16 21:43:19,904] [INFO] Markov model has passed all checks
+[2020-07-16 21:43:23,146] [INFO] Saving of config is started
+[2020-07-16 21:43:23,165] [INFO] Saving of config is finished
+[2020-07-16 21:43:23,166] [INFO] Saving of secret config is started
+[2020-07-16 21:43:23,167] [INFO] Saving of secret config is finished
+[2020-07-16 21:43:23,168] [INFO] Saving of Markov module data is started
+[2020-07-16 21:43:23,173] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-07-16 21:43:23,175] [INFO] Saving of Markov module data is finished
+[2020-07-16 21:49:42,015] [INFO] Bot is disconnected!
+[2020-07-16 21:49:42,017] [INFO] Saving of config is started
+[2020-07-16 21:49:42,056] [INFO] Saving of config is finished
+[2020-07-16 21:49:42,056] [INFO] Saving of secret config is started
+[2020-07-16 21:49:42,059] [INFO] Saving of secret config is finished
+[2020-07-16 21:49:42,062] [INFO] Saving of Markov module data is started
+[2020-07-16 21:49:42,064] [INFO] Saving of Markov module data is finished
+[2020-07-16 21:49:42,066] [INFO] Saving of Markov is waited
+[2020-07-16 21:49:50,666] [INFO] Logging system is set up
+[2020-07-16 21:49:50,673] [INFO] Using fast YAML Loader
+[2020-07-16 21:49:50,673] [INFO] Using fast YAML Dumper
+[2020-07-16 21:49:50,856] [INFO] Markov model has passed all checks
+[2020-07-16 21:49:54,466] [INFO] Saving of config is started
+[2020-07-16 21:49:54,505] [INFO] Saving of config is finished
+[2020-07-16 21:49:54,506] [INFO] Saving of secret config is started
+[2020-07-16 21:49:54,507] [INFO] Saving of secret config is finished
+[2020-07-16 21:49:54,512] [INFO] Saving of Markov module data is started
+[2020-07-16 21:49:54,515] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-07-16 21:49:54,517] [INFO] Saving of Markov module data is finished
+[2020-07-16 21:49:58,687] [INFO] Logging system is set up
+[2020-07-16 21:51:43,167] [INFO] Logging system is set up
+[2020-07-16 21:51:43,174] [INFO] Using fast YAML Loader
+[2020-07-16 21:51:43,174] [INFO] Using fast YAML Dumper
+[2020-07-16 21:51:43,284] [INFO] Markov model has passed all checks
+[2020-07-16 21:51:46,440] [INFO] Saving of config is started
+[2020-07-16 21:51:46,473] [INFO] Saving of config is finished
+[2020-07-16 21:51:46,474] [INFO] Saving of secret config is started
+[2020-07-16 21:51:46,476] [INFO] Saving of secret config is finished
+[2020-07-16 21:51:46,478] [INFO] Saving of Markov module data is started
+[2020-07-16 21:51:46,480] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-07-16 21:51:46,483] [INFO] Saving of Markov module data is finished
+[2020-07-16 21:51:55,493] [INFO] Logging system is set up
+[2020-07-16 22:57:13,413] [INFO] Logging system is set up
+[2020-07-16 22:57:13,500] [INFO] Using fast YAML Loader
+[2020-07-16 22:57:13,500] [INFO] Using fast YAML Dumper
+[2020-07-16 22:57:13,790] [INFO] Markov model has passed all checks
+[2020-07-16 22:57:17,028] [INFO] Saving of config is started
+[2020-07-16 22:57:17,062] [INFO] Saving of config is finished
+[2020-07-16 22:57:17,067] [INFO] Saving of secret config is started
+[2020-07-16 22:57:17,073] [INFO] Saving of secret config is finished
+[2020-07-16 22:57:17,075] [INFO] Saving of Markov module data is started
+[2020-07-16 22:57:17,078] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-07-16 22:57:17,081] [INFO] Saving of Markov module data is finished
+[2020-07-16 22:57:21,449] [INFO] Logging system is set up
+[2020-07-16 22:57:21,464] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 22:57:21,971] [INFO] Bot is stopped!
+[2020-07-16 22:58:25,468] [INFO] Logging system is set up
+[2020-07-16 22:58:25,475] [INFO] Using fast YAML Loader
+[2020-07-16 22:58:25,475] [INFO] Using fast YAML Dumper
+[2020-07-16 22:58:25,705] [INFO] Markov model has passed all checks
+[2020-07-16 22:58:28,844] [INFO] Saving of config is started
+[2020-07-16 22:58:28,881] [INFO] Saving of config is finished
+[2020-07-16 22:58:28,881] [INFO] Saving of secret config is started
+[2020-07-16 22:58:28,883] [INFO] Saving of secret config is finished
+[2020-07-16 22:58:28,887] [INFO] Saving of Markov module data is started
+[2020-07-16 22:58:28,888] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-07-16 22:58:28,890] [INFO] Saving of Markov module data is finished
+[2020-07-16 22:58:30,845] [INFO] Logging system is set up
+[2020-07-16 23:06:49,031] [INFO] Logging system is set up
+[2020-07-16 23:06:49,037] [INFO] Using fast YAML Loader
+[2020-07-16 23:06:49,037] [INFO] Using fast YAML Dumper
+[2020-07-16 23:06:49,142] [INFO] Markov model has passed all checks
+[2020-07-16 23:06:52,265] [INFO] Saving of config is started
+[2020-07-16 23:06:52,303] [INFO] Saving of config is finished
+[2020-07-16 23:06:52,303] [INFO] Saving of secret config is started
+[2020-07-16 23:06:52,305] [INFO] Saving of secret config is finished
+[2020-07-16 23:06:52,309] [INFO] Saving of Markov module data is started
+[2020-07-16 23:06:52,310] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-07-16 23:06:52,312] [INFO] Saving of Markov module data is finished
+[2020-07-16 23:07:18,292] [INFO] <733414487222255709> sergeykrokodil#5538 -> !ping
+[2020-07-16 23:07:18,293] [DEBUG] Processing command: !ping
+[2020-07-16 23:07:18,652] [INFO] <733414488660901899> WalBot#6054 -> :ping_pong: Pong! <@!373480978871484416> :ping_pong:
+Latency: 170 ms
+[2020-07-16 23:07:32,049] [INFO] Logging system is set up
+[2020-07-16 23:07:32,054] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:07:32,557] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:07:33,059] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:07:33,561] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:07:34,067] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:07:34,574] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:07:35,083] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:07:35,588] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:07:36,091] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:07:36,595] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:07:37,102] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:07:37,605] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:07:38,106] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:07:38,610] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:07:39,115] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:07:39,619] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:07:40,123] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:07:40,624] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:07:41,131] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:07:41,635] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:07:42,147] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:07:42,650] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:07:43,155] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:07:43,659] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:07:44,160] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:07:44,663] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:07:45,166] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:07:45,669] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:07:46,174] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:07:46,680] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:07:47,185] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:07:47,690] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:07:48,195] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:07:48,737] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:07:49,244] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:07:49,745] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:07:50,251] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:07:50,752] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:07:51,252] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:07:51,755] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:07:52,259] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:07:52,766] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:07:53,276] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:07:53,779] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:07:54,283] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:07:54,786] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:07:55,291] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:07:55,799] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:07:56,303] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:07:56,813] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:07:57,321] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:07:57,823] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:07:58,324] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:07:58,825] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:07:59,327] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:07:59,832] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:00,334] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:00,836] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:01,339] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:01,845] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:02,347] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:02,850] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:03,351] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:03,855] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:04,356] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:04,858] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:05,366] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:05,874] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:06,375] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:06,882] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:07,385] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:07,891] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:08,395] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:08,901] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:09,401] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:09,909] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:10,414] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:10,922] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:11,423] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:11,927] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:12,432] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:12,935] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:13,439] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:13,945] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:14,450] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:14,950] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:15,450] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:15,951] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:16,456] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:16,962] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:17,473] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:17,974] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:18,480] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:18,989] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:19,498] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:19,999] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:20,505] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:21,011] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:21,514] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:22,016] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:22,519] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:23,029] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:23,530] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:24,038] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:24,543] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:25,046] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:25,551] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:26,053] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:26,553] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:27,062] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:27,565] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:28,072] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:28,579] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:29,080] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:29,580] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:30,087] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:30,594] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:31,100] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:31,602] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:32,106] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:32,610] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:33,116] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:33,617] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:34,120] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:34,623] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:35,130] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:35,631] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:36,137] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:36,642] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:37,143] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:37,646] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:38,151] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:38,659] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:39,168] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:39,670] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:40,173] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:40,677] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:41,184] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:41,686] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:42,191] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:42,699] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:43,206] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:43,706] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:44,209] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:44,718] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:45,224] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:45,730] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:46,231] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:46,733] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:47,235] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:47,744] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:48,245] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:48,747] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:49,247] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:49,748] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:50,249] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:50,754] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:51,257] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:51,765] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:52,270] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:52,772] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:53,279] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:53,779] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:54,282] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:54,790] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:55,293] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:55,794] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:56,294] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:56,795] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:57,300] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:57,806] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:58,312] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:58,818] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:59,320] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:08:59,827] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:09:00,331] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:09:00,839] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:09:01,348] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:09:01,855] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:09:02,360] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:09:02,862] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:09:03,364] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:09:03,869] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:09:04,374] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:09:04,878] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:09:05,380] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:09:05,883] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:09:06,385] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:09:06,892] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:09:07,393] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:09:07,898] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:09:08,402] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:09:08,906] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:09:09,409] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:09:09,917] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:09:10,418] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:09:10,923] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:09:11,429] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:09:11,932] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:09:12,434] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:09:23,529] [INFO] <733415012403642410> sergeykrokodil#5538 -> !ping
+[2020-07-16 23:09:23,530] [DEBUG] Processing command: !ping
+[2020-07-16 23:09:23,843] [INFO] <733415013880037436> WalBot#6054 -> :ping_pong: Pong! <@!373480978871484416> :ping_pong:
+Latency: 177 ms
+[2020-07-16 23:09:37,327] [INFO] <733415070100619285> sergeykrokodil#5538 -> !ping
+[2020-07-16 23:09:37,328] [DEBUG] Processing command: !ping
+[2020-07-16 23:09:37,538] [INFO] <733415071333482506> WalBot#6054 -> :ping_pong: Pong! <@!373480978871484416> :ping_pong:
+Latency: 174 ms
+[2020-07-16 23:11:16,373] [INFO] Logging system is set up
+[2020-07-16 23:11:16,380] [DEBUG] Bot is still running. Please, wait...
+[2020-07-16 23:11:16,880] [INFO] Bot is stopped!
+[2020-07-29 19:26:17,069] [INFO] Logging system is set up
+[2020-07-29 19:26:17,157] [INFO] Using fast YAML Loader
+[2020-07-29 19:26:17,158] [INFO] Using fast YAML Dumper
+[2020-07-29 19:26:17,555] [ERROR] Config versions mismatch. Expected: 0.0.9, but actual: 0.0.6
+[2020-07-29 19:29:26,293] [INFO] Logging system is set up
+[2020-07-29 19:29:26,402] [INFO] WalBot config patch tool: config.yaml@0.0.6
+[2020-07-29 19:29:26,403] [INFO] Successfully upgraded your config.yaml to version 0.0.7
+[2020-07-29 19:29:26,403] [INFO] Successfully upgraded your config.yaml to version 0.0.8
+[2020-07-29 19:32:55,948] [INFO] Logging system is set up
+[2020-07-29 19:32:56,003] [INFO] WalBot config patch tool: config.yaml@0.0.6
+[2020-07-29 19:32:56,003] [INFO] Successfully upgraded your config.yaml to version 0.0.7
+[2020-07-29 19:32:56,003] [INFO] Successfully upgraded your config.yaml to version 0.0.8
+[2020-07-29 19:41:01,951] [INFO] Logging system is set up
+[2020-07-29 19:41:02,022] [INFO] WalBot config patch tool: config.yaml@0.0.6
+[2020-07-29 19:41:02,022] [INFO] Successfully upgraded your config.yaml to version 0.0.7
+[2020-07-29 19:41:02,023] [INFO] Successfully upgraded your config.yaml to version 0.0.8
+[2020-07-29 19:41:02,026] [INFO] Successfully upgraded your config.yaml to version 0.0.9
+[2020-07-29 19:41:02,026] [INFO] Version is up to date!
+[2020-07-29 19:41:02,041] [INFO] Successfully saved file: 0.0.9
+[2020-07-29 19:41:02,043] [INFO] WalBot config patch tool: markov.yaml@0.0.1
+[2020-07-29 19:41:02,045] [INFO] Version is up to date!
+[2020-07-29 19:41:02,046] [INFO] WalBot config patch tool: secret.yaml@0.0.1
+[2020-07-29 19:41:02,046] [INFO] Version is up to date!
+[2020-07-29 19:41:07,938] [INFO] Logging system is set up
+[2020-07-29 19:41:07,944] [INFO] Using fast YAML Loader
+[2020-07-29 19:41:07,945] [INFO] Using fast YAML Dumper
+[2020-07-29 19:41:08,023] [INFO] Markov model has passed all checks
+[2020-07-29 19:41:11,885] [INFO] Saving of config is started
+[2020-07-29 19:41:11,900] [INFO] Saving of config is finished
+[2020-07-29 19:41:11,900] [INFO] Saving of secret config is started
+[2020-07-29 19:41:11,901] [INFO] Saving of secret config is finished
+[2020-07-29 19:41:11,902] [INFO] Saving of Markov module data is started
+[2020-07-29 19:41:11,904] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-07-29 19:41:11,997] [INFO] Saving of Markov module data is finished
+[2020-07-29 19:41:22,257] [INFO] <738073695548997674> sergeykrokodil#5538 -> !ping
+[2020-07-29 19:41:22,257] [DEBUG] Processing command: !ping
+[2020-07-29 19:41:22,674] [INFO] <738073698279358585> WalBot#6054 -> :ping_pong: Pong! <@!373480978871484416> :ping_pong:
+Latency: 181 ms
+[2020-07-29 19:41:26,777] [INFO] <738073715891372042> sergeykrokodil#5538 -> !img
+[2020-07-29 19:41:26,778] [DEBUG] Processing command: !img
+[2020-07-29 19:41:27,083] [INFO] <738073717216903269> WalBot#6054 -> Too few arguments for command 'img'
+[2020-07-29 19:41:38,019] [INFO] <738073762683027777> sergeykrokodil#5538 -> !listimg
+[2020-07-29 19:41:38,020] [DEBUG] Processing command: !listimg
+[2020-07-29 19:41:38,378] [INFO] <738073764213817365> WalBot#6054 -> No available images found!
+[2020-07-29 19:42:28,294] [INFO] <738073974298116376> sergeykrokodil#5538 -> !addimg Svetlana https://cdn.discordapp.com/attachments/643729881833930773/738073845193375824/Svetlana.png
+[2020-07-29 19:42:28,295] [DEBUG] Processing command: !addimg Svetlana https://cdn.discordapp.com/attachments/643729881833930773/738073845193375824/Svetlana.png
+[2020-07-29 19:42:29,134] [INFO] <738073977389580300> WalBot#6054 -> Image 'Svetlana' successfully added!
+[2020-07-29 19:44:36,819] [INFO] <738074513337483384> sergeykrokodil#5538 -> !img Svertlana
+[2020-07-29 19:44:36,819] [DEBUG] Processing command: !img Svertlana
+[2020-07-29 19:44:37,201] [INFO] <738074514377801799> WalBot#6054 -> Image Svertlana is not found!
+[2020-07-29 19:45:42,015] [INFO] <738074786810298431> sergeykrokodil#5538 -> !img Svetlana
+[2020-07-29 19:45:42,015] [DEBUG] Processing command: !img Svetlana
+[2020-07-29 19:45:42,639] [INFO] <738074788718968884> WalBot#6054 -> 
+[2020-07-29 19:47:11,129] [INFO] <738075160552407101> sergeykrokodil#5538 -> !addimg zen https://cdn.discordapp.com/attachments/643729881833930773/738073899127799898/zen.gif
+[2020-07-29 19:47:11,129] [DEBUG] Processing command: !addimg zen https://cdn.discordapp.com/attachments/643729881833930773/738073899127799898/zen.gif
+[2020-07-29 19:47:11,879] [INFO] <738075163714912257> WalBot#6054 -> Image 'zen' successfully added!
+[2020-07-29 19:47:14,025] [INFO] <738075172602380308> sergeykrokodil#5538 -> !img zen
+[2020-07-29 19:47:14,026] [DEBUG] Processing command: !img zen
+[2020-07-29 19:47:14,420] [INFO] <738075174431358996> WalBot#6054 -> 
+[2020-07-29 19:50:10,380] [INFO] <738075911538213055> sergeykrokodil#5538 -> !img
+[2020-07-29 19:50:10,380] [DEBUG] Processing command: !img
+[2020-07-29 19:50:10,699] [INFO] <738075913497083907> WalBot#6054 -> Too few arguments for command 'img'
+[2020-07-29 19:51:11,880] [INFO] Saving of config is started
+[2020-07-29 19:51:11,893] [INFO] Saving of config is finished
+[2020-07-29 19:51:11,893] [INFO] Saving of secret config is started
+[2020-07-29 19:51:11,894] [INFO] Saving of secret config is finished
+[2020-07-29 19:51:11,895] [INFO] Saving of Markov module data is started
+[2020-07-29 19:51:11,897] [INFO] Saving of Markov module data is finished
+[2020-07-29 20:01:11,897] [INFO] Saving of config is started
+[2020-07-29 20:01:11,920] [INFO] Saving of config is finished
+[2020-07-29 20:01:11,920] [INFO] Saving of secret config is started
+[2020-07-29 20:01:11,927] [INFO] Saving of secret config is finished
+[2020-07-29 20:01:11,927] [INFO] Saving of Markov module data is started
+[2020-07-29 20:01:11,931] [INFO] Saving of Markov module data is finished
+[2020-07-29 20:04:22,017] [INFO] <738079484493955182> sergeykrokodil#5538 -> !ping
+[2020-07-29 20:04:22,018] [DEBUG] Processing command: !ping
+[2020-07-29 20:04:22,350] [INFO] <738079485903110284> WalBot#6054 -> :ping_pong: Pong! <@!373480978871484416> :ping_pong:
+Latency: 168 ms
+[2020-07-29 20:04:42,012] [INFO] Bot is disconnected!
+[2020-07-29 20:04:42,013] [INFO] Saving of config is started
+[2020-07-29 20:04:42,029] [INFO] Saving of config is finished
+[2020-07-29 20:04:42,030] [INFO] Saving of secret config is started
+[2020-07-29 20:04:42,033] [INFO] Saving of secret config is finished
+[2020-07-29 20:04:42,035] [INFO] Saving of Markov module data is started
+[2020-07-29 20:04:42,039] [INFO] Saving of Markov module data is finished
+[2020-07-29 20:04:42,039] [INFO] Saving of Markov is waited
+[2020-07-29 20:04:45,283] [INFO] Logging system is set up
+[2020-07-29 20:04:45,284] [INFO] Using fast YAML Loader
+[2020-07-29 20:04:45,284] [INFO] Using fast YAML Dumper
+[2020-07-29 20:04:45,380] [INFO] Markov model has passed all checks
+[2020-07-29 20:04:48,429] [INFO] Saving of config is started
+[2020-07-29 20:04:48,447] [INFO] Saving of config is finished
+[2020-07-29 20:04:48,448] [INFO] Saving of secret config is started
+[2020-07-29 20:04:48,449] [INFO] Saving of secret config is finished
+[2020-07-29 20:04:48,450] [INFO] Saving of Markov module data is started
+[2020-07-29 20:04:48,454] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-07-29 20:04:48,455] [INFO] Saving of Markov module data is finished
+[2020-07-29 20:04:53,280] [INFO] <738079615326617652> sergeykrokodil#5538 -> !img
+[2020-07-29 20:04:53,281] [DEBUG] Processing command: !img
+[2020-07-29 20:04:53,282] [ERROR] on_message failed
+Traceback (most recent call last):
+  File "D:\Works\walbot\src\bot.py", line 100, in on_message
+    await self.process_command(message)
+  File "D:\Works\walbot\src\bot.py", line 138, in process_command
+    await self.config.commands.data[command[0]].run(message, command, self.config.users[message.author.id])
+  File "D:\Works\walbot\src\config.py", line 106, in run
+    return await self.get_actor()(message, command, silent)
+  File "D:\Works\walbot\src\cmd\builtin.py", line 1112, in _img
+    await Util.response(message, None, silent, files=[discord.File(os.path.join("images", list_images[result]))])
+TypeError: list indices must be integers or slices, not str
+[2020-07-29 20:05:36,355] [INFO] Bot is disconnected!
+[2020-07-29 20:05:36,355] [INFO] Saving of config is started
+[2020-07-29 20:05:36,370] [INFO] Saving of config is finished
+[2020-07-29 20:05:36,371] [INFO] Saving of secret config is started
+[2020-07-29 20:05:36,372] [INFO] Saving of secret config is finished
+[2020-07-29 20:05:36,374] [INFO] Saving of Markov module data is started
+[2020-07-29 20:05:36,381] [INFO] Saving of Markov module data is finished
+[2020-07-29 20:05:36,382] [INFO] Saving of Markov is waited
+[2020-07-29 20:05:40,494] [INFO] Logging system is set up
+[2020-07-29 20:05:40,496] [INFO] Using fast YAML Loader
+[2020-07-29 20:05:40,497] [INFO] Using fast YAML Dumper
+[2020-07-29 20:05:40,591] [INFO] Markov model has passed all checks
+[2020-07-29 20:05:43,561] [INFO] Saving of config is started
+[2020-07-29 20:05:43,572] [INFO] Saving of config is finished
+[2020-07-29 20:05:43,572] [INFO] Saving of secret config is started
+[2020-07-29 20:05:43,573] [INFO] Saving of secret config is finished
+[2020-07-29 20:05:43,573] [INFO] Saving of Markov module data is started
+[2020-07-29 20:05:43,575] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-07-29 20:05:43,576] [INFO] Saving of Markov module data is finished
+[2020-07-29 20:05:48,050] [INFO] <738079845346574456> sergeykrokodil#5538 -> !img
+[2020-07-29 20:05:48,050] [DEBUG] Processing command: !img
+[2020-07-29 20:05:48,055] [ERROR] on_message failed
+Traceback (most recent call last):
+  File "D:\Works\walbot\src\bot.py", line 100, in on_message
+    await self.process_command(message)
+  File "D:\Works\walbot\src\bot.py", line 138, in process_command
+    await self.config.commands.data[command[0]].run(message, command, self.config.users[message.author.id])
+  File "D:\Works\walbot\src\config.py", line 106, in run
+    return await self.get_actor()(message, command, silent)
+  File "D:\Works\walbot\src\cmd\builtin.py", line 1113, in _img
+    await Util.response(message, None, silent, files=[discord.File(os.path.join("images", list_images[result]))])
+TypeError: list indices must be integers or slices, not str
+[2020-07-29 20:13:50,822] [INFO] <738081870285373550> sergeykrokodil#5538 -> !ping
+[2020-07-29 20:13:50,823] [DEBUG] Processing command: !ping
+[2020-07-29 20:13:51,097] [INFO] <738081871451390032> WalBot#6054 -> :ping_pong: Pong! <@!373480978871484416> :ping_pong:
+Latency: 171 ms
+[2020-07-29 20:13:56,494] [INFO] Bot is disconnected!
+[2020-07-29 20:13:56,495] [INFO] Saving of config is started
+[2020-07-29 20:13:56,507] [INFO] Saving of config is finished
+[2020-07-29 20:13:56,507] [INFO] Saving of secret config is started
+[2020-07-29 20:13:56,508] [INFO] Saving of secret config is finished
+[2020-07-29 20:13:56,512] [INFO] Saving of Markov module data is started
+[2020-07-29 20:13:56,514] [INFO] Saving of Markov module data is finished
+[2020-07-29 20:13:56,515] [INFO] Saving of Markov is waited
+[2020-07-29 20:14:06,033] [INFO] Logging system is set up
+[2020-07-29 20:14:06,034] [INFO] Using fast YAML Loader
+[2020-07-29 20:14:06,034] [INFO] Using fast YAML Dumper
+[2020-07-29 20:14:06,130] [INFO] Markov model has passed all checks
+[2020-07-29 20:14:09,193] [INFO] Saving of config is started
+[2020-07-29 20:14:09,208] [INFO] Saving of config is finished
+[2020-07-29 20:14:09,209] [INFO] Saving of secret config is started
+[2020-07-29 20:14:09,210] [INFO] Saving of secret config is finished
+[2020-07-29 20:14:09,210] [INFO] Saving of Markov module data is started
+[2020-07-29 20:14:09,212] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-07-29 20:14:09,213] [INFO] Saving of Markov module data is finished
+[2020-07-29 20:14:11,102] [INFO] <738081954922102936> sergeykrokodil#5538 -> !img zen
+[2020-07-29 20:14:11,103] [DEBUG] Processing command: !img zen
+[2020-07-29 20:14:11,463] [INFO] <738081956864065586> WalBot#6054 -> 
+[2020-07-29 20:14:49,459] [INFO] <738082115803021477> sergeykrokodil#5538 -> !img
+[2020-07-29 20:14:49,459] [DEBUG] Processing command: !img
+[2020-07-29 20:14:49,461] [ERROR] on_message failed
+Traceback (most recent call last):
+  File "D:\Works\walbot\src\bot.py", line 100, in on_message
+    await self.process_command(message)
+  File "D:\Works\walbot\src\bot.py", line 138, in process_command
+    await self.config.commands.data[command[0]].run(message, command, self.config.users[message.author.id])
+  File "D:\Works\walbot\src\config.py", line 106, in run
+    return await self.get_actor()(message, command, silent)
+  File "D:\Works\walbot\src\cmd\builtin.py", line 1113, in _img
+    print(list_images[result])
+TypeError: list indices must be integers or slices, not str
+[2020-07-29 20:15:07,409] [INFO] Bot is disconnected!
+[2020-07-29 20:15:07,410] [INFO] Saving of config is started
+[2020-07-29 20:15:07,430] [INFO] Saving of config is finished
+[2020-07-29 20:15:07,431] [INFO] Saving of secret config is started
+[2020-07-29 20:15:07,433] [INFO] Saving of secret config is finished
+[2020-07-29 20:15:07,436] [INFO] Saving of Markov module data is started
+[2020-07-29 20:15:07,438] [INFO] Saving of Markov module data is finished
+[2020-07-29 20:15:07,438] [INFO] Saving of Markov is waited
+[2020-07-29 20:15:53,231] [INFO] Logging system is set up
+[2020-07-29 20:15:53,232] [INFO] Using fast YAML Loader
+[2020-07-29 20:15:53,234] [INFO] Using fast YAML Dumper
+[2020-07-29 20:15:53,332] [INFO] Markov model has passed all checks
+[2020-07-29 20:15:56,371] [INFO] Saving of config is started
+[2020-07-29 20:15:56,382] [INFO] Saving of config is finished
+[2020-07-29 20:15:56,383] [INFO] Saving of secret config is started
+[2020-07-29 20:15:56,384] [INFO] Saving of secret config is finished
+[2020-07-29 20:15:56,385] [INFO] Saving of Markov module data is started
+[2020-07-29 20:15:56,386] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-07-29 20:15:56,386] [INFO] Saving of Markov module data is finished
+[2020-07-29 20:16:27,534] [INFO] <738082527176032316> sergeykrokodil#5538 -> !img
+[2020-07-29 20:16:27,535] [DEBUG] Processing command: !img
+[2020-07-29 20:16:27,541] [ERROR] on_message failed
+Traceback (most recent call last):
+  File "D:\Works\walbot\src\bot.py", line 100, in on_message
+    await self.process_command(message)
+  File "D:\Works\walbot\src\bot.py", line 138, in process_command
+    await self.config.commands.data[command[0]].run(message, command, self.config.users[message.author.id])
+  File "D:\Works\walbot\src\config.py", line 106, in run
+    return await self.get_actor()(message, command, silent)
+  File "D:\Works\walbot\src\cmd\builtin.py", line 1114, in _img
+    print(list_images[result])
+TypeError: list indices must be integers or slices, not str
+[2020-07-29 20:25:56,378] [INFO] Saving of config is started
+[2020-07-29 20:25:56,396] [INFO] Saving of config is finished
+[2020-07-29 20:25:56,397] [INFO] Saving of secret config is started
+[2020-07-29 20:25:56,401] [INFO] Saving of secret config is finished
+[2020-07-29 20:25:56,402] [INFO] Saving of Markov module data is started
+[2020-07-29 20:25:56,404] [INFO] Saving of Markov module data is finished
+[2020-07-29 20:35:56,400] [INFO] Saving of config is started
+[2020-07-29 20:35:56,411] [INFO] Saving of config is finished
+[2020-07-29 20:35:56,412] [INFO] Saving of secret config is started
+[2020-07-29 20:35:56,413] [INFO] Saving of secret config is finished
+[2020-07-29 20:35:56,414] [INFO] Saving of Markov module data is started
+[2020-07-29 20:35:56,415] [INFO] Saving of Markov module data is finished
+[2020-07-29 20:45:56,416] [INFO] Saving of config is started
+[2020-07-29 20:45:56,431] [INFO] Saving of config is finished
+[2020-07-29 20:45:56,431] [INFO] Saving of secret config is started
+[2020-07-29 20:45:56,432] [INFO] Saving of secret config is finished
+[2020-07-29 20:45:56,433] [INFO] Saving of Markov module data is started
+[2020-07-29 20:45:56,435] [INFO] Saving of Markov module data is finished
+[2020-07-29 20:47:20,474] [INFO] Bot is disconnected!
+[2020-07-29 20:47:20,475] [INFO] Saving of config is started
+[2020-07-29 20:47:20,486] [INFO] Saving of config is finished
+[2020-07-29 20:47:20,487] [INFO] Saving of secret config is started
+[2020-07-29 20:47:20,488] [INFO] Saving of secret config is finished
+[2020-07-29 20:47:20,491] [INFO] Saving of Markov module data is started
+[2020-07-29 20:47:20,493] [INFO] Saving of Markov module data is finished
+[2020-07-29 20:47:20,493] [INFO] Saving of Markov is waited
+[2020-07-29 20:47:26,004] [INFO] Logging system is set up
+[2020-07-29 20:47:26,005] [INFO] Using fast YAML Loader
+[2020-07-29 20:47:26,006] [INFO] Using fast YAML Dumper
+[2020-07-29 20:47:26,104] [INFO] Markov model has passed all checks
+[2020-07-29 20:47:29,141] [INFO] Saving of config is started
+[2020-07-29 20:47:29,162] [INFO] Saving of config is finished
+[2020-07-29 20:47:29,163] [INFO] Saving of secret config is started
+[2020-07-29 20:47:29,165] [INFO] Saving of secret config is finished
+[2020-07-29 20:47:29,167] [INFO] Saving of Markov module data is started
+[2020-07-29 20:47:29,169] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-07-29 20:47:29,170] [INFO] Saving of Markov module data is finished
+[2020-07-29 20:47:34,874] [INFO] <738090359850270811> sergeykrokodil#5538 -> !img
+[2020-07-29 20:47:34,875] [DEBUG] Processing command: !img
+[2020-07-29 20:47:34,881] [ERROR] on_message failed
+Traceback (most recent call last):
+  File "D:\Works\walbot\src\bot.py", line 100, in on_message
+    await self.process_command(message)
+  File "D:\Works\walbot\src\bot.py", line 138, in process_command
+    await self.config.commands.data[command[0]].run(message, command, self.config.users[message.author.id])
+  File "D:\Works\walbot\src\config.py", line 106, in run
+    return await self.get_actor()(message, command, silent)
+  File "D:\Works\walbot\src\cmd\builtin.py", line 1116, in _img
+    [discord.File(os.path.join("images", list_images[result]))])
+TypeError: list indices must be integers or slices, not str
+[2020-07-29 20:48:07,222] [INFO] Bot is disconnected!
+[2020-07-29 20:48:07,222] [INFO] Saving of config is started
+[2020-07-29 20:48:07,236] [INFO] Saving of config is finished
+[2020-07-29 20:48:07,237] [INFO] Saving of secret config is started
+[2020-07-29 20:48:07,238] [INFO] Saving of secret config is finished
+[2020-07-29 20:48:07,239] [INFO] Saving of Markov module data is started
+[2020-07-29 20:48:07,241] [INFO] Saving of Markov module data is finished
+[2020-07-29 20:48:07,241] [INFO] Saving of Markov is waited
+[2020-07-29 20:48:08,985] [INFO] Logging system is set up
+[2020-07-29 20:48:08,987] [INFO] Using fast YAML Loader
+[2020-07-29 20:48:08,987] [INFO] Using fast YAML Dumper
+[2020-07-29 20:48:09,085] [INFO] Markov model has passed all checks
+[2020-07-29 20:48:12,317] [INFO] Saving of config is started
+[2020-07-29 20:48:12,328] [INFO] Saving of config is finished
+[2020-07-29 20:48:12,328] [INFO] Saving of secret config is started
+[2020-07-29 20:48:12,331] [INFO] Saving of secret config is finished
+[2020-07-29 20:48:12,332] [INFO] Saving of Markov module data is started
+[2020-07-29 20:48:12,332] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-07-29 20:48:12,333] [INFO] Saving of Markov module data is finished
+[2020-07-29 20:48:14,381] [INFO] <738090525558702140> sergeykrokodil#5538 -> !img
+[2020-07-29 20:48:14,382] [DEBUG] Processing command: !img
+[2020-07-29 20:48:14,448] [ERROR] on_message failed
+Traceback (most recent call last):
+  File "D:\Works\walbot\src\bot.py", line 100, in on_message
+    await self.process_command(message)
+  File "D:\Works\walbot\src\bot.py", line 138, in process_command
+    await self.config.commands.data[command[0]].run(message, command, self.config.users[message.author.id])
+  File "D:\Works\walbot\src\config.py", line 106, in run
+    return await self.get_actor()(message, command, silent)
+  File "D:\Works\walbot\src\cmd\builtin.py", line 1114, in _img
+    [discord.File(os.path.join("images", list_images[result]))])
+TypeError: response() takes 3 positional arguments but 4 were given
+[2020-07-29 20:48:39,908] [INFO] Bot is disconnected!
+[2020-07-29 20:48:39,908] [INFO] Saving of config is started
+[2020-07-29 20:48:39,921] [INFO] Saving of config is finished
+[2020-07-29 20:48:39,922] [INFO] Saving of secret config is started
+[2020-07-29 20:48:39,922] [INFO] Saving of secret config is finished
+[2020-07-29 20:48:39,925] [INFO] Saving of Markov module data is started
+[2020-07-29 20:48:39,927] [INFO] Saving of Markov module data is finished
+[2020-07-29 20:48:39,928] [INFO] Saving of Markov is waited
+[2020-07-29 20:48:41,557] [INFO] Logging system is set up
+[2020-07-29 20:48:41,558] [INFO] Using fast YAML Loader
+[2020-07-29 20:48:41,558] [INFO] Using fast YAML Dumper
+[2020-07-29 20:48:41,656] [INFO] Markov model has passed all checks
+[2020-07-29 20:48:44,644] [INFO] Saving of config is started
+[2020-07-29 20:48:44,657] [INFO] Saving of config is finished
+[2020-07-29 20:48:44,657] [INFO] Saving of secret config is started
+[2020-07-29 20:48:44,659] [INFO] Saving of secret config is finished
+[2020-07-29 20:48:44,660] [INFO] Saving of Markov module data is started
+[2020-07-29 20:48:44,662] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-07-29 20:48:44,664] [INFO] Saving of Markov module data is finished
+[2020-07-29 20:48:48,888] [INFO] <738090669825851414> sergeykrokodil#5538 -> !img
+[2020-07-29 20:48:48,888] [DEBUG] Processing command: !img
+[2020-07-29 20:48:49,296] [INFO] <738090671939911841> WalBot#6054 -> 
+[2020-07-29 20:48:51,620] [INFO] <738090681737936926> sergeykrokodil#5538 -> !img
+[2020-07-29 20:48:51,621] [DEBUG] Processing command: !img
+[2020-07-29 20:48:51,954] [INFO] <738090683046297621> WalBot#6054 -> 
+[2020-07-29 20:48:53,624] [INFO] <738090690076213319> sergeykrokodil#5538 -> !img
+[2020-07-29 20:48:53,625] [DEBUG] Processing command: !img
+[2020-07-29 20:48:53,927] [INFO] <738090691313401877> WalBot#6054 -> 
+[2020-07-29 20:48:56,087] [INFO] <738090700045811896> sergeykrokodil#5538 -> !img
+[2020-07-29 20:48:56,087] [DEBUG] Processing command: !img
+[2020-07-29 20:48:56,406] [INFO] <738090701530857554> WalBot#6054 -> 
+[2020-07-29 20:48:59,227] [INFO] <738090713660653668> sergeykrokodil#5538 -> !img
+[2020-07-29 20:48:59,227] [DEBUG] Processing command: !img
+[2020-07-29 20:48:59,494] [INFO] <738090714679738389> WalBot#6054 -> 
+[2020-07-29 20:49:24,294] [INFO] <738090818782625873> sergeykrokodil#5538 -> !img
+[2020-07-29 20:49:24,294] [DEBUG] Processing command: !img
+[2020-07-29 20:49:24,297] [ERROR] on_message failed
+Traceback (most recent call last):
+  File "D:\Works\walbot\src\bot.py", line 100, in on_message
+    await self.process_command(message)
+  File "D:\Works\walbot\src\bot.py", line 138, in process_command
+    await self.config.commands.data[command[0]].run(message, command, self.config.users[message.author.id])
+  File "D:\Works\walbot\src\config.py", line 106, in run
+    return await self.get_actor()(message, command, silent)
+  File "D:\Works\walbot\src\cmd\builtin.py", line 1112, in _img
+    await Util.response(message, None, silent,
+  File "C:\Users\user\AppData\Local\Programs\Python\Python37-32\lib\random.py", line 222, in randint
+    return self.randrange(a, b+1)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python37-32\lib\random.py", line 200, in randrange
+    raise ValueError("empty range for randrange() (%d,%d, %d)" % (istart, istop, width))
+ValueError: empty range for randrange() (0,0, 0)
+[2020-07-29 20:51:03,552] [INFO] Bot is disconnected!
+[2020-07-29 20:51:03,552] [INFO] Saving of config is started
+[2020-07-29 20:51:03,567] [INFO] Saving of config is finished
+[2020-07-29 20:51:03,567] [INFO] Saving of secret config is started
+[2020-07-29 20:51:03,568] [INFO] Saving of secret config is finished
+[2020-07-29 20:51:03,571] [INFO] Saving of Markov module data is started
+[2020-07-29 20:51:03,578] [INFO] Saving of Markov module data is finished
+[2020-07-29 20:51:03,578] [INFO] Saving of Markov is waited
+[2020-07-29 20:51:06,421] [INFO] Logging system is set up
+[2020-07-29 20:51:06,423] [INFO] Using fast YAML Loader
+[2020-07-29 20:51:06,426] [INFO] Using fast YAML Dumper
+[2020-07-29 20:51:06,522] [INFO] Markov model has passed all checks
+[2020-07-29 20:51:09,593] [INFO] Saving of config is started
+[2020-07-29 20:51:09,607] [INFO] Saving of config is finished
+[2020-07-29 20:51:09,608] [INFO] Saving of secret config is started
+[2020-07-29 20:51:09,609] [INFO] Saving of secret config is finished
+[2020-07-29 20:51:09,609] [INFO] Saving of Markov module data is started
+[2020-07-29 20:51:09,610] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-07-29 20:51:09,611] [INFO] Saving of Markov module data is finished
+[2020-07-29 20:51:13,282] [INFO] <738091275605115072> sergeykrokodil#5538 -> !img
+[2020-07-29 20:51:13,282] [DEBUG] Processing command: !img
+[2020-07-29 20:51:13,496] [INFO] <738091276670337157> WalBot#6054 -> No images found!
+[2020-07-29 20:51:43,381] [INFO] <738091402076094524> sergeykrokodil#5538 -> !img
+[2020-07-29 20:51:43,381] [DEBUG] Processing command: !img
+[2020-07-29 20:51:43,803] [INFO] <738091403783176233> WalBot#6054 -> 
+[2020-07-29 20:51:45,564] [INFO] <738091411307757659> sergeykrokodil#5538 -> !img
+[2020-07-29 20:51:45,564] [DEBUG] Processing command: !img
+[2020-07-29 20:51:45,888] [INFO] <738091412267991072> WalBot#6054 -> 
+[2020-07-29 20:51:47,280] [INFO] <738091418223902743> sergeykrokodil#5538 -> !img
+[2020-07-29 20:51:47,280] [DEBUG] Processing command: !img
+[2020-07-29 20:51:47,580] [INFO] <738091419696365648> WalBot#6054 -> 
+[2020-07-29 20:51:48,991] [INFO] <738091425526448249> sergeykrokodil#5538 -> !img
+[2020-07-29 20:51:48,991] [DEBUG] Processing command: !img
+[2020-07-29 20:51:49,291] [INFO] <738091426793128007> WalBot#6054 -> 
+[2020-07-29 20:51:50,688] [INFO] <738091432778137620> sergeykrokodil#5538 -> !img
+[2020-07-29 20:51:50,688] [DEBUG] Processing command: !img
+[2020-07-29 20:51:50,917] [INFO] <738091433793159178> WalBot#6054 -> 
+[2020-07-29 20:51:52,346] [INFO] <738091439480897580> sergeykrokodil#5538 -> !img
+[2020-07-29 20:51:52,346] [DEBUG] Processing command: !img
+[2020-07-29 20:51:52,614] [INFO] <738091440718217278> WalBot#6054 -> 
+[2020-07-29 21:01:09,625] [INFO] Saving of config is started
+[2020-07-29 21:01:09,638] [INFO] Saving of config is finished
+[2020-07-29 21:01:09,638] [INFO] Saving of secret config is started
+[2020-07-29 21:01:09,639] [INFO] Saving of secret config is finished
+[2020-07-29 21:01:09,641] [INFO] Saving of Markov module data is started
+[2020-07-29 21:01:09,642] [INFO] Saving of Markov module data is finished
+[2020-07-29 21:04:45,809] [INFO] <738094683816722463> sergeykrokodil#5538 -> !ping
+[2020-07-29 21:07:08,596] [DEBUG] Processing command: !ping
+[2020-07-29 21:07:12,170] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-07-29 21:07:30,070] [INFO] Bot is disconnected!
+[2020-07-29 21:07:30,071] [INFO] Saving of config is started
+[2020-07-29 21:07:30,091] [INFO] Saving of config is finished
+[2020-07-29 21:07:30,091] [INFO] Saving of secret config is started
+[2020-07-29 21:07:30,093] [INFO] Saving of secret config is finished
+[2020-07-29 21:07:30,096] [INFO] Saving of Markov module data is started
+[2020-07-29 21:07:30,098] [INFO] Saving of Markov module data is finished
+[2020-07-29 21:07:30,098] [INFO] Saving of Markov is waited
+[2020-07-31 20:48:37,307] [INFO] Logging system is set up
+[2020-07-31 20:48:37,371] [INFO] Using fast YAML Loader
+[2020-07-31 20:48:37,372] [INFO] Using fast YAML Dumper
+[2020-07-31 20:48:37,927] [INFO] Markov model has passed all checks
+[2020-07-31 20:48:43,817] [INFO] Saving of config is started
+[2020-07-31 20:48:43,951] [INFO] Saving of config is finished
+[2020-07-31 20:48:43,951] [INFO] Saving of secret config is started
+[2020-07-31 20:48:43,957] [INFO] Saving of secret config is finished
+[2020-07-31 20:48:43,958] [INFO] Saving of Markov module data is started
+[2020-07-31 20:48:43,960] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-07-31 20:48:43,963] [INFO] Saving of Markov module data is finished
+[2020-07-31 20:49:01,061] [INFO] <738815499521228840> sergeykrokodil#5538 -> !ping
+[2020-07-31 20:49:01,061] [DEBUG] Processing command: !ping
+[2020-07-31 20:49:01,355] [INFO] <738815500905349120> WalBot#6054 -> :ping_pong: Pong! <@!373480978871484416> :ping_pong:
+Latency: 164 ms
+[2020-07-31 20:49:19,053] [INFO] <738815575144267853> sergeykrokodil#5538 -> !addcmd hello Hello!
+[2020-07-31 20:49:19,056] [DEBUG] Processing command: !addcmd hello Hello!
+[2020-07-31 20:49:19,348] [INFO] <738815576343838810> WalBot#6054 -> Command 'hello' -> 'Hello!' successfully added
+[2020-07-31 20:49:22,832] [INFO] <738815590835290113> sergeykrokodil#5538 -> !hello
+[2020-07-31 20:49:22,834] [DEBUG] Processing command: !hello
+[2020-07-31 20:49:23,029] [INFO] <738815591825014800> WalBot#6054 -> Hello!
+[2020-07-31 20:58:03,460] [INFO] <738817774557855835> sergeykrokodil#5538 -> !addcmd ban @args@ has been banned!
+[2020-07-31 20:58:03,461] [DEBUG] Processing command: !addcmd ban @args@ has been banned!
+[2020-07-31 20:58:03,767] [INFO] <738817775639855165> WalBot#6054 -> Command 'ban' -> '@args@ has been banned!' successfully added
+[2020-07-31 20:58:08,385] [INFO] <738817795285975110> sergeykrokodil#5538 -> !ban <@!729351394926264390>
+[2020-07-31 20:58:08,386] [DEBUG] Processing command: !ban <@!729351394926264390>
+[2020-07-31 20:58:08,648] [INFO] <738817796376363019> WalBot#6054 -> <@!729351394926264390> has been banned!
+[2020-07-31 20:58:17,238] [INFO] <738817832422473728> sergeykrokodil#5538 -> !ban free
+[2020-07-31 20:58:17,238] [DEBUG] Processing command: !ban free
+[2020-07-31 20:58:17,475] [INFO] <738817833303146577> WalBot#6054 -> free has been banned!
+[2020-07-31 20:58:43,957] [INFO] Saving of config is started
+[2020-07-31 20:58:43,998] [INFO] Saving of config is finished
+[2020-07-31 20:58:43,998] [INFO] Saving of secret config is started
+[2020-07-31 20:58:44,004] [INFO] Saving of secret config is finished
+[2020-07-31 20:58:44,006] [INFO] Saving of Markov module data is started
+[2020-07-31 20:58:44,011] [INFO] Saving of Markov module data is finished
+[2020-07-31 21:08:44,013] [INFO] Saving of config is started
+[2020-07-31 21:08:44,054] [INFO] Saving of config is finished
+[2020-07-31 21:08:44,054] [INFO] Saving of secret config is started
+[2020-07-31 21:08:44,056] [INFO] Saving of secret config is finished
+[2020-07-31 21:08:44,056] [INFO] Saving of Markov module data is started
+[2020-07-31 21:08:44,060] [INFO] Saving of Markov module data is finished
+[2020-07-31 21:12:29,717] [INFO] <738821408057983097> sergeykrokodil#5538 -> !ban dfsgher erg dfg
+[2020-07-31 21:12:29,718] [DEBUG] Processing command: !ban dfsgher erg dfg
+[2020-07-31 21:12:30,077] [INFO] <738821409559543848> WalBot#6054 -> dfsgher erg dfg has been banned!
+[2020-07-31 21:18:44,053] [INFO] Saving of config is started
+[2020-07-31 21:18:44,087] [INFO] Saving of config is finished
+[2020-07-31 21:18:44,087] [INFO] Saving of secret config is started
+[2020-07-31 21:18:44,091] [INFO] Saving of secret config is finished
+[2020-07-31 21:18:44,092] [INFO] Saving of Markov module data is started
+[2020-07-31 21:18:44,094] [INFO] Saving of Markov module data is finished
+[2020-07-31 21:28:44,094] [INFO] Saving of config is started
+[2020-07-31 21:28:44,131] [INFO] Saving of config is finished
+[2020-07-31 21:28:44,131] [INFO] Saving of secret config is started
+[2020-07-31 21:28:44,138] [INFO] Saving of secret config is finished
+[2020-07-31 21:28:44,139] [INFO] Saving of Markov module data is started
+[2020-07-31 21:28:44,143] [INFO] Saving of Markov module data is finished
+[2020-07-31 21:38:44,131] [INFO] Saving of config is started
+[2020-07-31 21:38:44,178] [INFO] Saving of config is finished
+[2020-07-31 21:38:44,178] [INFO] Saving of secret config is started
+[2020-07-31 21:38:44,184] [INFO] Saving of secret config is finished
+[2020-07-31 21:38:44,184] [INFO] Saving of Markov module data is started
+[2020-07-31 21:38:44,189] [INFO] Saving of Markov module data is finished
+[2020-07-31 21:48:44,201] [INFO] Saving of config is started
+[2020-07-31 21:48:44,242] [INFO] Saving of config is finished
+[2020-07-31 21:48:44,242] [INFO] Saving of secret config is started
+[2020-07-31 21:48:44,246] [INFO] Saving of secret config is finished
+[2020-07-31 21:48:44,247] [INFO] Saving of Markov module data is started
+[2020-07-31 21:48:44,251] [INFO] Saving of Markov module data is finished
+[2020-07-31 21:58:44,250] [INFO] Saving of config is started
+[2020-07-31 21:58:44,293] [INFO] Saving of config is finished
+[2020-07-31 21:58:44,293] [INFO] Saving of secret config is started
+[2020-07-31 21:58:44,297] [INFO] Saving of secret config is finished
+[2020-07-31 21:58:44,302] [INFO] Saving of Markov module data is started
+[2020-07-31 21:58:44,306] [INFO] Saving of Markov module data is finished
+[2020-07-31 22:08:44,307] [INFO] Saving of config is started
+[2020-07-31 22:08:44,356] [INFO] Saving of config is finished
+[2020-07-31 22:08:44,356] [INFO] Saving of secret config is started
+[2020-07-31 22:08:44,359] [INFO] Saving of secret config is finished
+[2020-07-31 22:08:44,362] [INFO] Saving of Markov module data is started
+[2020-07-31 22:08:44,366] [INFO] Saving of Markov module data is finished
+[2020-07-31 22:18:44,400] [INFO] Created backup for config.yaml: config_2020-07-31_22-18-44.yaml
+[2020-07-31 22:18:44,415] [INFO] Created backup for markov.yaml: markov_2020-07-31_22-18-44.yaml
+[2020-07-31 22:18:44,415] [INFO] Saving of config is started
+[2020-07-31 22:18:44,461] [INFO] Saving of config is finished
+[2020-07-31 22:18:44,463] [INFO] Saving of secret config is started
+[2020-07-31 22:18:44,467] [INFO] Saving of secret config is finished
+[2020-07-31 22:18:44,469] [INFO] Saving of Markov module data is started
+[2020-07-31 22:18:44,571] [INFO] Saving of Markov module data is finished
+[2020-07-31 22:28:44,471] [INFO] Saving of config is started
+[2020-07-31 22:28:44,506] [INFO] Saving of config is finished
+[2020-07-31 22:28:44,515] [INFO] Saving of secret config is started
+[2020-07-31 22:28:44,517] [INFO] Saving of secret config is finished
+[2020-07-31 22:28:44,520] [INFO] Saving of Markov module data is started
+[2020-07-31 22:28:44,524] [INFO] Saving of Markov module data is finished
+[2020-07-31 22:38:44,524] [INFO] Saving of config is started
+[2020-07-31 22:38:44,563] [INFO] Saving of config is finished
+[2020-07-31 22:38:44,563] [INFO] Saving of secret config is started
+[2020-07-31 22:38:44,563] [INFO] Saving of secret config is finished
+[2020-07-31 22:38:44,570] [INFO] Saving of Markov module data is started
+[2020-07-31 22:38:44,571] [INFO] Saving of Markov module data is finished
+[2020-07-31 22:48:44,572] [INFO] Saving of config is started
+[2020-07-31 22:48:44,613] [INFO] Saving of config is finished
+[2020-07-31 22:48:44,613] [INFO] Saving of secret config is started
+[2020-07-31 22:48:44,619] [INFO] Saving of secret config is finished
+[2020-07-31 22:48:44,624] [INFO] Saving of Markov module data is started
+[2020-07-31 22:48:44,627] [INFO] Saving of Markov module data is finished
+[2020-07-31 22:58:44,638] [INFO] Saving of config is started
+[2020-07-31 22:58:44,696] [INFO] Saving of config is finished
+[2020-07-31 22:58:44,697] [INFO] Saving of secret config is started
+[2020-07-31 22:58:44,700] [INFO] Saving of secret config is finished
+[2020-07-31 22:58:44,703] [INFO] Saving of Markov module data is started
+[2020-07-31 22:58:44,710] [INFO] Saving of Markov module data is finished
+[2020-07-31 23:08:44,714] [INFO] Saving of config is started
+[2020-07-31 23:08:44,729] [INFO] Saving of config is finished
+[2020-07-31 23:08:44,729] [INFO] Saving of secret config is started
+[2020-07-31 23:08:44,730] [INFO] Saving of secret config is finished
+[2020-07-31 23:08:44,731] [INFO] Saving of Markov module data is started
+[2020-07-31 23:08:44,732] [INFO] Saving of Markov module data is finished
+[2020-07-31 23:18:44,719] [INFO] Saving of config is started
+[2020-07-31 23:18:44,740] [INFO] Saving of config is finished
+[2020-07-31 23:18:44,740] [INFO] Saving of secret config is started
+[2020-07-31 23:18:44,742] [INFO] Saving of secret config is finished
+[2020-07-31 23:18:44,751] [INFO] Saving of Markov module data is started
+[2020-07-31 23:18:44,754] [INFO] Saving of Markov module data is finished
+[2020-07-31 23:25:31,605] [INFO] <738854885226840136> sergeykrokodil#5538 -> !ban
+[2020-07-31 23:25:35,262] [DEBUG] Processing command: !ban
+[2020-07-31 23:25:35,581] [INFO] <738854903090511964> WalBot#6054 -> has been banned!
+[2020-07-31 23:25:53,426] [INFO] Bot is disconnected!
+[2020-07-31 23:25:53,426] [INFO] Saving of config is started
+[2020-07-31 23:25:53,439] [INFO] Saving of config is finished
+[2020-07-31 23:25:53,440] [INFO] Saving of secret config is started
+[2020-07-31 23:25:53,441] [INFO] Saving of secret config is finished
+[2020-07-31 23:25:53,441] [INFO] Saving of Markov module data is started
+[2020-07-31 23:25:53,443] [INFO] Saving of Markov module data is finished
+[2020-07-31 23:25:53,443] [INFO] Saving of Markov is waited
+[2020-07-31 23:25:58,895] [INFO] Logging system is set up
+[2020-07-31 23:25:58,920] [INFO] Using fast YAML Loader
+[2020-07-31 23:25:58,921] [INFO] Using fast YAML Dumper
+[2020-07-31 23:25:59,121] [INFO] Markov model has passed all checks
+[2020-07-31 23:26:03,863] [INFO] Saving of config is started
+[2020-07-31 23:26:03,883] [INFO] Saving of config is finished
+[2020-07-31 23:26:03,883] [INFO] Saving of secret config is started
+[2020-07-31 23:26:03,885] [INFO] Saving of secret config is finished
+[2020-07-31 23:26:03,885] [INFO] Saving of Markov module data is started
+[2020-07-31 23:26:03,887] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-07-31 23:26:03,888] [INFO] Saving of Markov module data is finished
+[2020-07-31 23:26:22,302] [INFO] <738855099375550515> sergeykrokodil#5538 -> !addcmd multiban @args0-@ have been banned!
+[2020-07-31 23:26:22,302] [DEBUG] Processing command: !addcmd multiban @args0-@ have been banned!
+[2020-07-31 23:26:23,115] [INFO] <738855100520333405> WalBot#6054 -> Command 'multiban' -> '@args0-@ have been banned!' successfully added
+[2020-07-31 23:27:57,072] [INFO] <738855496815083630> sergeykrokodil#5538 -> !multiban авс аисд мно
+[2020-07-31 23:27:57,077] [DEBUG] Processing command: !multiban авс аисд мно
+[2020-07-31 23:27:57,079] [ERROR] on_message failed
+Traceback (most recent call last):
+  File "D:\Works\walbot\src\bot.py", line 100, in on_message
+    await self.process_command(message)
+  File "D:\Works\walbot\src\bot.py", line 138, in process_command
+    await self.config.commands.data[command[0]].run(message, command, self.config.users[message.author.id])
+  File "D:\Works\walbot\src\config.py", line 124, in run
+    response = await self.process_variables(response, message, command)
+  File "D:\Works\walbot\src\config.py", line 54, in process_variables
+    res = re.search(r'@args(\d*)-*(\d*)@', str[it:])
+UnboundLocalError: local variable 'str' referenced before assignment
+[2020-07-31 23:28:33,187] [INFO] Bot is disconnected!
+[2020-07-31 23:28:33,187] [INFO] Saving of config is started
+[2020-07-31 23:28:33,207] [INFO] Saving of config is finished
+[2020-07-31 23:28:33,207] [INFO] Saving of secret config is started
+[2020-07-31 23:28:33,209] [INFO] Saving of secret config is finished
+[2020-07-31 23:28:33,209] [INFO] Saving of Markov module data is started
+[2020-07-31 23:28:33,212] [INFO] Saving of Markov module data is finished
+[2020-07-31 23:28:33,212] [INFO] Saving of Markov is waited
+[2020-07-31 23:29:11,302] [INFO] Logging system is set up
+[2020-07-31 23:29:11,303] [INFO] Using fast YAML Loader
+[2020-07-31 23:29:11,304] [INFO] Using fast YAML Dumper
+[2020-07-31 23:29:11,394] [INFO] Markov model has passed all checks
+[2020-07-31 23:29:20,708] [INFO] <738855846817169470> sergeykrokodil#5538 -> !multiban авс аисд мно
+[2020-07-31 23:29:20,709] [DEBUG] Processing command: !multiban авс аисд мно
+[2020-07-31 23:29:20,710] [ERROR] on_message failed
+Traceback (most recent call last):
+  File "D:\Works\walbot\src\bot.py", line 100, in on_message
+    await self.process_command(message)
+  File "D:\Works\walbot\src\bot.py", line 138, in process_command
+    await self.config.commands.data[command[0]].run(message, command, self.config.users[message.author.id])
+  File "D:\Works\walbot\src\config.py", line 124, in run
+    response = await self.process_variables(response, message, command)
+  File "D:\Works\walbot\src\config.py", line 54, in process_variables
+    res = re.search(r'@args(\d*)-*(\d*)@', str[it:])
+TypeError: 'type' object is not subscriptable
+[2020-07-31 23:29:22,713] [INFO] Saving of config is started
+[2020-07-31 23:29:22,731] [INFO] Saving of config is finished
+[2020-07-31 23:29:22,732] [INFO] Saving of secret config is started
+[2020-07-31 23:29:22,734] [INFO] Saving of secret config is finished
+[2020-07-31 23:29:22,734] [INFO] Saving of Markov module data is started
+[2020-07-31 23:29:22,736] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-07-31 23:29:22,737] [INFO] Saving of Markov module data is finished
+[2020-07-31 23:30:32,780] [INFO] Bot is disconnected!
+[2020-07-31 23:30:32,781] [INFO] Saving of config is started
+[2020-07-31 23:30:32,800] [INFO] Saving of config is finished
+[2020-07-31 23:30:32,801] [INFO] Saving of secret config is started
+[2020-07-31 23:30:32,802] [INFO] Saving of secret config is finished
+[2020-07-31 23:30:32,803] [INFO] Saving of Markov module data is started
+[2020-07-31 23:30:32,806] [INFO] Saving of Markov module data is finished
+[2020-07-31 23:30:32,806] [INFO] Saving of Markov is waited
+[2020-07-31 23:30:49,031] [INFO] Logging system is set up
+[2020-07-31 23:30:49,032] [INFO] Using fast YAML Loader
+[2020-07-31 23:30:49,032] [INFO] Using fast YAML Dumper
+[2020-07-31 23:30:49,119] [INFO] Markov model has passed all checks
+[2020-07-31 23:30:52,122] [INFO] Saving of config is started
+[2020-07-31 23:30:52,138] [INFO] Saving of config is finished
+[2020-07-31 23:30:52,138] [INFO] Saving of secret config is started
+[2020-07-31 23:30:52,138] [INFO] Saving of secret config is finished
+[2020-07-31 23:30:52,138] [INFO] Saving of Markov module data is started
+[2020-07-31 23:30:52,138] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-07-31 23:30:52,138] [INFO] Saving of Markov module data is finished
+[2020-07-31 23:31:09,092] [INFO] <738856302020919338> sergeykrokodil#5538 -> !multiban авс аисд мно
+[2020-07-31 23:31:09,093] [DEBUG] Processing command: !multiban авс аисд мно
+[2020-07-31 23:31:09,383] [INFO] <738856303585132614> WalBot#6054 -> авс аисд мно have been banned!
+[2020-07-31 23:31:41,993] [INFO] <738856440306860163> sergeykrokodil#5538 -> !addcmd ban13 @args1-3@ have been banned!
+[2020-07-31 23:31:41,994] [DEBUG] Processing command: !addcmd ban13 @args1-3@ have been banned!
+[2020-07-31 23:31:42,252] [INFO] <738856441179275296> WalBot#6054 -> Command 'ban13' -> '@args1-3@ have been banned!' successfully added
+[2020-07-31 23:31:58,629] [INFO] <738856509953409186> sergeykrokodil#5538 -> !ban13 оси авс аисд мно пп
+[2020-07-31 23:31:58,630] [DEBUG] Processing command: !ban13 оси авс аисд мно пп
+[2020-07-31 23:31:58,922] [INFO] <738856511341592716> WalBot#6054 -> авс аисд have been banned!
+[2020-07-31 23:35:01,672] [INFO] Bot is disconnected!
+[2020-07-31 23:35:01,673] [INFO] Saving of config is started
+[2020-07-31 23:35:01,700] [INFO] Saving of config is finished
+[2020-07-31 23:35:01,701] [INFO] Saving of secret config is started
+[2020-07-31 23:35:01,702] [INFO] Saving of secret config is finished
+[2020-07-31 23:35:01,703] [INFO] Saving of Markov module data is started
+[2020-07-31 23:35:01,706] [INFO] Saving of Markov module data is finished
+[2020-07-31 23:35:01,707] [INFO] Saving of Markov is waited
+[2020-07-31 23:35:07,063] [INFO] Logging system is set up
+[2020-07-31 23:35:07,064] [INFO] Using fast YAML Loader
+[2020-07-31 23:35:07,065] [INFO] Using fast YAML Dumper
+[2020-07-31 23:35:07,156] [INFO] Markov model has passed all checks
+[2020-07-31 23:35:10,158] [INFO] Saving of config is started
+[2020-07-31 23:35:10,170] [INFO] Saving of config is finished
+[2020-07-31 23:35:10,171] [INFO] Saving of secret config is started
+[2020-07-31 23:35:10,171] [INFO] Saving of secret config is finished
+[2020-07-31 23:35:10,172] [INFO] Saving of Markov module data is started
+[2020-07-31 23:35:10,173] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-07-31 23:35:10,174] [INFO] Saving of Markov module data is finished
+[2020-07-31 23:35:26,162] [INFO] <738857376513523752> sergeykrokodil#5538 -> !ban13 оси авс аисд мно пп
+[2020-07-31 23:35:26,162] [DEBUG] Processing command: !ban13 оси авс аисд мно пп
+[2020-07-31 23:35:26,462] [INFO] <738857381785501706> WalBot#6054 -> авс аисд мно have been banned!
+[2020-07-31 23:36:02,305] [INFO] <738857529785843825> sergeykrokodil#5538 -> !ban14 @args1-4@ have been banned!
+[2020-07-31 23:36:03,484] [INFO] <738857535284576257> WalBot#6054 -> Unknown command 'ban14'
+[2020-07-31 23:36:23,249] [INFO] <738857618885312513> sergeykrokodil#5538 -> !addcmd ban14 @args1-4@ have been banned!
+[2020-07-31 23:36:23,249] [DEBUG] Processing command: !addcmd ban14 @args1-4@ have been banned!
+[2020-07-31 23:36:24,427] [INFO] <738857621003567105> WalBot#6054 -> Command 'ban14' -> '@args1-4@ have been banned!' successfully added
+[2020-07-31 23:37:07,371] [INFO] <738857804642648195> sergeykrokodil#5538 -> !ban14 оси авс аисд пчми мно пп
+[2020-07-31 23:37:07,372] [DEBUG] Processing command: !ban14 оси авс аисд пчми мно пп
+[2020-07-31 23:37:08,836] [INFO] <738857806308048967> WalBot#6054 -> авс аисд пчми мно have been banned!
+[2020-07-31 23:43:32,994] [INFO] Bot is disconnected!
+[2020-07-31 23:43:32,994] [INFO] Saving of config is started
+[2020-07-31 23:43:33,016] [INFO] Saving of config is finished
+[2020-07-31 23:43:33,016] [INFO] Saving of secret config is started
+[2020-07-31 23:43:33,016] [INFO] Saving of secret config is finished
+[2020-07-31 23:43:33,016] [INFO] Saving of Markov module data is started
+[2020-07-31 23:43:33,016] [INFO] Saving of Markov module data is finished
+[2020-07-31 23:43:33,016] [INFO] Saving of Markov is waited
+[2020-07-31 23:44:07,005] [INFO] Logging system is set up
+[2020-07-31 23:44:07,007] [INFO] Using fast YAML Loader
+[2020-07-31 23:44:07,007] [INFO] Using fast YAML Dumper
+[2020-07-31 23:44:07,102] [INFO] Markov model has passed all checks
+[2020-07-31 23:44:10,285] [INFO] Saving of config is started
+[2020-07-31 23:44:10,305] [INFO] Saving of config is finished
+[2020-07-31 23:44:10,305] [INFO] Saving of secret config is started
+[2020-07-31 23:44:10,308] [INFO] Saving of secret config is finished
+[2020-07-31 23:44:10,309] [INFO] Saving of Markov module data is started
+[2020-07-31 23:44:10,310] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-07-31 23:44:10,311] [INFO] Saving of Markov module data is finished
+[2020-07-31 23:44:16,500] [INFO] <738859604796244030> sergeykrokodil#5538 -> !ban hj r  sdv zsw
+[2020-07-31 23:44:16,523] [DEBUG] Processing command: !ban hj r  sdv zsw
+[2020-07-31 23:44:16,525] [ERROR] on_message failed
+Traceback (most recent call last):
+  File "D:\Works\walbot\src\bot.py", line 100, in on_message
+    await self.process_command(message)
+  File "D:\Works\walbot\src\bot.py", line 138, in process_command
+    await self.config.commands.data[command[0]].run(message, command, self.config.users[message.author.id])
+  File "D:\Works\walbot\src\config.py", line 124, in run
+    response = await self.process_variables(response, message, command)
+  File "D:\Works\walbot\src\config.py", line 54, in process_variables
+    res = re.search(ARGS_REGEX, string[it:])
+NameError: name 'ARGS_REGEX' is not defined
+[2020-07-31 23:46:05,759] [INFO] <738860063242059886> sergeykrokodil#5538 -> !ping
+[2020-07-31 23:46:05,759] [DEBUG] Processing command: !ping
+[2020-07-31 23:46:06,368] [INFO] <738860064646889623> WalBot#6054 -> :ping_pong: Pong! <@!373480978871484416> :ping_pong:
+Latency: 162 ms
+[2020-07-31 23:46:20,329] [INFO] Bot is disconnected!
+[2020-07-31 23:46:20,329] [INFO] Saving of config is started
+[2020-07-31 23:46:20,347] [INFO] Saving of config is finished
+[2020-07-31 23:46:20,348] [INFO] Saving of secret config is started
+[2020-07-31 23:46:20,349] [INFO] Saving of secret config is finished
+[2020-07-31 23:46:20,349] [INFO] Saving of Markov module data is started
+[2020-07-31 23:46:20,351] [INFO] Saving of Markov module data is finished
+[2020-07-31 23:46:20,351] [INFO] Saving of Markov is waited
+[2020-07-31 23:46:22,586] [INFO] Logging system is set up
+[2020-07-31 23:46:22,588] [INFO] Using fast YAML Loader
+[2020-07-31 23:46:22,588] [INFO] Using fast YAML Dumper
+[2020-07-31 23:46:22,685] [INFO] Markov model has passed all checks
+[2020-07-31 23:46:25,804] [INFO] Saving of config is started
+[2020-07-31 23:46:25,823] [INFO] Saving of config is finished
+[2020-07-31 23:46:25,824] [INFO] Saving of secret config is started
+[2020-07-31 23:46:25,825] [INFO] Saving of secret config is finished
+[2020-07-31 23:46:25,826] [INFO] Saving of Markov module data is started
+[2020-07-31 23:46:25,827] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-07-31 23:46:25,829] [INFO] Saving of Markov module data is finished
+[2020-07-31 23:46:36,342] [INFO] <738860191457607690> sergeykrokodil#5538 -> !ban jkg we vsfg
+[2020-07-31 23:46:36,342] [DEBUG] Processing command: !ban jkg we vsfg
+[2020-07-31 23:46:36,561] [INFO] <738860192263045181> WalBot#6054 -> ban jkg we vsfg has been banned!
+[2020-07-31 23:46:54,512] [INFO] <738860267298881708> sergeykrokodil#5538 -> !ban14 оси авс аисд пчми мно пп
+[2020-07-31 23:46:54,512] [DEBUG] Processing command: !ban14 оси авс аисд пчми мно пп
+[2020-07-31 23:46:54,817] [INFO] <738860268955631636> WalBot#6054 -> авс аисд пчми мно have been banned!
+[2020-07-31 23:47:09,034] [INFO] <738860328317616290> sergeykrokodil#5538 -> !ban help
+[2020-07-31 23:47:09,034] [DEBUG] Processing command: !ban help
+[2020-07-31 23:47:09,292] [INFO] <738860329689284648> WalBot#6054 -> ban help has been banned!
+[2020-07-31 23:48:05,877] [INFO] Bot is disconnected!
+[2020-07-31 23:48:05,877] [INFO] Saving of config is started
+[2020-07-31 23:48:05,895] [INFO] Saving of config is finished
+[2020-07-31 23:48:05,895] [INFO] Saving of secret config is started
+[2020-07-31 23:48:05,896] [INFO] Saving of secret config is finished
+[2020-07-31 23:48:05,896] [INFO] Saving of Markov module data is started
+[2020-07-31 23:48:05,898] [INFO] Saving of Markov module data is finished
+[2020-07-31 23:48:05,898] [INFO] Saving of Markov is waited
+[2020-07-31 23:48:14,131] [INFO] Logging system is set up
+[2020-07-31 23:48:14,133] [INFO] Using fast YAML Loader
+[2020-07-31 23:48:14,133] [INFO] Using fast YAML Dumper
+[2020-07-31 23:48:14,220] [INFO] Markov model has passed all checks
+[2020-07-31 23:48:17,290] [INFO] Saving of config is started
+[2020-07-31 23:48:17,304] [INFO] Saving of config is finished
+[2020-07-31 23:48:17,305] [INFO] Saving of secret config is started
+[2020-07-31 23:48:17,305] [INFO] Saving of secret config is finished
+[2020-07-31 23:48:17,305] [INFO] Saving of Markov module data is started
+[2020-07-31 23:48:17,307] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-07-31 23:48:17,308] [INFO] Saving of Markov module data is finished
+[2020-07-31 23:48:23,680] [INFO] <738860641758085304> sergeykrokodil#5538 -> !ban14 оси авс аисд пчми мно пп
+[2020-07-31 23:48:23,681] [DEBUG] Processing command: !ban14 оси авс аисд пчми мно пп
+[2020-07-31 23:48:23,897] [INFO] <738860642513059952> WalBot#6054 -> авс аисд пчми мно have been banned!
+[2020-07-31 23:48:28,649] [INFO] <738860662607839272> sergeykrokodil#5538 -> !ban hmm
+[2020-07-31 23:48:28,649] [DEBUG] Processing command: !ban hmm
+[2020-07-31 23:48:28,872] [INFO] <738860663333584999> WalBot#6054 -> hmm has been banned!
+[2020-07-31 23:49:01,862] [INFO] <738860801913258014> sergeykrokodil#5538 -> !banfirst3 @args-2@ have been banned!
+[2020-07-31 23:49:02,179] [INFO] <738860802970353776> WalBot#6054 -> Unknown command 'banfirst3'
+[2020-07-31 23:49:25,679] [INFO] <738860901683429486> sergeykrokodil#5538 -> !ban3next @args3-@ have been banned!
+[2020-07-31 23:49:25,991] [INFO] <738860903084064970> WalBot#6054 -> Unknown command 'ban3next'
+[2020-07-31 23:49:39,685] [INFO] <738860960139313184> sergeykrokodil#5538 -> !addcmd banfirst3 @args-2@ have been banned!
+[2020-07-31 23:49:39,686] [DEBUG] Processing command: !addcmd banfirst3 @args-2@ have been banned!
+[2020-07-31 23:49:40,179] [INFO] <738860961632485388> WalBot#6054 -> Command 'banfirst3' -> '@args-2@ have been banned!' successfully added
+[2020-07-31 23:49:51,990] [INFO] <738861011804880927> sergeykrokodil#5538 -> !ban 1 2 3 4
+[2020-07-31 23:49:51,990] [DEBUG] Processing command: !ban 1 2 3 4
+[2020-07-31 23:49:52,215] [INFO] <738861012878622811> WalBot#6054 -> 1 2 3 4 has been banned!
+[2020-07-31 23:50:01,736] [INFO] <738861053055598642> sergeykrokodil#5538 -> !banfirst3 1 2 3 4
+[2020-07-31 23:50:01,737] [DEBUG] Processing command: !banfirst3 1 2 3 4
+[2020-07-31 23:50:01,949] [INFO] <738861053642801194> WalBot#6054 -> 1 2 3 have been banned!
+[2020-07-31 23:50:38,313] [INFO] <738861206298689537> sergeykrokodil#5538 -> !addcmd ban3next @args3-@ have been banned!
+[2020-07-31 23:50:38,319] [DEBUG] Processing command: !addcmd ban3next @args3-@ have been banned!
+[2020-07-31 23:50:38,587] [INFO] <738861207582146560> WalBot#6054 -> Command 'ban3next' -> '@args3-@ have been banned!' successfully added
+[2020-07-31 23:50:46,143] [INFO] <738861236996800724> sergeykrokodil#5538 -> !ban3next 1 2 3 4 5
+[2020-07-31 23:50:46,144] [DEBUG] Processing command: !ban3next 1 2 3 4 5
+[2020-07-31 23:50:46,684] [INFO] <738861240113430568> WalBot#6054 -> 4 5 have been banned!
+[2020-07-31 23:51:09,051] [INFO] <738861335391109170> sergeykrokodil#5538 -> !ban3next 1 2
+[2020-07-31 23:51:09,052] [DEBUG] Processing command: !ban3next 1 2
+[2020-07-31 23:51:09,342] [INFO] <738861336573902958> WalBot#6054 -> @args3-@ have been banned!
+[2020-07-31 23:51:30,009] [INFO] <738861423114846292> sergeykrokodil#5538 -> !ban3next 1 2 3
+[2020-07-31 23:51:30,010] [DEBUG] Processing command: !ban3next 1 2 3
+[2020-07-31 23:51:30,312] [INFO] <738861424516005929> WalBot#6054 -> have been banned!
+[2020-07-31 23:51:38,891] [INFO] <738861460138098721> sergeykrokodil#5538 -> !ban3next 1 2
+[2020-07-31 23:51:38,891] [DEBUG] Processing command: !ban3next 1 2
+[2020-07-31 23:51:39,114] [INFO] <738861461442396241> WalBot#6054 -> @args3-@ have been banned!
+[2020-07-31 23:51:46,095] [INFO] <738861490408259615> sergeykrokodil#5538 -> !ban
+[2020-07-31 23:51:46,096] [DEBUG] Processing command: !ban
+[2020-07-31 23:51:46,301] [INFO] <738861491599441941> WalBot#6054 -> has been banned!
+[2020-07-31 23:58:17,304] [INFO] Saving of config is started
+[2020-07-31 23:58:17,319] [INFO] Saving of config is finished
+[2020-07-31 23:58:17,319] [INFO] Saving of secret config is started
+[2020-07-31 23:58:17,320] [INFO] Saving of secret config is finished
+[2020-07-31 23:58:17,320] [INFO] Saving of Markov module data is started
+[2020-07-31 23:58:17,321] [INFO] Saving of Markov module data is finished
+[2020-08-01 00:08:17,318] [INFO] Saving of config is started
+[2020-08-01 00:08:17,333] [INFO] Saving of config is finished
+[2020-08-01 00:08:17,333] [INFO] Saving of secret config is started
+[2020-08-01 00:08:17,334] [INFO] Saving of secret config is finished
+[2020-08-01 00:08:17,334] [INFO] Saving of Markov module data is started
+[2020-08-01 00:08:17,336] [INFO] Saving of Markov module data is finished
+[2020-08-01 00:18:17,331] [INFO] Saving of config is started
+[2020-08-01 00:18:17,348] [INFO] Saving of config is finished
+[2020-08-01 00:18:17,348] [INFO] Saving of secret config is started
+[2020-08-01 00:18:17,349] [INFO] Saving of secret config is finished
+[2020-08-01 00:18:17,350] [INFO] Saving of Markov module data is started
+[2020-08-01 00:18:17,351] [INFO] Saving of Markov module data is finished
+[2020-08-01 00:28:17,359] [INFO] Saving of config is started
+[2020-08-01 00:28:17,380] [INFO] Saving of config is finished
+[2020-08-01 00:28:17,380] [INFO] Saving of secret config is started
+[2020-08-01 00:28:17,382] [INFO] Saving of secret config is finished
+[2020-08-01 00:28:17,382] [INFO] Saving of Markov module data is started
+[2020-08-01 00:28:17,385] [INFO] Saving of Markov module data is finished
+[2020-08-01 00:28:20,822] [INFO] <738870694263128145> sergeykrokodil#5538 -> !ping
+[2020-08-01 00:28:20,822] [DEBUG] Processing command: !ping
+[2020-08-01 00:28:24,557] [INFO] <738870711862689823> WalBot#6054 -> :ping_pong: Pong! <@!373480978871484416> :ping_pong:
+Latency: 166 ms
+[2020-08-01 00:28:38,677] [INFO] Bot is disconnected!
+[2020-08-01 00:28:38,678] [INFO] Saving of config is started
+[2020-08-01 00:28:38,703] [INFO] Saving of config is finished
+[2020-08-01 00:28:38,704] [INFO] Saving of secret config is started
+[2020-08-01 00:28:38,705] [INFO] Saving of secret config is finished
+[2020-08-01 00:28:38,706] [INFO] Saving of Markov module data is started
+[2020-08-01 00:28:38,708] [INFO] Saving of Markov module data is finished
+[2020-08-01 00:28:38,709] [INFO] Saving of Markov is waited
+[2020-08-01 00:29:06,199] [INFO] Logging system is set up
+[2020-08-01 00:29:06,199] [INFO] Using fast YAML Loader
+[2020-08-01 00:29:06,199] [INFO] Using fast YAML Dumper
+[2020-08-01 00:29:06,292] [INFO] Markov model has passed all checks
+[2020-08-01 00:29:09,368] [INFO] Saving of config is started
+[2020-08-01 00:29:09,384] [INFO] Saving of config is finished
+[2020-08-01 00:29:09,384] [INFO] Saving of secret config is started
+[2020-08-01 00:29:09,385] [INFO] Saving of secret config is finished
+[2020-08-01 00:29:09,385] [INFO] Saving of Markov module data is started
+[2020-08-01 00:29:09,386] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-08-01 00:29:09,387] [INFO] Saving of Markov module data is finished
+[2020-08-01 00:29:18,718] [INFO] <738870938992377952> sergeykrokodil#5538 -> !ban fjw
+[2020-08-01 00:29:18,718] [DEBUG] Processing command: !ban fjw
+[2020-08-01 00:29:18,961] [INFO] <738870939667923118> WalBot#6054 -> fjw has been banned!
+[2020-08-01 00:29:23,540] [INFO] <738870959242608750> sergeykrokodil#5538 -> !ban fgh erg dfv
+[2020-08-01 00:29:23,540] [DEBUG] Processing command: !ban fgh erg dfv
+[2020-08-01 00:29:24,570] [INFO] <738870960114892831> WalBot#6054 -> fgh erg dfv has been banned!
+[2020-08-01 00:29:53,686] [INFO] <738871085403078707> sergeykrokodil#5538 -> !ban 13 1 2 3 4 5 6
+[2020-08-01 00:29:53,687] [DEBUG] Processing command: !ban 13 1 2 3 4 5 6
+[2020-08-01 00:29:53,952] [INFO] <738871086459912323> WalBot#6054 -> 13 1 2 3 4 5 6 has been banned!
+[2020-08-01 00:30:08,701] [INFO] <738871148636405852> sergeykrokodil#5538 -> !ban13 1 2 3 4 5 6
+[2020-08-01 00:30:08,702] [DEBUG] Processing command: !ban13 1 2 3 4 5 6
+[2020-08-01 00:30:08,703] [ERROR] on_message failed
+Traceback (most recent call last):
+  File "D:\Works\walbot\src\bot.py", line 100, in on_message
+    await self.process_command(message)
+  File "D:\Works\walbot\src\bot.py", line 138, in process_command
+    await self.config.commands.data[command[0]].run(message, command, self.config.users[message.author.id])
+  File "D:\Works\walbot\src\config.py", line 127, in run
+    response = await self.process_variables(response, message, command)
+  File "D:\Works\walbot\src\config.py", line 69, in process_variables
+    it += res.end()+len(string)-old(len)
+NameError: name 'old' is not defined
+[2020-08-01 00:30:38,023] [INFO] Bot is disconnected!
+[2020-08-01 00:30:38,023] [INFO] Saving of config is started
+[2020-08-01 00:30:38,043] [INFO] Saving of config is finished
+[2020-08-01 00:30:38,043] [INFO] Saving of secret config is started
+[2020-08-01 00:30:38,045] [INFO] Saving of secret config is finished
+[2020-08-01 00:30:38,045] [INFO] Saving of Markov module data is started
+[2020-08-01 00:30:38,048] [INFO] Saving of Markov module data is finished
+[2020-08-01 00:30:38,049] [INFO] Saving of Markov is waited
+[2020-08-01 00:30:41,643] [INFO] Logging system is set up
+[2020-08-01 00:30:41,644] [INFO] Using fast YAML Loader
+[2020-08-01 00:30:41,645] [INFO] Using fast YAML Dumper
+[2020-08-01 00:30:41,737] [INFO] Markov model has passed all checks
+[2020-08-01 00:30:44,749] [INFO] Saving of config is started
+[2020-08-01 00:30:44,769] [INFO] Saving of config is finished
+[2020-08-01 00:30:44,769] [INFO] Saving of secret config is started
+[2020-08-01 00:30:44,771] [INFO] Saving of secret config is finished
+[2020-08-01 00:30:44,771] [INFO] Saving of Markov module data is started
+[2020-08-01 00:30:44,773] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-08-01 00:30:44,774] [INFO] Saving of Markov module data is finished
+[2020-08-01 00:30:49,846] [INFO] <738871321185747077> sergeykrokodil#5538 -> !ban13 1 2 3 4 5 6
+[2020-08-01 00:30:49,846] [DEBUG] Processing command: !ban13 1 2 3 4 5 6
+[2020-08-01 00:30:49,848] [ERROR] on_message failed
+Traceback (most recent call last):
+  File "D:\Works\walbot\src\bot.py", line 100, in on_message
+    await self.process_command(message)
+  File "D:\Works\walbot\src\bot.py", line 138, in process_command
+    await self.config.commands.data[command[0]].run(message, command, self.config.users[message.author.id])
+  File "D:\Works\walbot\src\config.py", line 127, in run
+    response = await self.process_variables(response, message, command)
+  File "D:\Works\walbot\src\config.py", line 69, in process_variables
+    it += res.end()+len(string)-oldlen(len)
+TypeError: 'int' object is not callable
+[2020-08-01 00:32:24,809] [INFO] Bot is disconnected!
+[2020-08-01 00:32:24,810] [INFO] Saving of config is started
+[2020-08-01 00:32:24,830] [INFO] Saving of config is finished
+[2020-08-01 00:32:24,831] [INFO] Saving of secret config is started
+[2020-08-01 00:32:24,832] [INFO] Saving of secret config is finished
+[2020-08-01 00:32:24,835] [INFO] Saving of Markov module data is started
+[2020-08-01 00:32:24,838] [INFO] Saving of Markov module data is finished
+[2020-08-01 00:32:24,838] [INFO] Saving of Markov is waited
+[2020-08-01 00:32:35,869] [INFO] Logging system is set up
+[2020-08-01 00:32:35,871] [INFO] Using fast YAML Loader
+[2020-08-01 00:32:35,871] [INFO] Using fast YAML Dumper
+[2020-08-01 00:32:35,970] [INFO] Markov model has passed all checks
+[2020-08-01 00:32:38,980] [INFO] Saving of config is started
+[2020-08-01 00:32:39,000] [INFO] Saving of config is finished
+[2020-08-01 00:32:39,001] [INFO] Saving of secret config is started
+[2020-08-01 00:32:39,003] [INFO] Saving of secret config is finished
+[2020-08-01 00:32:39,005] [INFO] Saving of Markov module data is started
+[2020-08-01 00:32:39,007] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-08-01 00:32:39,008] [INFO] Saving of Markov module data is finished
+[2020-08-01 00:32:51,231] [INFO] <738871829263024148> sergeykrokodil#5538 -> !ban13 1 2 3 4 5 6
+[2020-08-01 00:32:51,232] [DEBUG] Processing command: !ban13 1 2 3 4 5 6
+[2020-08-01 00:32:51,235] [ERROR] on_message failed
+Traceback (most recent call last):
+  File "D:\Works\walbot\src\bot.py", line 100, in on_message
+    await self.process_command(message)
+  File "D:\Works\walbot\src\bot.py", line 138, in process_command
+    await self.config.commands.data[command[0]].run(message, command, self.config.users[message.author.id])
+  File "D:\Works\walbot\src\config.py", line 127, in run
+    response = await self.process_variables(response, message, command)
+  File "D:\Works\walbot\src\config.py", line 69, in process_variables
+    it += res.end()+len(string)-len(oldlen)
+TypeError: object of type 'int' has no len()
+[2020-08-01 00:33:26,912] [INFO] Bot is disconnected!
+[2020-08-01 00:33:26,913] [INFO] Saving of config is started
+[2020-08-01 00:33:26,932] [INFO] Saving of config is finished
+[2020-08-01 00:33:26,932] [INFO] Saving of secret config is started
+[2020-08-01 00:33:26,937] [INFO] Saving of secret config is finished
+[2020-08-01 00:33:26,937] [INFO] Saving of Markov module data is started
+[2020-08-01 00:33:26,939] [INFO] Saving of Markov module data is finished
+[2020-08-01 00:33:26,940] [INFO] Saving of Markov is waited
+[2020-08-01 00:33:29,429] [INFO] Logging system is set up
+[2020-08-01 00:33:29,429] [INFO] Using fast YAML Loader
+[2020-08-01 00:33:29,429] [INFO] Using fast YAML Dumper
+[2020-08-01 00:33:29,529] [INFO] Markov model has passed all checks
+[2020-08-01 00:33:32,595] [INFO] Saving of config is started
+[2020-08-01 00:33:32,616] [INFO] Saving of config is finished
+[2020-08-01 00:33:32,616] [INFO] Saving of secret config is started
+[2020-08-01 00:33:32,618] [INFO] Saving of secret config is finished
+[2020-08-01 00:33:32,621] [INFO] Saving of Markov module data is started
+[2020-08-01 00:33:32,622] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-08-01 00:33:32,624] [INFO] Saving of Markov module data is finished
+[2020-08-01 00:33:52,884] [INFO] <738872088986648594> sergeykrokodil#5538 -> !ban13 1 2 3 4 5 6
+[2020-08-01 00:33:52,884] [DEBUG] Processing command: !ban13 1 2 3 4 5 6
+[2020-08-01 00:33:53,153] [INFO] <738872090119372840> WalBot#6054 -> 2 3 4 have been banned!
+[2020-08-01 00:35:04,487] [INFO] <738872387822551202> sergeykrokodil#5538 -> !addcmd baneven @args1-1@ @args3-3@ @args5-5@ have been banned!
+[2020-08-01 00:35:04,487] [DEBUG] Processing command: !addcmd baneven @args1-1@ @args3-3@ @args5-5@ have been banned!
+[2020-08-01 00:35:04,763] [INFO] <738872390427082752> WalBot#6054 -> Command 'baneven' -> '@args1-1@ @args3-3@ @args5-5@ have been banned!' successfully added
+[2020-08-01 00:35:29,202] [INFO] <738872492969558036> sergeykrokodil#5538 -> !baneven 0 1 2 3 4 5 6
+[2020-08-01 00:35:29,203] [DEBUG] Processing command: !baneven 0 1 2 3 4 5 6
+[2020-08-01 00:35:29,486] [INFO] <738872494127054857> WalBot#6054 -> 1 3 5 have been banned!
+[2020-08-01 00:36:00,152] [INFO] <738872494127054857> (delete)
+[2020-08-01 00:36:03,139] [INFO] <738872492969558036> (delete)
+[2020-08-01 00:36:09,373] [INFO] <738872661127725098> sergeykrokodil#5538 -> !baneven 1 2 3 4 5 6
+[2020-08-01 00:36:09,373] [DEBUG] Processing command: !baneven 1 2 3 4 5 6
+[2020-08-01 00:36:09,658] [INFO] <738872662650126356> WalBot#6054 -> 2 4 @args5-5@ have been banned!
+[2020-08-01 00:36:40,992] [INFO] <738872793789235281> sergeykrokodil#5538 -> !baneven 1 2 3 4 5 6 7
+[2020-08-01 00:36:40,993] [DEBUG] Processing command: !baneven 1 2 3 4 5 6 7
+[2020-08-01 00:36:41,257] [INFO] <738872795219623956> WalBot#6054 -> 2 4 6 have been banned!
+[2020-08-01 00:39:21,575] [INFO] <738873467583201356> sergeykrokodil#5538 -> !ping
+[2020-08-01 00:39:21,575] [DEBUG] Processing command: !ping
+[2020-08-01 00:39:21,914] [INFO] <738873468782641214> WalBot#6054 -> :ping_pong: Pong! <@!373480978871484416> :ping_pong:
+Latency: 163 ms
+[2020-08-01 00:39:37,876] [INFO] Bot is disconnected!
+[2020-08-01 00:39:37,877] [INFO] Saving of config is started
+[2020-08-01 00:39:37,903] [INFO] Saving of config is finished
+[2020-08-01 00:39:37,904] [INFO] Saving of secret config is started
+[2020-08-01 00:39:37,905] [INFO] Saving of secret config is finished
+[2020-08-01 00:39:37,906] [INFO] Saving of Markov module data is started
+[2020-08-01 00:39:37,908] [INFO] Saving of Markov module data is finished
+[2020-08-01 00:39:37,908] [INFO] Saving of Markov is waited
+[2020-08-01 00:39:45,829] [INFO] Logging system is set up
+[2020-08-01 00:39:45,831] [INFO] Using fast YAML Loader
+[2020-08-01 00:39:45,831] [INFO] Using fast YAML Dumper
+[2020-08-01 00:39:45,919] [INFO] Markov model has passed all checks
+[2020-08-01 00:39:49,103] [INFO] Saving of config is started
+[2020-08-01 00:39:49,123] [INFO] Saving of config is finished
+[2020-08-01 00:39:49,124] [INFO] Saving of secret config is started
+[2020-08-01 00:39:49,126] [INFO] Saving of secret config is finished
+[2020-08-01 00:39:49,126] [INFO] Saving of Markov module data is started
+[2020-08-01 00:39:49,128] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-08-01 00:39:49,129] [INFO] Saving of Markov module data is finished
+[2020-08-01 00:39:58,004] [INFO] <738873620142620673> sergeykrokodil#5538 -> !baneven 1 2 3 4 5 6
+[2020-08-01 00:39:58,004] [DEBUG] Processing command: !baneven 1 2 3 4 5 6
+[2020-08-01 00:39:58,198] [INFO] <738873620868366357> WalBot#6054 -> 2 4 6 have been banned!
+[2020-08-01 00:40:03,527] [INFO] <738873468782641214> (delete)
+[2020-08-01 00:40:09,736] [INFO] <738873467583201356> (delete)
+[2020-08-01 00:40:13,339] [INFO] <738873493923430560> (delete)
+[2020-08-01 00:40:16,203] [INFO] <738872795219623956> (delete)
+[2020-08-01 00:40:19,688] [INFO] <738872793789235281> (delete)
+[2020-08-01 00:40:23,768] [INFO] <738872662650126356> (delete)
+[2020-08-01 00:40:27,209] [INFO] <738872661127725098> (delete)
+[2020-08-01 00:45:05,398] [INFO] <738874909593305089> sergeykrokodil#5538 -> !ping
+[2020-08-01 00:45:05,398] [DEBUG] Processing command: !ping
+[2020-08-01 00:45:05,934] [INFO] <738874911782862858> WalBot#6054 -> :ping_pong: Pong! <@!373480978871484416> :ping_pong:
+Latency: 1012 ms
+[2020-08-01 00:45:19,309] [INFO] Bot is disconnected!
+[2020-08-01 00:45:19,309] [INFO] Saving of config is started
+[2020-08-01 00:45:19,332] [INFO] Saving of config is finished
+[2020-08-01 00:45:19,333] [INFO] Saving of secret config is started
+[2020-08-01 00:45:19,335] [INFO] Saving of secret config is finished
+[2020-08-01 00:45:19,335] [INFO] Saving of Markov module data is started
+[2020-08-01 00:45:19,338] [INFO] Saving of Markov module data is finished
+[2020-08-01 00:45:19,339] [INFO] Saving of Markov is waited
+[2020-08-01 00:45:44,032] [INFO] Logging system is set up
+[2020-08-01 00:45:44,034] [INFO] Using fast YAML Loader
+[2020-08-01 00:45:44,034] [INFO] Using fast YAML Dumper
+[2020-08-01 00:45:44,167] [INFO] Markov model has passed all checks
+[2020-08-01 00:45:47,154] [INFO] Saving of config is started
+[2020-08-01 00:45:47,170] [INFO] Saving of config is finished
+[2020-08-01 00:45:47,171] [INFO] Saving of secret config is started
+[2020-08-01 00:45:47,171] [INFO] Saving of secret config is finished
+[2020-08-01 00:45:47,172] [INFO] Saving of Markov module data is started
+[2020-08-01 00:45:47,173] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-08-01 00:45:47,174] [INFO] Saving of Markov module data is finished
+[2020-08-01 00:45:58,950] [INFO] <738875134252810302> sergeykrokodil#5538 -> !addcmd banodd @args1@ @args3-3@ have been banned!
+[2020-08-01 00:45:58,950] [DEBUG] Processing command: !addcmd banodd @args1@ @args3-3@ have been banned!
+[2020-08-01 00:45:59,159] [INFO] <738875134852595713> WalBot#6054 -> Command 'banodd' -> '@args1@ @args3-3@ have been banned!' successfully added
+[2020-08-01 00:46:10,758] [INFO] <738875183904981082> sergeykrokodil#5538 -> !banodd 1 2 3
+[2020-08-01 00:46:10,758] [DEBUG] Processing command: !banodd 1 2 3
+[2020-08-01 00:46:11,536] [INFO] <738875184861413478> WalBot#6054 -> 1 2 3 3 have been banned!
+[2020-08-01 00:47:00,867] [INFO] <738875394056388648> sergeykrokodil#5538 -> !banodd 1 2 3 4
+[2020-08-01 00:47:00,868] [DEBUG] Processing command: !banodd 1 2 3 4
+[2020-08-01 00:47:01,146] [INFO] <738875394941255683> WalBot#6054 -> 1 2 3 4 3 have been banned!
+[2020-08-01 00:47:10,168] [INFO] <738875432740454501> sergeykrokodil#5538 -> !banodd 1 2 3 4 5 6 7 8 9 0
+[2020-08-01 00:47:10,168] [DEBUG] Processing command: !banodd 1 2 3 4 5 6 7 8 9 0
+[2020-08-01 00:47:10,410] [INFO] <738875434048946246> WalBot#6054 -> 1 2 3 4 5 6 7 8 9 0 3 have been banned!
+[2020-08-01 00:47:14,478] [INFO] <738875450788413492> sergeykrokodil#5538 -> !banodd 1 2
+[2020-08-01 00:47:14,479] [DEBUG] Processing command: !banodd 1 2
+[2020-08-01 00:47:14,668] [INFO] <738875451589656588> WalBot#6054 -> 1 2 @args3-3@ have been banned!
+[2020-08-01 00:47:18,962] [INFO] <738875469964771521> sergeykrokodil#5538 -> !ban 1
+[2020-08-01 00:47:18,962] [DEBUG] Processing command: !ban 1
+[2020-08-01 00:47:19,151] [INFO] <738875470699036714> WalBot#6054 -> 1 has been banned!
+[2020-08-01 00:47:25,728] [INFO] <738875498322460742> sergeykrokodil#5538 -> !baneven 1 2 3 4 5 6
+[2020-08-01 00:47:25,728] [DEBUG] Processing command: !baneven 1 2 3 4 5 6
+[2020-08-01 00:47:25,955] [INFO] <738875498855268426> WalBot#6054 -> 1 3 5 have been banned!
+[2020-08-01 00:47:44,683] [INFO] <738875577804783626> sergeykrokodil#5538 -> !baneven 1 2 3 4 5
+[2020-08-01 00:47:44,683] [DEBUG] Processing command: !baneven 1 2 3 4 5
+[2020-08-01 00:47:44,962] [INFO] <738875578655965256> WalBot#6054 -> 1 3 5 have been banned!
+[2020-08-01 00:47:50,932] [INFO] <738875603964526682> sergeykrokodil#5538 -> !banodd 1 2 3
+[2020-08-01 00:47:50,933] [DEBUG] Processing command: !banodd 1 2 3
+[2020-08-01 00:47:51,159] [INFO] <738875604992131092> WalBot#6054 -> 1 2 3 3 have been banned!
+[2020-08-01 00:48:21,612] [INFO] <738875732725596231> sergeykrokodil#5538 -> !baneven 1 2 3 4 5
+[2020-08-01 00:48:21,612] [DEBUG] Processing command: !baneven 1 2 3 4 5
+[2020-08-01 00:48:21,951] [INFO] <738875734050734150> WalBot#6054 -> 1 3 5 have been banned!
+[2020-08-01 00:48:27,787] [INFO] <738875758453194793> sergeykrokodil#5538 -> !baneven 1 2 3 4
+[2020-08-01 00:48:27,787] [DEBUG] Processing command: !baneven 1 2 3 4
+[2020-08-01 00:48:28,022] [INFO] <738875759539650610> WalBot#6054 -> 1 3 @args5-5@ have been banned!
+[2020-08-01 00:48:34,048] [INFO] <738875784755675188> sergeykrokodil#5538 -> !baneven 1 2 3 4 5 6
+[2020-08-01 00:48:34,048] [DEBUG] Processing command: !baneven 1 2 3 4 5 6
+[2020-08-01 00:48:34,246] [INFO] <738875785343139862> WalBot#6054 -> 1 3 5 have been banned!
+[2020-08-01 00:48:37,254] [INFO] <738875798345220276> sergeykrokodil#5538 -> !banodd 1 2 3
+[2020-08-01 00:48:37,255] [DEBUG] Processing command: !banodd 1 2 3
+[2020-08-01 00:48:37,515] [INFO] <738875799389732864> WalBot#6054 -> 1 2 3 3 have been banned!
+[2020-08-01 00:48:44,338] [INFO] <738875828011663422> sergeykrokodil#5538 -> !banodd
+[2020-08-01 00:48:44,339] [DEBUG] Processing command: !banodd
+[2020-08-01 00:48:44,543] [INFO] <738875828867432550> WalBot#6054 -> @args1@ @args3-3@ have been banned!
+[2020-08-01 00:49:57,306] [INFO] <738876133755322400> sergeykrokodil#5538 -> !banodd 1 2 3
+[2020-08-01 00:49:57,307] [DEBUG] Processing command: !banodd 1 2 3
+[2020-08-01 00:49:57,613] [INFO] <738876134980059198> WalBot#6054 -> 1 2 3 3 have been banned!
+[2020-08-01 00:50:37,784] [INFO] Bot is disconnected!
+[2020-08-01 00:50:37,784] [INFO] Saving of config is started
+[2020-08-01 00:50:37,806] [INFO] Saving of config is finished
+[2020-08-01 00:50:37,806] [INFO] Saving of secret config is started
+[2020-08-01 00:50:37,808] [INFO] Saving of secret config is finished
+[2020-08-01 00:50:37,808] [INFO] Saving of Markov module data is started
+[2020-08-01 00:50:37,811] [INFO] Saving of Markov module data is finished
+[2020-08-01 00:50:37,811] [INFO] Saving of Markov is waited
+[2020-08-01 00:51:00,669] [INFO] Logging system is set up
+[2020-08-01 00:51:00,670] [INFO] Using fast YAML Loader
+[2020-08-01 00:51:00,671] [INFO] Using fast YAML Dumper
+[2020-08-01 00:51:00,761] [INFO] Markov model has passed all checks
+[2020-08-01 00:51:05,128] [INFO] Saving of config is started
+[2020-08-01 00:51:05,142] [INFO] Saving of config is finished
+[2020-08-01 00:51:05,143] [INFO] Saving of secret config is started
+[2020-08-01 00:51:05,143] [INFO] Saving of secret config is finished
+[2020-08-01 00:51:05,144] [INFO] Saving of Markov module data is started
+[2020-08-01 00:51:05,145] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-08-01 00:51:05,146] [INFO] Saving of Markov module data is finished
+[2020-08-01 00:51:12,276] [INFO] <738876448001228862> sergeykrokodil#5538 -> !banodd 1 2 3
+[2020-08-01 00:51:12,277] [DEBUG] Processing command: !banodd 1 2 3
+[2020-08-01 00:51:13,233] [INFO] <738876449523630082> WalBot#6054 -> @args1@ 3 have been banned!
+[2020-08-01 00:51:28,348] [INFO] <738876515965599855> sergeykrokodil#5538 -> !banodd 1 2 22 222
+[2020-08-01 00:51:28,348] [DEBUG] Processing command: !banodd 1 2 22 222
+[2020-08-01 00:51:28,671] [INFO] <738876517345525810> WalBot#6054 -> @args1@ 22 have been banned!
+[2020-08-01 00:51:46,965] [INFO] <738876594042699835> sergeykrokodil#5538 -> !addcmd hmm @arg@ @arg2-@ hmmmmmm
+[2020-08-01 00:51:46,966] [DEBUG] Processing command: !addcmd hmm @arg@ @arg2-@ hmmmmmm
+[2020-08-01 00:51:47,250] [INFO] <738876594877366373> WalBot#6054 -> Command hmm already exists
+[2020-08-01 00:52:00,282] [INFO] <738876649587867731> sergeykrokodil#5538 -> !addcmd hmmm @arg@ @arg2-@ hmmmmmm
+[2020-08-01 00:52:00,282] [DEBUG] Processing command: !addcmd hmmm @arg@ @arg2-@ hmmmmmm
+[2020-08-01 00:52:00,486] [INFO] <738876650762141866> WalBot#6054 -> Command 'hmmm' -> '@arg@ @arg2-@ hmmmmmm' successfully added
+[2020-08-01 00:52:04,538] [INFO] <738876667358871684> sergeykrokodil#5538 -> !hmmm 1 2
+[2020-08-01 00:52:04,538] [DEBUG] Processing command: !hmmm 1 2
+[2020-08-01 00:52:04,740] [INFO] <738876668386476135> WalBot#6054 -> @arg@ @arg2-@ hmmmmmm
+[2020-08-01 00:52:31,966] [INFO] <738876782513487903> sergeykrokodil#5538 -> !ban13 1 2 3 4 5 6
+[2020-08-01 00:52:31,967] [DEBUG] Processing command: !ban13 1 2 3 4 5 6
+[2020-08-01 00:52:32,254] [INFO] <738876784006791238> WalBot#6054 -> 1 2 3 have been banned!
+[2020-08-01 00:52:48,008] [INFO] <738876850100633710> sergeykrokodil#5538 -> !hmmm 1 2 3
+[2020-08-01 00:52:48,008] [DEBUG] Processing command: !hmmm 1 2 3
+[2020-08-01 00:52:48,270] [INFO] <738876851191283772> WalBot#6054 -> @arg@ @arg2-@ hmmmmmm
+[2020-08-01 00:52:54,717] [INFO] <738876878110064748> sergeykrokodil#5538 -> !hmmm 1 2 3 4 5 6
+[2020-08-01 00:52:54,718] [DEBUG] Processing command: !hmmm 1 2 3 4 5 6
+[2020-08-01 00:52:54,934] [INFO] <738876878680752231> WalBot#6054 -> @arg@ @arg2-@ hmmmmmm
+[2020-08-01 00:53:19,227] [INFO] <738876980996472852> sergeykrokodil#5538 -> !addcmd hmmmm @args2-@ hmmmmmmmmmmmmmmmmmmm
+[2020-08-01 00:53:19,227] [DEBUG] Processing command: !addcmd hmmmm @args2-@ hmmmmmmmmmmmmmmmmmmm
+[2020-08-01 00:53:19,537] [INFO] <738876982112157829> WalBot#6054 -> Command 'hmmmm' -> '@args2-@ hmmmmmmmmmmmmmmmmmmm' successfully added
+[2020-08-01 00:53:24,970] [INFO] <738877005122109552> sergeykrokodil#5538 -> !hmmm 1 2
+[2020-08-01 00:53:24,970] [DEBUG] Processing command: !hmmm 1 2
+[2020-08-01 00:53:25,176] [INFO] <738877005969489980> WalBot#6054 -> @arg@ @arg2-@ hmmmmmm
+[2020-08-01 00:53:32,684] [INFO] <738877037430964304> sergeykrokodil#5538 -> !hmmmm 1 2
+[2020-08-01 00:53:32,684] [DEBUG] Processing command: !hmmmm 1 2
+[2020-08-01 00:53:32,911] [INFO] <738877038341128212> WalBot#6054 -> 2 hmmmmmmmmmmmmmmmmmmm
+[2020-08-01 00:53:38,309] [INFO] <738877061078319155> sergeykrokodil#5538 -> !hmmmm 1 2 3
+[2020-08-01 00:53:38,309] [DEBUG] Processing command: !hmmmm 1 2 3
+[2020-08-01 00:53:38,563] [INFO] <738877062110117998> WalBot#6054 -> 2 3 hmmmmmmmmmmmmmmmmmmm
+[2020-08-01 00:53:49,880] [INFO] <738877109438775366> sergeykrokodil#5538 -> !addcmd hm @args-2 hm
+[2020-08-01 00:53:49,880] [DEBUG] Processing command: !addcmd hm @args-2 hm
+[2020-08-01 00:53:50,135] [INFO] <738877110575300638> WalBot#6054 -> Command 'hm' -> '@args-2 hm' successfully added
+[2020-08-01 00:53:53,998] [INFO] <738877126882754700> sergeykrokodil#5538 -> !hm 1
+[2020-08-01 00:53:53,999] [DEBUG] Processing command: !hm 1
+[2020-08-01 00:53:54,210] [INFO] <738877127407173654> WalBot#6054 -> @args-2 hm
+[2020-08-01 00:53:59,213] [INFO] <738877148730753044> sergeykrokodil#5538 -> !hm 1 2
+[2020-08-01 00:53:59,213] [DEBUG] Processing command: !hm 1 2
+[2020-08-01 00:53:59,400] [INFO] <738877149540384838> WalBot#6054 -> @args-2 hm
+[2020-08-01 00:54:14,748] [INFO] <738877213864362084> sergeykrokodil#5538 -> @updcmd hm @args-2@ hm
+[2020-08-01 00:54:24,057] [INFO] <738877252908875787> sergeykrokodil#5538 -> !updcmd hm @args-2@ hm
+[2020-08-01 00:54:24,058] [DEBUG] Processing command: !updcmd hm @args-2@ hm
+[2020-08-01 00:54:24,358] [INFO] <738877254226018394> WalBot#6054 -> Command 'hm' -> '@args-2@ hm' successfully updated
+[2020-08-01 00:54:29,629] [INFO] <738877276141256805> sergeykrokodil#5538 -> !hm 1 2
+[2020-08-01 00:54:29,629] [DEBUG] Processing command: !hm 1 2
+[2020-08-01 00:54:29,823] [INFO] <738877277147889714> WalBot#6054 -> 1 2 hm
+[2020-08-01 00:54:33,436] [INFO] <738877292276613160> sergeykrokodil#5538 -> !hm 1
+[2020-08-01 00:54:33,437] [DEBUG] Processing command: !hm 1
+[2020-08-01 00:54:33,660] [INFO] <738877293212205117> WalBot#6054 -> @args-2@ hm
+[2020-08-01 00:54:36,928] [INFO] <738877305610567820> sergeykrokodil#5538 -> !hm 1 2
+[2020-08-01 00:54:36,928] [DEBUG] Processing command: !hm 1 2
+[2020-08-01 00:54:37,121] [INFO] <738877307615445033> WalBot#6054 -> 1 2 hm
+[2020-08-01 00:54:40,776] [INFO] <738877322752557138> sergeykrokodil#5538 -> !hmmmm 1 2
+[2020-08-01 00:54:40,776] [DEBUG] Processing command: !hmmmm 1 2
+[2020-08-01 00:54:40,981] [INFO] <738877323704533033> WalBot#6054 -> 2 hmmmmmmmmmmmmmmmmmmm
+[2020-08-01 00:54:44,961] [INFO] <738877340628549732> sergeykrokodil#5538 -> !hmmmm 1 2 3 4 5 5
+[2020-08-01 00:54:44,961] [DEBUG] Processing command: !hmmmm 1 2 3 4 5 5
+[2020-08-01 00:54:45,150] [INFO] <738877341052436512> WalBot#6054 -> 2 3 4 5 5 hmmmmmmmmmmmmmmmmmmm
+[2020-08-01 00:55:06,147] [INFO] <738877429451325511> sergeykrokodil#5538 -> !updcmd hm @args2-5@ hm
+[2020-08-01 00:55:06,148] [DEBUG] Processing command: !updcmd hm @args2-5@ hm
+[2020-08-01 00:55:06,414] [INFO] <738877430231597117> WalBot#6054 -> Command 'hm' -> '@args2-5@ hm' successfully updated
+[2020-08-01 00:55:12,472] [INFO] <738877455758131232> sergeykrokodil#5538 -> !hm 1 2 3 4 5 6
+[2020-08-01 00:55:12,473] [DEBUG] Processing command: !hm 1 2 3 4 5 6
+[2020-08-01 00:55:12,706] [INFO] <738877456924278844> WalBot#6054 -> 2 3 4 5 hm
+[2020-08-01 00:55:18,785] [INFO] <738877482253418498> sergeykrokodil#5538 -> !hm 1 2 3 4 5
+[2020-08-01 00:55:18,786] [DEBUG] Processing command: !hm 1 2 3 4 5
+[2020-08-01 00:55:18,962] [INFO] <738877483134484572> WalBot#6054 -> 2 3 4 5 hm
+[2020-08-01 00:55:24,181] [INFO] <738877504689012742> sergeykrokodil#5538 -> !hm 1 2 3 4
+[2020-08-01 00:55:24,181] [DEBUG] Processing command: !hm 1 2 3 4
+[2020-08-01 00:55:24,408] [INFO] <738877505909293138> WalBot#6054 -> @args2-5@ hm
+[2020-08-01 00:56:07,793] [INFO] <738877687531307141> sergeykrokodil#5538 -> !updcmd hm @args-1--1@ hm!
+[2020-08-01 00:56:07,794] [DEBUG] Processing command: !updcmd hm @args-1--1@ hm!
+[2020-08-01 00:56:08,071] [INFO] <738877689204834464> WalBot#6054 -> Command 'hm' -> '@args-1--1@ hm!' successfully updated
+[2020-08-01 00:56:11,954] [INFO] <738877705495380109> sergeykrokodil#5538 -> !hm 1 2 3 4 5
+[2020-08-01 00:56:11,955] [DEBUG] Processing command: !hm 1 2 3 4 5
+[2020-08-01 00:56:12,165] [INFO] <738877706103422997> WalBot#6054 -> @args-1--1@ hm!
+[2020-08-01 01:01:05,142] [INFO] Saving of config is started
+[2020-08-01 01:01:05,164] [INFO] Saving of config is finished
+[2020-08-01 01:01:05,164] [INFO] Saving of secret config is started
+[2020-08-01 01:01:05,166] [INFO] Saving of secret config is finished
+[2020-08-01 01:01:05,167] [INFO] Saving of Markov module data is started
+[2020-08-01 01:01:05,172] [INFO] Saving of Markov module data is finished
+[2020-08-01 01:01:14,585] [INFO] <738878974666604606> sergeykrokodil#5538 -> !ping
+[2020-08-01 01:01:14,585] [DEBUG] Processing command: !ping
+[2020-08-01 01:01:16,464] [INFO] <738878980647813191> WalBot#6054 -> :ping_pong: Pong! <@!373480978871484416> :ping_pong:
+Latency: 163 ms
+[2020-08-01 01:01:30,829] [INFO] Bot is disconnected!
+[2020-08-01 01:01:30,829] [INFO] Saving of config is started
+[2020-08-01 01:01:30,850] [INFO] Saving of config is finished
+[2020-08-01 01:01:30,851] [INFO] Saving of secret config is started
+[2020-08-01 01:01:30,853] [INFO] Saving of secret config is finished
+[2020-08-01 01:01:30,857] [INFO] Saving of Markov module data is started
+[2020-08-01 01:01:30,859] [INFO] Saving of Markov module data is finished
+[2020-08-01 01:01:30,860] [INFO] Saving of Markov is waited
+[2020-08-01 01:02:10,181] [INFO] Logging system is set up
+[2020-08-01 01:02:10,181] [INFO] Using fast YAML Loader
+[2020-08-01 01:02:10,181] [INFO] Using fast YAML Dumper
+[2020-08-01 01:02:10,700] [ERROR] Config versions mismatch. Expected: 0.0.10, but actual: 0.0.9
+[2020-08-01 01:02:47,824] [INFO] Logging system is set up
+[2020-08-01 01:02:47,896] [INFO] WalBot config patch tool: config.yaml@0.0.9
+[2020-08-01 01:02:47,896] [INFO] Successfully upgraded your config.yaml to version 0.0.10
+[2020-08-01 01:02:47,896] [INFO] Version is up to date!
+[2020-08-01 01:02:47,913] [INFO] Successfully saved file: 0.0.10
+[2020-08-01 01:02:47,917] [INFO] WalBot config patch tool: markov.yaml@0.0.1
+[2020-08-01 01:02:47,920] [INFO] Version is up to date!
+[2020-08-01 01:02:47,920] [INFO] WalBot config patch tool: secret.yaml@0.0.1
+[2020-08-01 01:02:47,920] [INFO] Version is up to date!
+[2020-08-01 01:02:54,666] [INFO] Logging system is set up
+[2020-08-01 01:02:54,682] [INFO] Using fast YAML Loader
+[2020-08-01 01:02:54,682] [INFO] Using fast YAML Dumper
+[2020-08-01 01:02:54,779] [INFO] Markov model has passed all checks
+[2020-08-01 01:02:57,802] [INFO] Saving of config is started
+[2020-08-01 01:02:57,820] [INFO] Saving of config is finished
+[2020-08-01 01:02:57,820] [INFO] Saving of secret config is started
+[2020-08-01 01:02:57,821] [INFO] Saving of secret config is finished
+[2020-08-01 01:02:57,821] [INFO] Saving of Markov module data is started
+[2020-08-01 01:02:57,823] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-08-01 01:02:57,824] [INFO] Saving of Markov module data is finished
+[2020-08-01 01:03:00,522] [INFO] <738879418935541843> sergeykrokodil#5538 -> !hm
+[2020-08-01 01:03:00,523] [DEBUG] Processing command: !hm
+[2020-08-01 01:03:00,731] [INFO] <738879420072198223> WalBot#6054 -> @args-1--1@ hm!
+[2020-08-01 01:03:13,300] [INFO] <738879472404529163> sergeykrokodil#5538 -> !updcmd hm @args1-1@
+[2020-08-01 01:03:13,300] [DEBUG] Processing command: !updcmd hm @args1-1@
+[2020-08-01 01:03:13,492] [INFO] <738879473268555777> WalBot#6054 -> Command 'hm' -> '@args1-1@' successfully updated
+[2020-08-01 01:03:25,981] [INFO] <738879525881905202> sergeykrokodil#5538 -> !updcmd hm @args1-1@ hmm
+[2020-08-01 01:03:25,982] [DEBUG] Processing command: !updcmd hm @args1-1@ hmm
+[2020-08-01 01:03:26,197] [INFO] <738879526863634522> WalBot#6054 -> Command 'hm' -> '@args1-1@ hmm' successfully updated
+[2020-08-01 01:03:29,741] [INFO] <738879541749088316> sergeykrokodil#5538 -> !hm 1
+[2020-08-01 01:03:29,741] [DEBUG] Processing command: !hm 1
+[2020-08-01 01:03:29,931] [INFO] <738879542545874954> WalBot#6054 -> 1 hmm
+[2020-08-01 01:03:35,848] [INFO] <738879567359377428> sergeykrokodil#5538 -> !hm @args1-1@
+[2020-08-01 01:03:35,848] [DEBUG] Processing command: !hm @args1-1@
+[2020-08-01 01:03:36,045] [INFO] <738879567900704871> WalBot#6054 -> @args1-1@ hmm
+[2020-08-01 01:03:42,516] [INFO] <738879595201298482> sergeykrokodil#5538 -> !hm @args@
+[2020-08-01 01:03:42,516] [DEBUG] Processing command: !hm @args@
+[2020-08-01 01:03:42,700] [INFO] <738879596107399208> WalBot#6054 -> @args@ hmm
+[2020-08-01 01:03:48,557] [INFO] <738879620644077578> sergeykrokodil#5538 -> !hm @arg1@
+[2020-08-01 01:03:48,558] [DEBUG] Processing command: !hm @arg1@
+[2020-08-01 01:03:48,780] [INFO] <738879621608505404> WalBot#6054 -> @arg1@ hmm
+[2020-08-01 01:04:08,559] [INFO] <738879704576163860> sergeykrokodil#5538 -> !hm
+[2020-08-01 01:04:08,560] [DEBUG] Processing command: !hm
+[2020-08-01 01:04:08,828] [INFO] <738879705553305661> WalBot#6054 -> @args1-1@ hmm
+[2020-08-01 01:04:11,074] [INFO] <738879714743287931> sergeykrokodil#5538 -> !hm 1 2 3
+[2020-08-01 01:04:11,075] [DEBUG] Processing command: !hm 1 2 3
+[2020-08-01 01:04:11,272] [INFO] <738879715883876394> WalBot#6054 -> 1 hmm
+[2020-08-01 01:04:23,644] [INFO] <738879767725473793> sergeykrokodil#5538 -> !updcmd hmm @args-1@ hm
+[2020-08-01 01:04:23,645] [DEBUG] Processing command: !updcmd hmm @args-1@ hm
+[2020-08-01 01:04:23,843] [INFO] <738879768644026428> WalBot#6054 -> Command 'hmm' is not editable
+[2020-08-01 01:04:28,794] [INFO] <738879789414482050> sergeykrokodil#5538 -> !hmm 1
+[2020-08-01 01:04:28,794] [DEBUG] Processing command: !hmm 1
+[2020-08-01 01:04:28,796] [DEBUG] Processing external command: 'hmm'
+[2020-08-01 01:04:29,020] [INFO] <738879790215594025> WalBot#6054 -> <Command failed with error code 1>
+[2020-08-01 01:04:29,062] [ERROR] on_message failed
+Traceback (most recent call last):
+  File "D:\Works\walbot\src\bot.py", line 100, in on_message
+    await self.process_command(message)
+  File "D:\Works\walbot\src\bot.py", line 141, in process_command
+    await self.config.commands.data[command[0]].run(message, command, self.config.users[message.author.id])
+  File "D:\Works\walbot\src\config.py", line 137, in run
+    return await Util.run_external_command(message, cmd_line, silent)
+  File "D:\Works\walbot\src\utils.py", line 101, in run_external_command
+    return result
+UnboundLocalError: local variable 'result' referenced before assignment
+[2020-08-01 01:05:21,475] [INFO] <738880010286530622> sergeykrokodil#5538 -> !hmm hmmm
+[2020-08-01 01:05:21,476] [DEBUG] Processing command: !hmm hmmm
+[2020-08-01 01:05:21,477] [DEBUG] Processing external command: 'hmm'
+[2020-08-01 01:05:21,780] [ERROR] on_message failed
+Traceback (most recent call last):
+  File "D:\Works\walbot\src\bot.py", line 100, in on_message
+    await self.process_command(message)
+  File "D:\Works\walbot\src\bot.py", line 141, in process_command
+    await self.config.commands.data[command[0]].run(message, command, self.config.users[message.author.id])
+  File "D:\Works\walbot\src\config.py", line 137, in run
+    return await Util.run_external_command(message, cmd_line, silent)
+  File "D:\Works\walbot\src\utils.py", line 101, in run_external_command
+    return result
+UnboundLocalError: local variable 'result' referenced before assignment
+[2020-08-01 01:05:21,781] [INFO] <738880011678908457> WalBot#6054 -> <Command failed with error code 1>
+[2020-08-01 01:06:27,046] [INFO] Bot is disconnected!
+[2020-08-01 01:06:27,046] [INFO] Saving of config is started
+[2020-08-01 01:06:27,069] [INFO] Saving of config is finished
+[2020-08-01 01:06:27,070] [INFO] Saving of secret config is started
+[2020-08-01 01:06:27,071] [INFO] Saving of secret config is finished
+[2020-08-01 01:06:27,074] [INFO] Saving of Markov module data is started
+[2020-08-01 01:06:27,077] [INFO] Saving of Markov module data is finished
+[2020-08-01 01:06:27,077] [INFO] Saving of Markov is waited
+[2020-08-01 01:06:28,997] [INFO] Logging system is set up
+[2020-08-01 01:06:28,999] [INFO] Using fast YAML Loader
+[2020-08-01 01:06:29,000] [INFO] Using fast YAML Dumper
+[2020-08-01 01:06:29,098] [INFO] Markov model has passed all checks
+[2020-08-01 01:06:32,421] [INFO] Saving of config is started
+[2020-08-01 01:06:32,442] [INFO] Saving of config is finished
+[2020-08-01 01:06:32,443] [INFO] Saving of secret config is started
+[2020-08-01 01:06:32,446] [INFO] Saving of secret config is finished
+[2020-08-01 01:06:32,447] [INFO] Saving of Markov module data is started
+[2020-08-01 01:06:32,450] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-08-01 01:06:32,452] [INFO] Saving of Markov module data is finished
+[2020-08-01 01:06:34,861] [INFO] <738880318030872637> sergeykrokodil#5538 -> !hmm 1
+[2020-08-01 01:06:34,865] [DEBUG] Processing command: !hmm 1
+[2020-08-01 01:06:34,874] [DEBUG] Processing external command: 'hmm'
+[2020-08-01 01:06:35,185] [ERROR] on_message failed
+Traceback (most recent call last):
+  File "D:\Works\walbot\src\bot.py", line 100, in on_message
+    await self.process_command(message)
+  File "D:\Works\walbot\src\bot.py", line 141, in process_command
+    await self.config.commands.data[command[0]].run(message, command, self.config.users[message.author.id])
+  File "D:\Works\walbot\src\config.py", line 139, in run
+    return await Util.run_external_command(message, cmd_line, silent)
+  File "D:\Works\walbot\src\utils.py", line 101, in run_external_command
+    return result
+UnboundLocalError: local variable 'result' referenced before assignment
+[2020-08-01 01:06:35,185] [INFO] <738880318869602393> WalBot#6054 -> <Command failed with error code 1>
+[2020-08-01 01:15:12,273] [INFO] <738882487077306398> sergeykrokodil#5538 -> !addcmd check @args-1@ gg
+[2020-08-01 01:15:12,274] [DEBUG] Processing command: !addcmd check @args-1@ gg
+[2020-08-01 01:15:12,973] [INFO] <738882489564659732> WalBot#6054 -> Command 'check' -> '@args-1@ gg' successfully added
+[2020-08-01 01:15:15,902] [INFO] <738882503607189606> sergeykrokodil#5538 -> !check 1 2
+[2020-08-01 01:15:15,902] [DEBUG] Processing command: !check 1 2
+[2020-08-01 01:15:16,114] [INFO] <738882504320352348> WalBot#6054 -> 1 gg
+[2020-08-01 01:15:18,987] [INFO] <738882516525777026> sergeykrokodil#5538 -> !check
+[2020-08-01 01:15:18,987] [DEBUG] Processing command: !check
+[2020-08-01 01:15:19,181] [INFO] <738882517368700938> WalBot#6054 -> @args-1@ gg
+[2020-08-01 01:15:31,689] [INFO] <738882569658957956> sergeykrokodil#5538 -> !updcmd check @args1-@
+[2020-08-01 01:15:31,689] [DEBUG] Processing command: !updcmd check @args1-@
+[2020-08-01 01:15:31,957] [INFO] <738882570510401637> WalBot#6054 -> Command 'check' -> '@args1-@' successfully updated
+[2020-08-01 01:15:46,387] [INFO] <738882631432929451> sergeykrokodil#5538 -> !updcmd check @args1-@ gg
+[2020-08-01 01:15:46,388] [DEBUG] Processing command: !updcmd check @args1-@ gg
+[2020-08-01 01:15:46,579] [INFO] <738882632279916554> WalBot#6054 -> Command 'check' -> '@args1-@ gg' successfully updated
+[2020-08-01 01:15:50,300] [INFO] <738882647799103625> sergeykrokodil#5538 -> !check 1 2
+[2020-08-01 01:15:50,300] [DEBUG] Processing command: !check 1 2
+[2020-08-01 01:15:50,516] [INFO] <738882648662999091> WalBot#6054 -> 1 2 gg
+[2020-08-01 01:15:53,239] [INFO] <738882659606069268> sergeykrokodil#5538 -> !check
+[2020-08-01 01:15:53,239] [DEBUG] Processing command: !check
+[2020-08-01 01:15:53,525] [INFO] <738882661354963034> WalBot#6054 -> @args1-@ gg
+[2020-08-01 01:15:56,364] [INFO] <738882673212129320> sergeykrokodil#5538 -> !check 1
+[2020-08-01 01:15:56,364] [DEBUG] Processing command: !check 1
+[2020-08-01 01:15:56,555] [INFO] <738882674139201636> WalBot#6054 -> 1 gg
+[2020-08-01 01:16:02,619] [INFO] <738882698898047049> sergeykrokodil#5538 -> !check 1 2 3 4 5 6 8
+[2020-08-01 01:16:02,619] [DEBUG] Processing command: !check 1 2 3 4 5 6 8
+[2020-08-01 01:16:02,857] [INFO] <738882700525568040> WalBot#6054 -> 1 2 3 4 5 6 8 gg
+[2020-08-01 01:16:17,019] [INFO] <738882757999984721> sergeykrokodil#5538 -> !updcmd check @args2-5@ gg
+[2020-08-01 01:16:17,019] [DEBUG] Processing command: !updcmd check @args2-5@ gg
+[2020-08-01 01:16:17,947] [INFO] <738882760864694292> WalBot#6054 -> Command 'check' -> '@args2-5@ gg' successfully updated
+[2020-08-01 01:16:26,934] [INFO] <738882801541054544> sergeykrokodil#5538 -> !check 1 2
+[2020-08-01 01:16:26,935] [DEBUG] Processing command: !check 1 2
+[2020-08-01 01:16:27,144] [INFO] <738882802405081128> WalBot#6054 -> @args2-5@ gg
+[2020-08-01 01:16:29,772] [INFO] <738882811062124594> sergeykrokodil#5538 -> !check
+[2020-08-01 01:16:29,773] [DEBUG] Processing command: !check
+[2020-08-01 01:16:30,293] [INFO] <738882814321098752> WalBot#6054 -> @args2-5@ gg
+[2020-08-01 01:16:32,453] [INFO] Saving of config is started
+[2020-08-01 01:16:32,475] [INFO] Saving of config is finished
+[2020-08-01 01:16:32,476] [INFO] Saving of secret config is started
+[2020-08-01 01:16:32,477] [INFO] Saving of secret config is finished
+[2020-08-01 01:16:32,477] [INFO] Saving of Markov module data is started
+[2020-08-01 01:16:32,480] [INFO] Saving of Markov module data is finished
+[2020-08-01 01:16:34,931] [INFO] <738882835078709268> sergeykrokodil#5538 -> !check 1 2 3 4 5
+[2020-08-01 01:16:34,931] [DEBUG] Processing command: !check 1 2 3 4 5
+[2020-08-01 01:16:35,261] [INFO] <738882836085342208> WalBot#6054 -> 2 3 4 5 gg
+[2020-08-01 01:16:39,436] [INFO] <738882853575721081> sergeykrokodil#5538 -> !check 1 2 3 4 5 6
+[2020-08-01 01:16:39,437] [DEBUG] Processing command: !check 1 2 3 4 5 6
+[2020-08-01 01:16:39,745] [INFO] <738882854796394576> WalBot#6054 -> 2 3 4 5 gg
+[2020-08-01 01:32:15,992] [INFO] Logging system is set up
+[2020-08-01 01:32:16,145] [INFO] Using fast YAML Loader
+[2020-08-01 01:32:16,145] [INFO] Using fast YAML Dumper
+[2020-08-01 01:32:16,293] [INFO] Markov model has passed all checks
+[2020-08-01 01:32:19,292] [INFO] Saving of config is started
+[2020-08-01 01:32:19,368] [INFO] Saving of config is finished
+[2020-08-01 01:32:19,418] [INFO] Saving of secret config is started
+[2020-08-01 01:32:19,426] [INFO] Saving of secret config is finished
+[2020-08-01 01:32:19,428] [INFO] Saving of Markov module data is started
+[2020-08-01 01:32:19,428] [INFO] Logged in as: WalBot 729351394926264390 (WalBot)
+[2020-08-01 01:32:19,436] [INFO] Saving of Markov module data is finished
+[2020-08-01 01:32:58,828] [INFO] <738886960814489693> sergeykrokodil#5538 -> !addcmd test @args5-10@
+[2020-08-01 01:32:58,829] [DEBUG] Processing command: !addcmd test @args5-10@
+[2020-08-01 01:32:59,119] [INFO] <738886962319982694> WalBot#6054 -> Command 'test' -> '@args5-10@' successfully added
+[2020-08-01 01:33:09,714] [INFO] <738887006637260880> sergeykrokodil#5538 -> !test 1 2 3 4 5
+[2020-08-01 01:33:09,715] [DEBUG] Processing command: !test 1 2 3 4 5
+[2020-08-01 01:33:10,000] [INFO] <738887007773786283> WalBot#6054 -> @args5-10@
+[2020-08-01 01:33:46,586] [INFO] <738887161130254357> sergeykrokodil#5538 -> !test 1 2 3 4 5 6 7 8 9 10
+[2020-08-01 01:33:46,587] [DEBUG] Processing command: !test 1 2 3 4 5 6 7 8 9 10
+[2020-08-01 01:33:46,889] [INFO] <738887162690404423> WalBot#6054 -> 5 6 7 8 9 10
+[2020-08-01 01:33:58,016] [INFO] <738887209016623177> sergeykrokodil#5538 -> !updcmd test @args5-1@
+[2020-08-01 01:33:58,018] [DEBUG] Processing command: !updcmd test @args5-1@
+[2020-08-01 01:33:58,206] [INFO] <738887210157211688> WalBot#6054 -> Command 'test' -> '@args5-1@' successfully updated
+[2020-08-01 01:34:07,044] [INFO] <738887247000240131> sergeykrokodil#5538 -> !test 1 2 3 4 5
+[2020-08-01 01:34:07,045] [DEBUG] Processing command: !test 1 2 3 4 5
+[2020-08-01 01:34:07,235] [INFO] <738887247658483763> WalBot#6054 -> @args5-1@
+[2020-08-01 01:34:13,771] [INFO] <738887275126980610> sergeykrokodil#5538 -> !test
+[2020-08-01 01:34:13,772] [DEBUG] Processing command: !test
+[2020-08-01 01:34:14,008] [INFO] <738887276150521987> WalBot#6054 -> @args5-1@
+[2020-08-01 01:34:16,465] [INFO] <738887286313451542> sergeykrokodil#5538 -> !test 1
+[2020-08-01 01:34:16,466] [DEBUG] Processing command: !test 1
+[2020-08-01 01:34:16,685] [INFO] <738887287626006598> WalBot#6054 -> @args5-1@
+[2020-08-01 01:34:26,467] [INFO] <738887328671727756> sergeykrokodil#5538 -> !updcmd @args5-5@
+[2020-08-01 01:34:26,467] [DEBUG] Processing command: !updcmd @args5-5@
+[2020-08-01 01:34:26,676] [INFO] <738887329237696533> WalBot#6054 -> Too few arguments for command 'updcmd'
+[2020-08-01 01:34:36,926] [INFO] <738887372413993051> sergeykrokodil#5538 -> !updcmd test @args5-5@
+[2020-08-01 01:34:36,926] [DEBUG] Processing command: !updcmd test @args5-5@
+[2020-08-01 01:34:37,183] [INFO] <738887373626146826> WalBot#6054 -> Command 'test' -> '@args5-5@' successfully updated
+[2020-08-01 01:34:41,358] [INFO] <738887390843633696> sergeykrokodil#5538 -> !test 1 2 3 4 5 6
+[2020-08-01 01:34:41,361] [DEBUG] Processing command: !test 1 2 3 4 5 6
+[2020-08-01 01:34:41,553] [INFO] <738887391741476965> WalBot#6054 -> 5
+[2020-08-01 01:34:44,960] [INFO] <738887406261895208> sergeykrokodil#5538 -> !test 1 2 3 4 5
+[2020-08-01 01:34:44,960] [DEBUG] Processing command: !test 1 2 3 4 5
+[2020-08-01 01:34:45,180] [INFO] <738887407159476231> WalBot#6054 -> 5
+[2020-08-01 01:34:49,149] [INFO] <738887423672713238> sergeykrokodil#5538 -> !test 1 2 3 4
+[2020-08-01 01:34:49,149] [DEBUG] Processing command: !test 1 2 3 4
+[2020-08-01 01:34:49,356] [INFO] <738887424691929088> WalBot#6054 -> @args5-5@
